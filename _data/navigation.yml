@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: <span style="color:rgb(199, 21, 133)"> "Publications"</span>
     url: /publications/
 
   - title: "Talks"
