@@ -1,16 +1,31 @@
 # main links links
 main:
-  - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> Publications</span>
+  # - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> Publications</span>
+  #   url: /publications/
+
+  # - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> Talks </span>
+  #   url: /talks/    
+
+  # - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> Teaching </span>
+  #   url: /teaching/    
+    
+  # - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> Research Interests </span>
+  #   url: /portfolio/
+    
+  # - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> CV </span>
+  #   url: /cv/
+
+  - title: Publications
     url: /publications/
 
-  - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> Talks </span>
+  - title: Talks
     url: /talks/    
 
-  - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> Teaching </span>
+  - title: Teaching
     url: /teaching/    
     
-  - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> Research Interests </span>
+  - title: Research Interests
     url: /portfolio/
     
-  - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> CV </span>
+  - title: CV 
     url: /cv/
