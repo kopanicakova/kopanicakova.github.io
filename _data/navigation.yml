@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: <span style="color:rgb(199, 21, 133, 1.0)";"font-weight:bolder"> Publications</span>
+  - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> Publications</span>
     url: /publications/
 
-  - title: <span style="color:rgb(199, 21, 133, 1.0)";"font-weight:bolder"> Talks </span>
+  - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> Talks </span>
     url: /talks/    
 
   - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> Teaching </span>
