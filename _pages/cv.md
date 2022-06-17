@@ -8,4 +8,6 @@ redirect_from:
 ---
 
 
-<object data="../files/cv_kopanicakova.pdf" width="1000" height="1000" type='application/pdf'></object>
+Current version of my CV can be found [here](../files/cv_kopanicakova.pdf). 
+
+<!-- <object data="../files/cv_kopanicakova.pdf" width="1000" height="1000" type='application/pdf'></object> -->
