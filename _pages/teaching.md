@@ -9,8 +9,8 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 
 
 ### <span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer)::</span>
-| solver_type | option                        |
-|-------------|-------------------------------|
-| ut_AM       | alternate minimization solver |
-| ut_SPIN     | spin                          |
-|             |                               |
+
+|     solver_type           |            description            |
+|---------------------------|-----------------------------------|
+| ut_alternate_minimization | Use alternate minimization solver.|
+| ut_SPIN     				| Use SPIN solver.                  |
