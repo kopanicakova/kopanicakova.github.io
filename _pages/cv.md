@@ -8,6 +8,4 @@ redirect_from:
 ---
 
 
-Current version of my CV can be found [here](../files/cv_kopanicakova.pdf). 
-
-<!-- <object data="../files/cv_kopanicakova.pdf" width="1000" height="1000" type='application/pdf'></object> -->
+Current version of my CV can be found <a href="../files/cv_kopanicakova.pdf" style="color:rgb(199, 21, 133,0.75);">here.</a>
