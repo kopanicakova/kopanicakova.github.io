@@ -24,7 +24,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 
 ### <span style="color:rgb(199, 21, 133)"> Co-supervised Bachelor theses (BSc in Informatics):</span>
 * 09/2021 – 02/2022 &emsp;&emsp; Stefano Gonçalves,  <em>Implementation of a hybrid data-parallel algorithm for neural network<br />
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; training with reduced communication targeted to GPU-based supercomputers </em>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; training with reduced communication targeted to GPU-based supercomputers </em>
 * 09/2020 – 07/2021 &emsp;&emsp; Filippo Cesana,  <em>Python Front-End for Utopia with Algorithmic Implementations Related to Financial Machine Learning </em>, together with Dr. P. Zulian (USI)
 
 
@@ -40,7 +40,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 
 
 ### <span style="color:rgb(199, 21, 133)"> Co-supervised student assistants/interns:</span>
-* 02/2022 – &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Marc Salvadó, <em>Multilevel methods and large-scale maximum inner product quantization</em>
+* 02/2022 – &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; Marc Salvadó, <em>Multilevel methods and large-scale maximum inner product quantization</em>
 * 07/2021 – 10/2021 &emsp;&emsp; Francesco Lacommare, <em>Multilevel variant of Adam optimizer</em>
 * 06/2020 – 10/2021 &emsp;&emsp; Filippo Cesana, <em>Python interface for UTOPIA</em>, together with Dr. P. Zulian (USI)
 * 06/2020 – 05/2021 &emsp;&emsp; Dylan Ramelli, <em>xSDK integration for UTOPIA</em>, together with Dr. P. Zulian (USI)
