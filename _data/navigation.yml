@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: <span style="color:rgb(199, 21, 133)">Publications</span>
+  - title: <span style="color:rgb(199, 21, 133, 1.0)";"font-weight:bolder"> Publications</span>
     url: /publications/
 
-  - title: <span style="color:rgb(199, 21, 133)"> Talks </span>
+  - title: <span style="color:rgb(199, 21, 133, 1.0)";"font-weight:bolder"> Talks </span>
     url: /talks/    
 
-  - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bold"> Teaching </span>
+  - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> Teaching </span>
     url: /teaching/    
     
-  - title: "Projects"
+  - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> Projects </span>
     url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
     
-  - title: "CV"
+  - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> CV </span>
     url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
