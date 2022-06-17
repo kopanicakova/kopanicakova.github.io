@@ -29,7 +29,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; Financial Machine Learning </em>, together with Dr. P. Zulian (USI)
 
 
-### <span style="color:rgb(199, 21, 133)"> Co-supervised Master theses (MSc in Computational Science/Mathematics):</span>
+### <span style="color:rgb(199, 21, 133)"> Co-supervised Master theses (MSc in Mathematics/Computational Science):</span>
 * 09/2021 – 03/2022 &emsp;&emsp; Andrea Angino, <em>Knight descent - a parallel stochastic method for non-linear optimization<br />
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; problems</em>, together with Prof. M. Donatelli (Insubria, Como, Italy)
 * 09/2019 – 09/2020 &emsp;&emsp; Samuel Cruz, <em>Learning multilevel hierarchies</em>
