@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<span style="color:rgb(199, 21, 133)"> Publications in peer-reviewed scientific journals:</span><br />
+<span style="color:rgb(199, 21, 133)"> #####Publications in peer-reviewed scientific journals:</span><br />
 [J1] **A. Kopaničáková**, H. Kothari, and R. Krause. Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture. Under review in Computer Methods in Applied Mechanics and Engineering, 2022. <a href="https://arxiv.org/abs/2203.13738" style="color:rgb(199, 21, 133,0.75);">Link to preprint.</a> <br />
 [J2] **A. Kopaničáková** and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. Accepted for publication in SIAM Journal on Scientific Computing, 2022. <a href="https://arxiv.org/abs/2107.07572" style="color:rgb(199, 21, 133,0.75);">Link to preprint.</a> <br />
 [J3] P. Zulian\*, **A. Kopaničáková\***, M. G. C. Nestola, N. Fadel, A. Fink, J. VandeVondele, and R. Krause. Large scale simulation of pressure induced phase-field fracture propagation using Utopia. CCF Transactions on High Performance Computing, 2021. **(\* Equal contribution)**. <a href="https://doi.org/10.1007/s42514-021-00069-6" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
