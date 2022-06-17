@@ -24,7 +24,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 
 ### <span style="color:rgb(199, 21, 133)"> Co-supervised Bachelor theses (BSc in Informatics):</span>
 * 09/2021 – 02/2022 &emsp;&emsp; Stefano Gonçalves,  <em>Implementation of a hybrid data-parallel algorithm for neural network<br />
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; training with reduced communication targeted to GPU-based supercomputers </em>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; training with reduced communication targeted to GPU-based supercomputers </em>
 * 09/2020 – 07/2021 &emsp;&emsp; Filippo Cesana,  <em>Python Front-End for Utopia with Algorithmic Implementations Related to Financial Machine Learning </em>, together with Dr. P. Zulian (USI)
 
 
