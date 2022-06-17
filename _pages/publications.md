@@ -31,5 +31,5 @@ author_profile: true
 
 
 <span style="color:rgb(199, 21, 133)"> PhD thesis:</span><br />
-[PT1] **A. Kopaničáková**. Multilevel minimization in trust-region framework - Algorithmic and software Thesis: developments. USI, 2020. <a href="https://doc.rero.ch/record/330121/files/2020INFO021.pdf" style="color:rgb(199, 21, 133);">Accepted, Link to document.</a> <br />
+[PT1] **A. Kopaničáková**. Multilevel minimization in trust-region framework - Algorithmic and software developments. USI, 2020. <a href="https://doc.rero.ch/record/330121/files/2020INFO021.pdf" style="color:rgb(199, 21, 133);">Accepted, Link to document.</a> <br />
 
