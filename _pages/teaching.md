@@ -15,11 +15,13 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 ### <span style="color:rgb(199, 21, 133)"> Lecture list (teaching assistant):</span>
 * 02/2019 – 07/2019 <space><space><space><space> Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.)
 * 09/2018 – 01/2019 <space><space><space><space> Calculus (BSc)
-* 08/2018 			<space><space><space><space> Functional and Numerical Analysis (MSc/Ph.D.)
+* 08/2018 	&emsp;&emsp; Functional and Numerical Analysis (MSc/Ph.D.)
 * 02/2018 – 07/2018 <space><space><space><space> Multiscale methods (MSc/Ph.D.)
 * 02/2017 – 07/2017 <space><space><space><space> Optimization methods (BSc)
 * 09/2016 – 01/2017 <space><space><space><space> Enterprise Resource Planning (MSc)
 
 
 
-
+### <span style="color:rgb(199, 21, 133)"> Co-supervised Bachelor theses (BSc in Informatics):</span>
+* 09/2021 – 02/2022 <space><space><space><space> Stefano Gonçalves, _Implementation of a hybrid data-parallel algorithm for neural network training with reduced communication targeted to GPU-based supercomputers_
+* 09/2020 – 07/2021 <space><space><space><space> Filippo Cesana, _Python Front-End for Utopia with Algorithmic Implementations Related to Financial Machine Learning_, together with Dr. P. Zulian (USI)
