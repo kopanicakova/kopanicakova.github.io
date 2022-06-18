@@ -30,7 +30,7 @@ Predicting damage and crack propagation is a long-lasting challenge in computati
 
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
-<span style="font-size: 12px">
+<span style="font-size: 12px", align="justify">
 [1] A. Kopaničáková, H. Kothari, and R. Krause. Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture. <br />
 [2] P. Zulian\*, A. Kopaničáková\*, M.Nestola, N. Fadel, A. Fink, J. VandeVondele, and R. Krause. Large scale simulation of pressure induced phase-field fracture propagation using Utopia.<br />
 [3] C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A detailed investigation of the model influencing parameters of the phase-field fracture approach.<br />
