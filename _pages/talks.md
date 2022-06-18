@@ -17,7 +17,7 @@ in the group of Prof. M. Jaggi, 2020<br />
 [T5] **A. Kopaničáková** and R. Krause. A large scale phase-field fracture simulations. The Platform for Advanced Scientific Computing (PASC) Conference, 2021<br />
 [T6] **A. Kopaničáková** and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. 20th Copper Mountain Conference On Multigrid Methods, 2021<br />
 [T7] **A. Kopaničáková** and R. Krause. Multilevel training of deep residual networks. 26th International Domain Decomposition Conference, (DDXXVI), 2020<br />
-[T8] **A. Kopaničáková** and R. Krause. A recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture. The US National Congress on Computational Mechanics (USNCCM 15), 2019
+[T8] **A. Kopaničáková** and R. Krause. A recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture. The US National Congress on Computational Mechanics (USNCCM 15), 2019<br />
 [T9] **A. Kopaničáková**, R. Krause, and R. Tamstorf. Subdivision-based nonlinear multiscale cloth simulation. Eccomas Thematic Conference on eXtended Discretization MethodS (X-DMS), 2019<br />
 [T10] **A. Kopaničáková** and R. Krause. Recursive multilevel trust region strategy with application to phase-field fracture. The 13th World Congress in Computational Mechanics (WCCMXIII), 2018<br />
 [T11] **A. Kopaničáková**, R. Krause, and R. Tamstorf. Subdivision-based nonlinear multiscale cloth simulations. Copper Mountain Conference On Iterative Methods, 2018<br />
