@@ -42,7 +42,14 @@ author_profile: true
 
 ## <span style="color:rgb(199, 21, 133)"> Multilevel training methods</span>
 <center><img src="/images/resnet1.png" alt="centered image" height="657" width="437"> &emsp;&emsp;&emsp;&emsp;  <img src="/images/resnet2.png" alt="centered image" height="657" width="437"> </center>
-<div style="text-align: justify">Originally, the multilevel methods have been designed for elliptic partial differential equations. Their applicability to non-convex optimization problems was extended by utilizing the trust-region globalization strategy, giving rise to recursive multilevel trust-region methods (RMTR) [Gratton et al. ’08]. I have contributed to the development of RMTR methods by proposing several novel variants that take into account the structure of the underlying optimization problem in order to construct multilevel hierarchy and transfer operators. These methods are unique as they allow for the solution of complex non-convex minimization problems with multigrid efficiency. Moreover, they are also provably globally convergent, thus guaranteeing the success of the nonlinear iteration process.</div>
+<div style="text-align: justify">
+Despite their remarkable predictive ability, deep neural networks suffer from a computationally exhaustive training phase, which limits their applicability and hinders their development. 
+During the training phase, the parameters of the network are determined by minimizing a highly non-convex loss functional. 
+My research objective is to enhance the training process by leveraging ideas from multilevel minimization/ 
+The ongoing developments explore two complementary approaches for constructing multilevel hierarchy and transfer operators required by the nonlinear multilevel methods.
+The first approach is tailored for the finite-sum optimization problems and constructs a multilevel- hierarchy by coarsening in a number of samples, while the number of parameters is kept fixed.
+The second approach considers coarsening in parameter space. A particular focus is given to ODE-based network architectures, the structure of which can be explored to construct the multilevel hierarchy and transfer operators. 
+The devised training methods achieve a significant reduction of computational cost for various classification and regression tasks, compared to standard single-level optimizers. Additionally, the methods typically exhibit lower sensitivity to the choice of the initial guess.
 
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
