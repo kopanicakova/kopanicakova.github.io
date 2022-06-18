@@ -32,7 +32,7 @@ author_profile: true
 <span style="font-size: 12px">
 [1] A. Kopaničáková, H. Kothari, and R. Krause. Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture. <br />
 [2] C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A phase-field approach to pneumatic fracture. <br />	
-[3] P. Zulian\*, A. Kopaničáková\*, et al. Large scale simulation of pressure induced phase-field fracture propagation using Utopia.<br />
+[3] P. Zulian\*, A. Kopaničáková\* et al. Large scale simulation of pressure induced phase-field fracture propagation using Utopia.<br />
 [4] C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A detailed investigation of the model influencing parameters of the phase-field fracture approach.<br />
 [5] A. Kopaničáková and R. Krause. Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture. <br />
 [6] C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A phase-field approach to conchoidal fracture. <br />
