@@ -18,7 +18,7 @@ Originally, the multilevel methods have been designed for elliptic partial diffe
 </p>
 </div>
 
-##### <span style="color:rgb(199, 21, 133, 0.75)"> Related references: </span>
+<span style="color:rgb(199, 21, 133, 0.75); font-size: 12px"> Related references: </span>
 <span style="font-size: 12px">
 [1] A. Kopaničáková and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. <br />
 [2] F. Chegini, A. Kopaničáková, R. Krause, and M. Weiser. Efficient identification of scars using heterogeneous model hierarchies. <br />
