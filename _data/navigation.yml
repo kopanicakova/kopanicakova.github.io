@@ -14,6 +14,9 @@ main:
     
   # - title: <span style="color:rgb(199, 21, 133, 0.75)";"font-weight:bolder"> CV </span>
   #   url: /cv/
+  
+  - title: Research Interests
+    url: /portfolio/
 
   - title: Publications
     url: /publications/
@@ -23,9 +26,6 @@ main:
 
   - title: Teaching
     url: /teaching/    
-    
-  - title: Research Interests
-    url: /portfolio/
     
   - title: CV 
     url: /cv/
