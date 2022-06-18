@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-## <span style="color:rgb(199, 21, 133)"> Multilevel trust-region methods:</span>
+## <span style="color:rgb(199, 21, 133)"> Multilevel trust-region methods</span>
 <div style="display:inline-block;vertical-align:top;">
 <img src="/images/rmtr.png" alt="img"/>
 </div>
