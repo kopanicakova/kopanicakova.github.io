@@ -15,3 +15,10 @@ Originally, the multilevel methods have been designed for elliptic partial diffe
 </p>
 </div>
 
+## <span style="color:rgb(199, 21, 133, 0.75)"> Related references: </span>
+<span style="font-size: 10px">
+[J2] **A. Kopaničáková** and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. Accepted for publication in SIAM Journal on Scientific Computing, 2022. <br />
+[J4] F. Chegini, **A. Kopaničáková**, R. Krause, and M. Weiser. Efficient identification of scars using heterogeneous model hierarchies. EP Europace, 23(Supplement 1):i113–i122, 2021.<br />
+[J6] **A. Kopaničáková** and R. Krause. Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture. Computer Methods in Applied Mechanics and Engineering, 360:112720, 2020. <br />
+[J7] **A. Kopaničáková**, R. Krause, and R. Tamstorf. Subdivision-based nonlinear multiscale cloth simulation. SIAM Journal on Scientific Computing, 41(5):S433–S461, 2019. <br />
+</span>>
