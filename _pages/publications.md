@@ -12,8 +12,7 @@ author_profile: true
 <div>
   The following image works as a link:<br>
   <a href="https://www.qries.com/">
-     <img alt="Qries" src="/images/rmtr.png"
-     width=150" height="70">
+     <img src="/images/rmtr.png" width="150" height="70">
   </a>
 </div>
 
