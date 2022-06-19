@@ -15,7 +15,7 @@ author_profile: true
 <body>
   The following image works as a link:<br>
   <a href="https://www.qries.com/">
-     <img alt="Qries" src="images/rmtr.png"
+     <img alt="Qries" src="../images/rmtr.png"
      width=150" height="70">
   </a>
 </body>
