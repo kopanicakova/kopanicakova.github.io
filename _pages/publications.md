@@ -16,7 +16,7 @@ author_profile: true
      <!-- <img src="/images/rmtr.png" width="300" height="150"> -->
      <img src="/images/rmtr.png" style="width:30%">
   </a>
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+  <figcaption>Fig.1 - Trulli, Puglia, Italy. Let .. .dsd Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture.</figcaption>
   </figure>
 </div>
 
