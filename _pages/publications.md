@@ -8,6 +8,19 @@ author_profile: true
 
 ### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span>
 [J1] **A. Kopaničáková**, H. Kothari, and R. Krause. Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture. Under review in Computer Methods in Applied Mechanics and Engineering, 2022. <a href="https://arxiv.org/abs/2203.13738" style="color:rgb(199, 21, 133,0.75);">Link to preprint.</a> <br />
+
+<head>
+  <title>HTML Image as link</title>
+</head>
+<body>
+  The following image works as a link:<br>
+  <a href="https://www.qries.com/">
+     <img alt="Qries" src="images/rmtr.png"
+     width=150" height="70">
+  </a>
+</body>
+
+
 [J2] **A. Kopaničáková** and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. Accepted for publication in SIAM Journal on Scientific Computing, 2022. <a href="https://arxiv.org/abs/2107.07572" style="color:rgb(199, 21, 133,0.75);">Link to preprint.</a> <br />
 [J3] P. Zulian\*, **A. Kopaničáková\***, M. G. C. Nestola, N. Fadel, A. Fink, J. VandeVondele, and R. Krause. Large scale simulation of pressure induced phase-field fracture propagation using Utopia. CCF Transactions on High Performance Computing, 2021. **(\* Equal contribution)**. <a href="https://doi.org/10.1007/s42514-021-00069-6" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
 [J4] F. Chegini, **A. Kopaničáková**, R. Krause, and M. Weiser. Efficient identification of scars using heterogeneous model hierarchies. EP Europace, 23(Supplement 1):i113–i122, 2021. <a href="https://academic.oup.com/europace/article-abstract/23/Supplement_1/i113/6158564?redirectedFrom=fulltextf" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
