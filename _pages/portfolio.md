@@ -47,7 +47,7 @@ Deep neural networks (DNNs) suffer from a computationally exhaustive training ph
 During the training phase, the parameters of the network are determined by minimizing a highly non-convex loss functional. 
 My research objective is to enhance the training of DNNs by leveraging multilevel minimization techniques.
 The ongoing developments explore two complementary approaches for the construction of the multilevel hierarchy and transfer operators.
-The first approach is tailored for the finite-sum optimization problems and constructs a multilevel- hierarchy by coarsening in a number of samples, while the number of parameters is kept fixed.
+The first approach is tailored for the finite-sum optimization problems and constructs a multilevel hierarchy by coarsening in a number of samples, while the number of parameters is kept fixed.
 The second approach considers coarsening in parameter space. A particular focus is given to ODE-based network architectures, the structure of which can be explored to construct the multilevel hierarchy and transfer operators. 
 The devised training methods achieve a significant reduction of computational cost for various classification and regression tasks, compared to standard single-level optimizers. Additionally, the methods typically exhibit lower sensitivity to the choice of the initial guess. </div>
 
