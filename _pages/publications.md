@@ -9,17 +9,17 @@ author_profile: true
 ### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span>
 [J1] **A. Kopaničáková**, H. Kothari, and R. Krause. Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture. Under review in Computer Methods in Applied Mechanics and Engineering, 2022. <a href="https://arxiv.org/abs/2203.13738" style="color:rgb(199, 21, 133,0.75);">Link to preprint.</a> <br />
 
-<div>
+
+<body style="width:30%">
   Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture.<br>
   <figure>
   <a href="https://www.qries.com/">
      <!-- <img src="/images/rmtr.png" width="300" height="150"> -->
-     <img src="/images/rmtr.png" style="width:30%">
+     <img src="/images/rmtr.png">
   </a>
   <figcaption>Fig.1 - Trulli, Puglia, Italy. Let .. .dsd Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture.</figcaption>
   </figure>
-</div>
-
+</body>
 
 
 [J2] **A. Kopaničáková** and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. Accepted for publication in SIAM Journal on Scientific Computing, 2022. <a href="https://arxiv.org/abs/2107.07572" style="color:rgb(199, 21, 133,0.75);">Link to preprint.</a> <br />
