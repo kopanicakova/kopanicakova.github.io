@@ -8,13 +8,14 @@ author_profile: true
 ### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span>
 [J1] **A. Kopaničáková**, H. Kothari, and R. Krause. Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture. Under review in Computer Methods in Applied Mechanics and Engineering, 2022. <a href="https://arxiv.org/abs/2203.13738" style="color:rgb(199, 21, 133,0.75);">Link to preprint.</a> <br />
 
-
 <div style="width:30%">
   <figure>
-  <a href="/publication/pf_spin.html">
-     <img src="/images/rmtr.png">
+  <a href="/publication/pf_spin">
+     <img src="/images/pf_spin.png">
   </a>
-  <figcaption>**A. Kopaničáková**, H. Kothari, and R. Krause. Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture. Under review in Computer Methods in Applied Mechanics and Engineering, 2022. <a href="https://arxiv.org/abs/2203.13738" style="color:rgb(199, 21, 133,0.75);">Link to preprint.</a></figcaption>
+  <figcaption>A. Kopaničáková, H. Kothari, and R. Krause. Nonlinear Field-split. <br/> 
+  <b>Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture.</b> <br/> 
+  Under review in Computer Methods in Applied Mechanics and Engineering, 2022. </figcaption>
   </figure>
 </div>
 

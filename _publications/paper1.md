@@ -7,7 +7,6 @@ permalink: /publication/pf_spin
 ---
 
 ## <span style="color:rgb(199, 21, 133)"> Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture.</span>
-<!-- <center><img src="/images/rmtr.png" alt="centered image" height="657" width="437"> &emsp; &emsp; &emsp; &emsp; &emsp;  <img src="/images/rmtr2.png" alt="centered image" height="657" width="437"> </center> -->
 <div style="text-align: justify">One of the state-of-the-art strategies for predicting crack propagation, nucleation, and interaction is the phase-field approach.
 Despite its reliability and robustness, the phase-field approach suffers from burdensome computational cost, caused by the non-convexity of the underlying energy functional and a large number of unknowns required to resolve the damage gradients.
 In this work, we propose to solve such nonlinear systems in a monolithic manner using the Schwarz preconditioned inexact Newton's (SPIN) method.
