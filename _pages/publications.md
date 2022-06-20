@@ -32,21 +32,23 @@ author_profile: true
 <head>
 <title>Grid Example</title>
 <style>
-/*<link rel="stylesheet" href="index.css">*/
 #wrapper {
-    border: 1px solid blue;
+    /*border: 1px solid blue;*/
 }
 #div1 {
     display: inline-block;
     width:120px;
-    height:120px;
-    border: 1px solid red;
+    /*height:120px;*/
 }
 #div2 {
     display: inline-block;
-    width:160px;
-    height:160px;
-    border: 1px solid green;
+    width:120px;
+    /*height:160px;*/
+}
+#div3 {
+    display: inline-block;
+    width:120px;
+    /*height:160px;*/
 }
 </style>
 </head>
@@ -54,6 +56,7 @@ author_profile: true
 <div id="wrapper">
     <div id="div1">The two divs are</div>
     <div id="div2">next to each other.</div>
+    <div id="div3">NEXt to each other.</div>
 </div>
 </body>
 
