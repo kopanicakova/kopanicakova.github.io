@@ -10,6 +10,7 @@ author_profile: true
 <!-- <title>Grid Example</title> -->
 <style>
 #wrapper {
+	 display: flex;
 }
 #div_paper {
     display: inline-block;
