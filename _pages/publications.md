@@ -9,6 +9,9 @@ author_profile: true
 <head>
 <!-- <title>Grid Example</title> -->
 <style>
+#wrapper_top {
+	 display: flex;
+}
 #wrapper {
 	 display: flex;
 }
@@ -25,7 +28,7 @@ author_profile: true
 </style>
 </head>
 <body>	
-<div id="wrapper">
+<div id="wrapper_top">
     <div id="div_paper">  
     	<figure>
   <a href="/publication/pf_spin">
