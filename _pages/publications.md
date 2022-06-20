@@ -55,7 +55,7 @@ author_profile: true
   CCF Transactions on High Performance Computing, 2021. </figcaption>
   </figure></div>  
 </div><br/>
-<!-- next row -->
+<!-- row 2-->
 <div id="wrapper">
     <div id="div_paper">  
     	<figure>
@@ -85,15 +85,42 @@ author_profile: true
   Computer Methods in Applied Mechanics and Engineering, 360:112720, 2020. </figcaption>
   </figure></div>  
 </div><br/>
+<!-- row 3-->
+<div id="wrapper">
+    <div id="div_paper">  
+    	<figure>
+  <a href="/publication/rmtr_cloth">
+     <img src="/images/rmtr_cloth.png">
+  </a>
+  <figcaption>A. Kopaničáková, R. Krause, and R. Tamstorf.
+  <b> SIAM Journal on Scientific Computing, 41(5):S433–S461, 2019. </figcaption>
+  </figure></div>
+  <div id="div_space"></div>
+  <div id="div_paper"><figure>
+  <a href="/publication/pf_params">
+     <img src="/images/pf_params.png">
+  </a>
+  <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
+  <b>A detailed investigation of the model influencing parameters of the phase-field fracture approach.</b> 
+  GAMM-Mitteilungen, 43(2):e202000005, 2020. </figcaption>
+  </figure></div>
+<div id="div_space"></div>
+  <div id="div_paper"><figure>
+<!--   <a href="/publication/rmtr_pf">
+     <img src="/images/rmtr_pf.png">
+  </a>
+  <figcaption>A. Kopaničáková, and R. Krause.
+  <b> Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture.</b> 
+  Computer Methods in Applied Mechanics and Engineering, 360:112720, 2020. </figcaption>
+  </figure> -->
+</div>  
+</div><br/>
 </body>
 
 
 
 <!-- 
 
-[J6] **A. Kopaničáková** and R. Krause. Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture. Computer Methods in Applied Mechanics and Engineering, 360:112720, 2020. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782519306085" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
-
-[J7] **A. Kopaničáková**, R. Krause, and R. Tamstorf. Subdivision-based nonlinear multiscale cloth simulation. SIAM Journal on Scientific Computing, 41(5):S433–S461, 2019. <a href="https://locus.siam.org/doi/abs/10.1137/18M1194870" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
 [J8] C. Bilgen, **A. Kopaničáková**, R. Krause, and K. Weinberg. A phase-field approach to conchoidal fracture. Meccanica, pages 1–17, 2017. <a href="https://link.springer.com/content/pdf/10.1007/s11012-017-0740-z.pdf" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
 
 ### <span style="color:rgb(199, 21, 133)"> Publications in peer-reviewed conference proceedings:</span>
