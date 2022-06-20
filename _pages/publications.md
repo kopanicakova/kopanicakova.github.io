@@ -17,7 +17,6 @@ author_profile: true
   Under review in Computer Methods in Applied Mechanics and Engineering, 2022. </figcaption>
   </figure>
 </div>
-
 <div style="width:30%">
   <figure>
   <a href="/publication/rmtr_resnet">
