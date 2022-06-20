@@ -6,7 +6,7 @@ collection: publications
 permalink: /publication/rmtr_electrocardio1
 ---
 
-## <span style="color:rgb(199, 21, 133)"> Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture.</span>
+## <span style="color:rgb(199, 21, 133)"> Efficient identification of scars using heterogeneous model hierarchies. </span>
 <div style="text-align: justify">Detection and quantification of myocardial scars are helpful for diagnosis of heart diseases and for personalized simulation models. Scar tissue is generally characterized by a different conduction of excitation. We aim at estimating conductivity-related parameters from endocardial mapping data. Solving this inverse problem requires computationally expensive monodomain simulations on fine discretizations. We aim at accelerating the estimation by combining electrophysiology models of different complexity.
 
 Distributed parameter estimation is performed by minimizing the misfit between simulated and measured electrical activity on the endocardial surface, subject to the monodomain model and regularization. We formulate this optimization problem, including the modelling of scar tissue and different regularizations, and design an efficient solver. We consider grid hierarchies and monodomain–eikonal model hierarchies in a recursive multilevel trust-region

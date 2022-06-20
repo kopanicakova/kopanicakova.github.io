@@ -8,9 +8,10 @@ author_profile: true
 ### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span>
 
 <head>
-<title>Grid Example</title>
+<!-- <title>Grid Example</title> -->
 <style>
 #wrapper {
+	height:200px;
 }
 #div_paper {
     display: inline-block;
@@ -61,7 +62,7 @@ author_profile: true
   <a href="/publication/rmtr_electrocardio1">
      <img src="/images/rmtr_electrocardio1.png">
   </a>
-  <figcaption>Chegini, **A. Kopaničáková**, R. Krause, and M. Weiser. 
+  <figcaption>Chegini, A. Kopaničáková, R. Krause, and M. Weiser. 
   <b>Efficient identification of scars using heterogeneous model hierarchies.</b> 
   EP Europace, 23(Supplement 1):i113–i122, 2021. </figcaption>
   </figure></div>
