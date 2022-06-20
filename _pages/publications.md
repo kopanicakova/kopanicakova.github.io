@@ -11,6 +11,10 @@ author_profile: true
 <style>
 #wrapper {
 }
+#section_title {
+	height:20px;
+	color:rgb(199, 21, 133);
+}
 #div_paper {
     display: inline-block;
     width:30%;
@@ -24,9 +28,10 @@ author_profile: true
 </style>
 </head>
 <body>	
-<!-- <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span><br /> -->
+<div id="section_title">	
+Publications in peer-reviewed scientific journals:
+</div>
 <div id="wrapper">
-<span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span>
     <div id="div_paper">  
     	<figure>
   <a href="/publication/pf_spin">
