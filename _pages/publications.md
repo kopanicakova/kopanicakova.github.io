@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 ### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span>
 [J1] **A. Kopaničáková**, H. Kothari, and R. Krause. Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture. Under review in Computer Methods in Applied Mechanics and Engineering, 2022. <a href="https://arxiv.org/abs/2203.13738" style="color:rgb(199, 21, 133,0.75);">Link to preprint.</a> <br />
 
