@@ -31,6 +31,7 @@ author_profile: true
 
 <head>
 <title>Grid Example</title>
+<link rel="stylesheet" href="index.css" />
 <style>
 </style>
 </head>
