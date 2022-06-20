@@ -36,16 +36,18 @@ author_profile: true
 }
 #div1 {
     display: inline-block;
-    width:30%;
+    width:40%;
+    height:200px;
 }
 #div2 {
     display: inline-block;
-    width:30%;
-    /*height:160px;*/
+    width:20%;
+    height:200px;
 }
 #div3 {
     display: inline-block;
-    width:30%;
+    width:40%;
+    height:200px;
 }
 </style>
 </head>
@@ -60,7 +62,8 @@ author_profile: true
   <b>Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture.</b> 
   Under review in Computer Methods in Applied Mechanics and Engineering, 2022. </figcaption>
   </figure></div>
-    <div id="div2"><figure>
+  <div id="div2"></div>
+  <div id="div3"><figure>
   <a href="/publication/rmtr_resnet">
      <img src="/images/rmtr_resnet.png">
   </a>
@@ -68,7 +71,6 @@ author_profile: true
   <b>Globally Convergent Multilevel Training of Deep Residual Networks.</b> 
   Accepted for publication in SIAM Journal on Scientific Computing, 2022. </figcaption>
   </figure></div>
-    <div id="div3">NEXt to each other.</div>
 </div>
 </body>
 
