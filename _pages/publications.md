@@ -119,6 +119,38 @@ author_profile: true
   </figure>
 </div>  
 </div><br/>
+<!-- row 4-->
+<div id="wrapper">
+    <div id="div_paper">  
+    	<figure>
+  <a href="/publication/rmtr_electrocardio2">
+     <img src="/images/rmtr_electrocardio2.png">
+  </a>
+  <figcaption>F. Chegini, A. Kopaničáková, M. Weiser, and R. Krause. 
+  <b> Quantitative analysis of nonlinear multifidelity optimization for inverse electrophysiology.</b>
+  In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted.  </figcaption>
+  </figure></div>
+  <div id="div_space"></div>
+  <div id="div_paper"><figure>
+  <a href="/publication/conchoidal_frac">
+     <img src="/images/conchoidal_frac.png">
+  </a>
+  <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
+  <b>A phase-field approach to conchoidal fracture.</b> 
+  Meccanica, pages 1–17, 2017. </figcaption>
+  </figure></div>
+<div id="div_space"></div>
+  <div id="div_paper">
+  	<figure>
+  <a href="/publication/pneum_frac">
+     <img src="/images/pneum_frac.png">
+  </a>
+  <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
+  <b> A phase-field approach to pneumatic fracture.</b> 
+  Non-standard Discretisation Methods in Solid Mechanics,pages 217–241,2022. </figcaption>
+  </figure>
+</div>  
+</div><br/>
 </body>
 
 
