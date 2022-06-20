@@ -36,7 +36,7 @@ author_profile: true
   </a>
   <figcaption>A. Kopaničáková, H. Kothari, and R. Krause. 
   <b>Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture.</b> 
-<!--   Under review in Computer Methods in Applied Mechanics and Engineering, 2022.  -->
+  Under review in Computer Methods in Applied Mechanics and Engineering, 2022. 
  </figcaption>
   </figure></div>
   <div id="div_space"></div>
@@ -46,7 +46,7 @@ author_profile: true
   </a>
   <figcaption>A. Kopaničáková, and R. Krause. 
   <b>Globally Convergent Multilevel Training of Deep Residual Networks.</b> 
-<!--   Accepted for publication in SIAM Journal on Scientific Computing, 2022.  -->
+  Accepted for publication in SIAM Journal on Scientific Computing, 2022. 
 </figcaption>
   </figure></div>
 <div id="div_space"></div>
@@ -56,7 +56,7 @@ author_profile: true
   </a>
   <figcaption>P. Zulian*, A. Kopaničáková*, M. Nestola, N. Fadel, A. Fink, J. VandeVondele, and R. Krause.
   <b>Large scale simulation of pressure induced phase-field fracture propagation using Utopia.</b> 
-  <!-- CCF Transactions on High Performance Computing, 2021. -->
+  CCF Transactions on High Performance Computing, 2021.
    </figcaption>
   </figure></div>  
 </div><br/>
@@ -69,7 +69,7 @@ author_profile: true
   </a>
   <figcaption>Chegini, A. Kopaničáková, R. Krause, and M. Weiser. 
   <b>Efficient identification of scars using heterogeneous model hierarchies.</b> 
-<!--   EP Europace, 23(Supplement 1):i113–i122, 2021.  -->
+  EP Europace, 23(Supplement 1):i113–i122, 2021. 
 </figcaption>
   </figure></div>
   <div id="div_space"></div>
@@ -79,7 +79,7 @@ author_profile: true
   </a>
   <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
   <b>A detailed investigation of the model influencing parameters of the phase-field fracture approach.</b> 
-<!--   GAMM-Mitteilungen, 43(2):e202000005, 2020.  -->
+  GAMM-Mitteilungen, 43(2):e202000005, 2020. 
 </figcaption>
   </figure></div>
 <div id="div_space"></div>
@@ -89,7 +89,7 @@ author_profile: true
   </a>
   <figcaption>A. Kopaničáková, and R. Krause.
   <b> Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture.</b> 
-<!--   Computer Methods in Applied Mechanics and Engineering, 360:112720, 2020.  -->
+  Computer Methods in Applied Mechanics and Engineering, 360:112720, 2020. 
 </figcaption>
   </figure></div>  
 </div><br/>
@@ -102,7 +102,7 @@ author_profile: true
   </a>
   <figcaption>A. Kopaničáková, R. Krause, and R. Tamstorf.
   <b> Subdivision-based nonlinear multiscale cloth simulation.</b>
-<!--   SIAM Journal on Scientific Computing, 41(5):S433–S461, 2019.   -->
+  SIAM Journal on Scientific Computing, 41(5):S433–S461, 2019.  
 </figcaption>
   </figure></div>
   <div id="div_space"></div>
@@ -112,7 +112,7 @@ author_profile: true
   </a>
   <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
   <b>A phase-field approach to conchoidal fracture.</b> 
-<!--   Meccanica, pages 1–17, 2017.  -->
+  Meccanica, pages 1–17, 2017. 
 </figcaption>
   </figure></div>
 <div id="div_space"></div>
@@ -123,7 +123,7 @@ author_profile: true
   </a>
   <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
   <b> A phase-field approach to pneumatic fracture.</b> 
-<!--   Non-standard Discretisation Methods in Solid Mechanics,pages 217–241,2022.  -->
+  Non-standard Discretisation Methods in Solid Mechanics,pages 217–241,2022. 
 </figcaption>
   </figure>
 </div>  
@@ -137,7 +137,7 @@ author_profile: true
   </a>
   <figcaption>F. Chegini, A. Kopaničáková, M. Weiser, and R. Krause. 
   <b> Quantitative analysis of nonlinear multifidelity optimization for inverse electrophysiology.</b>
-<!--   In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted.   -->
+  In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted.  
 </figcaption>
   </figure></div>
   <div id="div_space"></div>
@@ -147,7 +147,7 @@ author_profile: true
   </a>
   <figcaption>A. Kopaničáková, and R. Krause.
   <b>Multilevel Active-Set Trust-Region (MASTR) Method for Bound Constrained Minimization.</b> 
-  <!-- In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted. -->
+  In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted.
    </figcaption>
   </figure></div>
 <div id="div_space"></div>
@@ -158,7 +158,7 @@ author_profile: true
   </a>
   <figcaption>H. Kothari, A. Kopaničáková, and R. Krause.
   <b> A Matrix-free Multigrid Preconditioner for Jacobian-free Newton-Krylov Methods.</b> 
-<!--   In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted.  -->
+  In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted. 
 </figcaption>
   </figure>
 </div>  
