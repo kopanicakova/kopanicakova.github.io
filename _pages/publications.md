@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!-- ### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span> -->
 <head>
 <!-- <title>Grid Example</title> -->
 <style>
@@ -22,8 +23,8 @@ author_profile: true
 }
 </style>
 </head>
-<body>
-### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span>	
+<body>	
+<span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span><br />
 <div id="wrapper">
     <div id="div_paper">  
     	<figure>
@@ -75,12 +76,12 @@ author_profile: true
   </figure></div>
 <div id="div_space"></div>
   <div id="div_paper"><figure>
-  <a href="/publication/pf_utopia">
-     <img src="/images/pf_utopia.png">
+  <a href="/publication/rmtr_pf">
+     <img src="/images/rmtr_pf.png">
   </a>
-  <figcaption>P. Zulian*, A. Kopaničáková*, M. G. C. Nestola, N. Fadel, A. Fink, J. VandeVondele, and R. Krause.
-  <b>Large scale simulation of pressure induced phase-field fracture propagation using Utopia.</b> 
-  CCF Transactions on High Performance Computing, 2021. </figcaption>
+  <figcaption>A. Kopaničáková, and R. Krause.
+  <b> Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture.</b> 
+  Computer Methods in Applied Mechanics and Engineering, 360:112720, 2020. </figcaption>
   </figure></div>  
 </div><br/>
 </body>
@@ -88,9 +89,6 @@ author_profile: true
 
 
 <!-- 
-
-[J5] C. Bilgen, **A. Kopaničáková**, R. Krause, and K. Weinberg. A detailed investigation of the model influencing parameters of the phase-field fracture approach. GAMM-Mitteilungen, 43(2):e202000005, 2020. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/gamm.202000005" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
-
 
 [J6] **A. Kopaničáková** and R. Krause. Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture. Computer Methods in Applied Mechanics and Engineering, 360:112720, 2020. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782519306085" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
 
