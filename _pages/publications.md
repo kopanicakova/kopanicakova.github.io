@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### <span style="color:rgb(199, 21, 133)">Peer-reviewed book chapters and publications in scientific journals:</span>
+### <span style="color:rgb(199, 21, 133)">Peer-reviewed publications in scientific journals and book chapters:</span>
 <head>
 <!-- <title>Grid Example</title> -->
 <style>
@@ -109,25 +109,27 @@ author_profile: true
   </figure></div>
 <div id="div_space"></div>
   <div id="div_paper">
-<!--   	<figure>
-  <a href="/publication/rmtr_pf">
-     <img src="/images/rmtr_pf.png">
+  	<figure>
+  <a href="/publication/pneum_frac">
+     <img src="/images/pneum_frac.png">
   </a>
-  <figcaption>A. Kopaničáková, and R. Krause.
-  <b> Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture.</b> 
-  Computer Methods in Applied Mechanics and Engineering, 360:112720, 2020. </figcaption>
-  </figure> -->
+  <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
+  <b> A phase-field approach to pneumatic fracture.</b> 
+  Non-standard Discretisation Methods in Solid Mechanics,pages 217–241,2022. </figcaption>
+  </figure>
 </div>  
 </div><br/>
 </body>
 
 
 
-### <span style="color:rgb(199, 21, 133)"> Peer-reviewed book chapters:</span>
-[B1] C. Bilgen, **A. Kopaničáková**, R. Krause, and K. Weinberg. A phase-field approach to pneumatic fracture. In J.Schroder and P.Wriggers,editors,Non-standard Discretisation Methods in Solid Mechanics,pages 217–241,2022.  <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/pamm.201710022" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
-[B2] F. Chegini, **A. Kopaničáková**, M. Weiser, and R. Krause. Quantitative analysis of nonlinear multifidelity optimization for inverse electrophysiology. In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted. <a href="" style="color:rgb(199, 21, 133,0.75);">Preprint can be provided upon request.</a> <br />
-[B3]  **A. Kopaničáková** and R. Krause. Multilevel Active-Set Trust-Region (MASTR) Method for Bound Constrained Minimization. In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted. <a href="https://arxiv.org/pdf/2103.14552.pdf" style="color:rgb(199, 21, 133,0.75);">Link to preprint.</a> <br />
-[B4] H. Kothari, **A. Kopaničáková**, and R. Krause. A Matrix-free Multigrid Preconditioner for Jacobian-free Newton-Krylov Methods. In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted. <a href="https://arxiv.org/abs/2203.13738" style="color:rgb(199, 21, 133,0.75);"> Link to preprint.</a> <br />
+
+
+### <span style="color:rgb(199, 21, 133)"> Publications in peer-reviewed conference proceedings:</span>
+[C1] L. Gaedke-Merzhauser\*, **A. Kopaničáková\***, and R. Krause. Multilevel minimization for deep residual networks. In Proceedings of French-German-Swiss Optimization Conference (FGS’2019), 2021. **(\* Equal contribution)**. <a href="https://www.proquest.com/openview/7a0e921c47a627ec2097406f991ceee4/1?pq-origsite=gscholar&cbl=1796391" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
+[C2] C. von Planta, **A. Kopaničáková**, and R. Krause. Training of residual networks with stochastic MG/Opt. In ICML 2021 Workshop:Beyond First Order Methods in Machine Learning, 2021.<a href="https://drive.google.com/file/d/1dpgGBYC6ixRfpc3UxY9AH3aB4w2edUF_/view" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
+[C3] V. Braglia\*, **A. Kopaničáková\***, and R. Krause. A multilevel approach to training. In ICML 2020 Workshop: Beyond First Order Methods in Machine Learning, 2020. **(\* Equal contribution)**, <a href="https://drive.google.com/file/d/10GWhl-UzVwlZur5OC43P-P-p_ktSyhUO/view" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
+[C4] C. Bilgen, **A. Kopaničáková**, R. Krause, and K. Weinberg. A phase-field approach to pneumatic fracture. In PAMM, volume 17, pages 71–74, 2017. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/pamm.201710022" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
 
 
 ### <span style="color:rgb(199, 21, 133)"> PhD thesis:</span>
