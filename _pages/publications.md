@@ -7,28 +7,6 @@ author_profile: true
 
 ### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span>
 
-<!-- <div style="width:30%">
-  <figure>
-  <a href="/publication/pf_spin">
-     <img src="/images/pf_spin.png">
-  </a>
-  <figcaption>A. Kopaničáková, H. Kothari, and R. Krause. 
-  <b>Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture.</b> 
-  Under review in Computer Methods in Applied Mechanics and Engineering, 2022. </figcaption>
-  </figure>
-</div>
-<div style="width:30%">
-  <figure>
-  <a href="/publication/rmtr_resnet">
-     <img src="/images/rmtr_resnet.png">
-  </a>
-  <figcaption>A. Kopaničáková, and R. Krause. 
-  <b>Globally Convergent Multilevel Training of Deep Residual Networks.</b> 
-  Accepted for publication in SIAM Journal on Scientific Computing, 2022. </figcaption>
-  </figure>
-</div>
- -->
-
 <head>
 <title>Grid Example</title>
 <style>
@@ -44,11 +22,6 @@ author_profile: true
     width:4%;
     height:200px;
 }
-/*#div3 {
-    display: inline-block;
-    width:40%;
-    height:200px;
-}*/
 </style>
 </head>
 <body>
@@ -73,12 +46,12 @@ author_profile: true
   </figure></div>
 <div id="div_space"></div>
   <div id="div_paper"><figure>
-  <a href="/publication/rmtr_resnet">
-     <img src="/images/rmtr_resnet.png">
+  <a href="/publication/pf_utopia">
+     <img src="/images/pf_utopia.png">
   </a>
-  <figcaption>A. Kopaničáková, and R. Krause. 
-  <b>Globally Convergent Multilevel Training of Deep Residual Networks.</b> 
-  Accepted for publication in SIAM Journal on Scientific Computing, 2022. </figcaption>
+  <figcaption>P. Zulian\*, A. Kopaničáková\*, M. G. C. Nestola, N. Fadel, A. Fink, J. VandeVondele, and R. Krause.
+  <b>Large scale simulation of pressure induced phase-field fracture propagation using Utopia.</b> 
+  CCF Transactions on High Performance Computing, 2021. </figcaption>
   </figure></div>  
 </div>
 </body>
@@ -87,8 +60,6 @@ author_profile: true
 
 <!-- 
 
-[J2] **A. Kopaničáková** and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. Accepted for publication in SIAM Journal on Scientific Computing, 2022. <a href="https://arxiv.org/abs/2107.07572" style="color:rgb(199, 21, 133,0.75);">Link to preprint.</a> <br />
-[J3] P. Zulian\*, **A. Kopaničáková\***, M. G. C. Nestola, N. Fadel, A. Fink, J. VandeVondele, and R. Krause. Large scale simulation of pressure induced phase-field fracture propagation using Utopia. CCF Transactions on High Performance Computing, 2021. **(\* Equal contribution)**. <a href="https://doi.org/10.1007/s42514-021-00069-6" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
 [J4] F. Chegini, **A. Kopaničáková**, R. Krause, and M. Weiser. Efficient identification of scars using heterogeneous model hierarchies. EP Europace, 23(Supplement 1):i113–i122, 2021. <a href="https://academic.oup.com/europace/article-abstract/23/Supplement_1/i113/6158564?redirectedFrom=fulltextf" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
 [J5] C. Bilgen, **A. Kopaničáková**, R. Krause, and K. Weinberg. A detailed investigation of the model influencing parameters of the phase-field fracture approach. GAMM-Mitteilungen, 43(2):e202000005, 2020. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/gamm.202000005" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
 [J6] **A. Kopaničáková** and R. Krause. Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture. Computer Methods in Applied Mechanics and Engineering, 360:112720, 2020. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782519306085" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
