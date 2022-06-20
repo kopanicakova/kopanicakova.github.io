@@ -34,26 +34,26 @@ author_profile: true
 <style>
 #wrapper {
 }
-#div1 {
+#div_paper {
+    display: inline-block;
+    width:30%;
+    height:200px;
+}
+#div_space {
+    display: inline-block;
+    width:4%;
+    height:200px;
+}
+/*#div3 {
     display: inline-block;
     width:40%;
     height:200px;
-}
-#div2 {
-    display: inline-block;
-    width:20%;
-    height:200px;
-}
-#div3 {
-    display: inline-block;
-    width:40%;
-    height:200px;
-}
+}*/
 </style>
 </head>
 <body>
 <div id="wrapper">
-    <div id="div1">  
+    <div id="div_paper">  
     	<figure>
   <a href="/publication/pf_spin">
      <img src="/images/pf_spin.png">
@@ -62,8 +62,8 @@ author_profile: true
   <b>Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture.</b> 
   Under review in Computer Methods in Applied Mechanics and Engineering, 2022. </figcaption>
   </figure></div>
-  <div id="div2"></div>
-  <div id="div3"><figure>
+  <div id="div_space"></div>
+  <div id="div_paper"><figure>
   <a href="/publication/rmtr_resnet">
      <img src="/images/rmtr_resnet.png">
   </a>
@@ -71,6 +71,15 @@ author_profile: true
   <b>Globally Convergent Multilevel Training of Deep Residual Networks.</b> 
   Accepted for publication in SIAM Journal on Scientific Computing, 2022. </figcaption>
   </figure></div>
+<div id="div_space"></div>
+  <div id="div_paper"><figure>
+  <a href="/publication/rmtr_resnet">
+     <img src="/images/rmtr_resnet.png">
+  </a>
+  <figcaption>A. Kopaničáková, and R. Krause. 
+  <b>Globally Convergent Multilevel Training of Deep Residual Networks.</b> 
+  Accepted for publication in SIAM Journal on Scientific Computing, 2022. </figcaption>
+  </figure></div>  
 </div>
 </body>
 
