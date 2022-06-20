@@ -26,7 +26,7 @@ author_profile: true
 <body>	
 <!-- <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span><br /> -->
 <div id="wrapper">
-<span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span><br />	
+<span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span>
     <div id="div_paper">  
     	<figure>
   <a href="/publication/pf_spin">
