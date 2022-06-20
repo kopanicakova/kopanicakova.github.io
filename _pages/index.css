@@ -1,10 +1,15 @@
- .container {
-        display: grid;
-        grid-template-columns: 100px 100px; 
-        grid-template-rows: 100px;
-        grid-column-gap: 5px;
-      }
-      
-      .item {
-      background: #ce8888;
-      }
+#wrapper {
+    border: 1px solid blue;
+}
+#div1 {
+    display: inline-block;
+    width:120px;
+    height:120px;
+    border: 1px solid red;
+}
+#div2 {
+    display: inline-block;
+    width:160px;
+    height:160px;
+    border: 1px solid green;
+}

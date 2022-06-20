@@ -31,18 +31,16 @@ author_profile: true
 
 <head>
 <title>Grid Example</title>
-<link rel="stylesheet" href="index.css" />
+<!-- <link rel="stylesheet" href="index.css" /> -->
+<link rel="stylesheet" href="index.css">
 <style>
 </style>
 </head>
 <body>
-<div class="container">
-  <div class="item">
-  	Bla 1 
-  </div>
-  <div class="item">
-  	Bla 2
-  </div>
+<div id="wrapper">
+    <div id="div1">The two divs are</div>
+    <div id="div2">next to each other.</div>
+</div>
 </div>
 </body>
 
