@@ -132,13 +132,15 @@ author_profile: true
   </figure></div>
   <div id="div_space"></div>
   <div id="div_paper"><figure>
-  <a href="/publication/conchoidal_frac">
-     <img src="/images/conchoidal_frac.png">
+  <a href="/publication/mastr">
+     <img src="/images/mastr.png">
   </a>
-  <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
-  <b>A phase-field approach to conchoidal fracture.</b> 
-  Meccanica, pages 1–17, 2017. </figcaption>
+  <figcaption>A. Kopaničáková, and R. Krause.
+  <b>Multilevel Active-Set Trust-Region (MASTR) Method for Bound Constrained Minimization.</b> 
+  In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted. </figcaption>
   </figure></div>
+
+
 <div id="div_space"></div>
   <div id="div_paper">
   	<figure>
