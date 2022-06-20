@@ -12,7 +12,7 @@ author_profile: true
 #wrapper {
 }
 #section_title {
-	height:20px;
+	height:10px;
 	color:rgb(199, 21, 133);
 }
 #div_paper {
