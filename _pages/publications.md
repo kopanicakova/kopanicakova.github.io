@@ -11,7 +11,6 @@ author_profile: true
 <!-- <title>Grid Example</title> -->
 <style>
 #wrapper {
-	height:200px;
 }
 #div_paper {
     display: inline-block;
