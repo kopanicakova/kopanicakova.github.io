@@ -105,8 +105,9 @@ author_profile: true
   Meccanica, pages 1–17, 2017. </figcaption>
   </figure></div>
 <div id="div_space"></div>
-  <div id="div_paper"><figure>
-<!--   <a href="/publication/rmtr_pf">
+  <div id="div_paper">
+<!--   	<figure>
+  <a href="/publication/rmtr_pf">
      <img src="/images/rmtr_pf.png">
   </a>
   <figcaption>A. Kopaničáková, and R. Krause.
