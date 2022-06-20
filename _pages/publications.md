@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span>
-
 <head>
 <!-- <title>Grid Example</title> -->
 <style>
@@ -25,6 +23,7 @@ author_profile: true
 </style>
 </head>
 <body>
+### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span>	
 <div id="wrapper">
     <div id="div_paper">  
     	<figure>
@@ -67,12 +66,12 @@ author_profile: true
   </figure></div>
   <div id="div_space"></div>
   <div id="div_paper"><figure>
-  <a href="/publication/rmtr_resnet">
-     <img src="/images/rmtr_resnet.png">
+  <a href="/publication/pf_params">
+     <img src="/images/pf_params.png">
   </a>
-  <figcaption>A. Kopaničáková, and R. Krause. 
-  <b>Globally Convergent Multilevel Training of Deep Residual Networks.</b> 
-  Accepted for publication in SIAM Journal on Scientific Computing, 2022. </figcaption>
+  <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
+  <b>A detailed investigation of the model influencing parameters of the phase-field fracture approach.</b> 
+  GAMM-Mitteilungen, 43(2):e202000005, 2020. </figcaption>
   </figure></div>
 <div id="div_space"></div>
   <div id="div_paper"><figure>
@@ -90,9 +89,9 @@ author_profile: true
 
 <!-- 
 
-[J4] F. Chegini, **A. Kopaničáková**, R. Krause, and M. Weiser. Efficient identification of scars using heterogeneous model hierarchies. EP Europace, 23(Supplement 1):i113–i122, 2021. <a href="https://academic.oup.com/europace/article-abstract/23/Supplement_1/i113/6158564?redirectedFrom=fulltextf" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
-
 [J5] C. Bilgen, **A. Kopaničáková**, R. Krause, and K. Weinberg. A detailed investigation of the model influencing parameters of the phase-field fracture approach. GAMM-Mitteilungen, 43(2):e202000005, 2020. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/gamm.202000005" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
+
+
 [J6] **A. Kopaničáková** and R. Krause. Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture. Computer Methods in Applied Mechanics and Engineering, 360:112720, 2020. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782519306085" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
 
 [J7] **A. Kopaničáková**, R. Krause, and R. Tamstorf. Subdivision-based nonlinear multiscale cloth simulation. SIAM Journal on Scientific Computing, 41(5):S433–S461, 2019. <a href="https://locus.siam.org/doi/abs/10.1137/18M1194870" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
