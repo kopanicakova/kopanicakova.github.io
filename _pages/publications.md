@@ -5,15 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span>
-<head>
+### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span><head>
 <!-- <title>Grid Example</title> -->
 <style>
 #wrapper {
-}
-#section_title {
-	height:10px;
-	color:rgb(199, 21, 133);
 }
 #div_paper {
     display: inline-block;
@@ -26,11 +21,7 @@ author_profile: true
     height:200px;
 }
 </style>
-</head>
-<body>	
-<div id="section_title">	
-Publications in peer-reviewed scientific journals:
-</div>
+</head><body>	
 <div id="wrapper">
     <div id="div_paper">  
     	<figure>
