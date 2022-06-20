@@ -32,15 +32,14 @@ author_profile: true
 <head>
 <title>Grid Example</title>
 <!-- <link rel="stylesheet" href="index.css" /> -->
-<link rel="stylesheet" href="index.css">
 <style>
+<link rel="stylesheet" href="index.css">
 </style>
 </head>
 <body>
 <div id="wrapper">
     <div id="div1">The two divs are</div>
     <div id="div2">next to each other.</div>
-</div>
 </div>
 </body>
 
