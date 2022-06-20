@@ -31,9 +31,23 @@ author_profile: true
 
 <head>
 <title>Grid Example</title>
-<!-- <link rel="stylesheet" href="index.css" /> -->
 <style>
-<link rel="stylesheet" href="index.css">
+/*<link rel="stylesheet" href="index.css">*/
+#wrapper {
+    border: 1px solid blue;
+}
+#div1 {
+    display: inline-block;
+    width:120px;
+    height:120px;
+    border: 1px solid red;
+}
+#div2 {
+    display: inline-block;
+    width:160px;
+    height:160px;
+    border: 1px solid green;
+}
 </style>
 </head>
 <body>
