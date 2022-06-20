@@ -33,30 +33,41 @@ author_profile: true
 <title>Grid Example</title>
 <style>
 #wrapper {
-    /*border: 1px solid blue;*/
 }
 #div1 {
     display: inline-block;
     width:30%;
-    /*height:120px;*/
 }
 #div2 {
     display: inline-block;
     width:30%;
-    /*width:120px;*/
     /*height:160px;*/
 }
 #div3 {
     display: inline-block;
     width:30%;
-    /*height:160px;*/
 }
 </style>
 </head>
 <body>
 <div id="wrapper">
-    <div id="div1">The two divs are</div>
-    <div id="div2">next to each other.</div>
+    <div id="div1">  
+    	<figure>
+  <a href="/publication/pf_spin">
+     <img src="/images/pf_spin.png">
+  </a>
+  <figcaption>A. Kopaničáková, H. Kothari, and R. Krause. 
+  <b>Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture.</b> 
+  Under review in Computer Methods in Applied Mechanics and Engineering, 2022. </figcaption>
+  </figure></div>
+    <div id="div2"><figure>
+  <a href="/publication/rmtr_resnet">
+     <img src="/images/rmtr_resnet.png">
+  </a>
+  <figcaption>A. Kopaničáková, and R. Krause. 
+  <b>Globally Convergent Multilevel Training of Deep Residual Networks.</b> 
+  Accepted for publication in SIAM Journal on Scientific Computing, 2022. </figcaption>
+  </figure></div>
     <div id="div3">NEXt to each other.</div>
 </div>
 </body>
