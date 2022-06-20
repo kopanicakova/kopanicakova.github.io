@@ -37,17 +37,18 @@ author_profile: true
 }
 #div1 {
     display: inline-block;
-    width:120px;
+    width:30%;
     /*height:120px;*/
 }
 #div2 {
     display: inline-block;
-    width:120px;
+    width:30%;
+    /*width:120px;*/
     /*height:160px;*/
 }
 #div3 {
     display: inline-block;
-    width:120px;
+    width:30%;
     /*height:160px;*/
 }
 </style>
