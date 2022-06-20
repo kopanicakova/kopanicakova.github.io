@@ -5,6 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
+#wrapper {
+    border: 1px solid blue;
+}
+#div1 {
+    display: inline-block;
+    width:120px;
+    height:120px;
+    border: 1px solid red;
+}
+#div2 {
+    vertical-align:top;
+    display: inline-block;
+    width:160px;
+    height:160px;
+    border: 1px solid green;
+}
+
 ### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span>
 
 <div style="width:30%">
@@ -26,6 +43,12 @@ author_profile: true
   <b>Globally Convergent Multilevel Training of Deep Residual Networks.</b> 
   Accepted for publication in SIAM Journal on Scientific Computing, 2022. </figcaption>
   </figure>
+</div>
+
+
+<div id="wrapper">
+    <div id="div1">The two divs are. </div>
+    <div id="div2">next to each other.</div>
 </div>
 
 
