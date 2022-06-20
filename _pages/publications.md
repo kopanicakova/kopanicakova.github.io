@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- ### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span> -->
+### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span>
 <head>
 <!-- <title>Grid Example</title> -->
 <style>
