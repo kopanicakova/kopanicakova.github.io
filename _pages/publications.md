@@ -139,17 +139,15 @@ author_profile: true
   <b>Multilevel Active-Set Trust-Region (MASTR) Method for Bound Constrained Minimization.</b> 
   In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted. </figcaption>
   </figure></div>
-
-
 <div id="div_space"></div>
   <div id="div_paper">
   	<figure>
-  <a href="/publication/pneum_frac">
-     <img src="/images/pneum_frac.png">
+  <a href="/publication/jfmg">
+     <img src="/images/jfmg.png">
   </a>
-  <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
-  <b> A phase-field approach to pneumatic fracture.</b> 
-  Non-standard Discretisation Methods in Solid Mechanics,pages 217–241,2022. </figcaption>
+  <figcaption>H. Kothari, A. Kopaničáková, and R. Krause.
+  <b> A Matrix-free Multigrid Preconditioner for Jacobian-free Newton-Krylov Methods.</b> 
+  In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted. </figcaption>
   </figure>
 </div>  
 </div><br/>
