@@ -12,7 +12,7 @@ author_profile: true
 <div style="width:30%">
   Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture.<br>
   <figure>
-  <a href="/_publications/paper1.html">
+  <a href="/publication/paper1.html">
      <!-- <img src="/images/rmtr.png" width="300" height="150"> -->
      <img src="/images/rmtr.png">
   </a>
