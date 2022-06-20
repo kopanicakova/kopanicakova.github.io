@@ -7,7 +7,7 @@ author_profile: true
 
 ### <span style="color:rgb(199, 21, 133)">Publications in peer-reviewed scientific journals:</span>
 
-<div style="width:30%">
+<!-- <div style="width:30%">
   <figure>
   <a href="/publication/pf_spin">
      <img src="/images/pf_spin.png">
@@ -27,7 +27,7 @@ author_profile: true
   Accepted for publication in SIAM Journal on Scientific Computing, 2022. </figcaption>
   </figure>
 </div>
-
+ -->
 
 <head>
 <title>Grid Example</title>
