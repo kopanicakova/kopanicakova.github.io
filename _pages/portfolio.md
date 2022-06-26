@@ -17,12 +17,12 @@ author_profile: true
 #picture_half {
     display: inline-block;
     width:47%;
-    height:190px;
+    height:auto;
 }
 #div_space {
     display: inline-block;
     width:4%;
-    height:190px;
+    height:auto;
 }
 </style>
 </head>
@@ -69,12 +69,12 @@ Multilevel methods have been originally designed for solving elliptic partial di
 #picture_half1 {
     display: inline-block;
     width:47%;
-    height:150px;
+    height:auto;
 }
 #div_space1 {
     display: inline-block;
     width:4%;
-    height:150px;
+    height:auto;
 }
 </style>
 </head>
@@ -118,12 +118,12 @@ Multilevel methods have been originally designed for solving elliptic partial di
 #picture_half2 {
     display: inline-block;
     width:47%;
-    height:220px;
+    height:auto;
 }
 #div_space2 {
     display: inline-block;
     width:4%;
-    height:220px;
+    height:auto;
 }
 </style>
 </head>
