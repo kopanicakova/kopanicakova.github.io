@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## <span style="color:rgb(199, 21, 133)"> Multilevel trust-region methods</span>
-<!-- <center><img src="/images/rmtr.png" alt="centered image" height="657" width="45%"> &emsp; &emsp; &emsp; &emsp; &emsp;  <img src="/images/rmtr2.png" alt="centered image" height="657" width="45%"> </center> -->
 <head>
 <style>
 #wrapper_top {
@@ -37,9 +36,8 @@ author_profile: true
 	    	<img src="/images/rmtr2.png">
 	    </div>
 	</div>
-</body>
 
-<!-- <div style="text-align: justify">Multilevel methods have been originally designed for solving elliptic partial differential equations. Their applicability to non-convex optimization problems was extended by utilizing the trust-region globalization strategy, giving rise to recursive multilevel trust-region methods (RMTR) [Gratton et al. ’08]. I have contributed to the development of RMTR methods by proposing several novel variants that take into account the structure of the underlying optimization problem in order to construct multilevel hierarchy and transfer operators. These methods are unique as they allow for the solution of complex non-convex minimization problems with multigrid efficiency. Moreover, they are also provably globally convergent, thus guaranteeing the success of the nonlinear iteration process.</div>
+<div style="text-align: justify">Multilevel methods have been originally designed for solving elliptic partial differential equations. Their applicability to non-convex optimization problems was extended by utilizing the trust-region globalization strategy, giving rise to recursive multilevel trust-region methods (RMTR) [Gratton et al. ’08]. I have contributed to the development of RMTR methods by proposing several novel variants that take into account the structure of the underlying optimization problem in order to construct multilevel hierarchy and transfer operators. These methods are unique as they allow for the solution of complex non-convex minimization problems with multigrid efficiency. Moreover, they are also provably globally convergent, thus guaranteeing the success of the nonlinear iteration process.</div>
 
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
@@ -50,9 +48,12 @@ author_profile: true
 [4] A. Kopaničáková, R. Krause, and R. Tamstorf. Subdivision-based nonlinear multiscale cloth simulation. <br />
 [5] F. Chegini, A. Kopaničáková, M. Weiser, and R. Krause. Quantitative analysis of nonlinear multifidelity optimization for inverse electrophysiology. <br />
 [6] A. Kopaničáková and R. Krause. Multilevel Active-Set Trust-Region (MASTR) Method for Bound Constrained Minimization. <br />
-</span> -->
+</span>	
+</body>
 
-<!-- 
+
+
+
 
 ## <span style="color:rgb(199, 21, 133)"> Large-scale phase-field fracture simulations</span>
 <center><img src="/images/frac_net1.png" alt="centered image" height="657" width="437"> &emsp; &emsp; &emsp; &emsp; &emsp;  <img src="/images/frac_net2.png" alt="centered image" height="657" width="437"> </center>
@@ -92,4 +93,3 @@ The devised training methods achieve a significant reduction of computational co
 [4] V. Braglia\*, A. Kopaničáková\*, and R. Krause. A multilevel approach to training. <br />
 </span>
 
- -->
