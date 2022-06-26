@@ -69,12 +69,12 @@ Multilevel methods have been originally designed for solving elliptic partial di
 #picture_half {
     display: inline-block;
     width:47%;
-    height:180px;
+    height:160px;
 }
 #div_space {
     display: inline-block;
     width:4%;
-    height:180px;
+    height:160px;
 }
 </style>
 </head>
@@ -96,7 +96,7 @@ Multilevel methods have been originally designed for solving elliptic partial di
 <span style="font-size: 12px">
 [1] A. Kopaničáková, H. Kothari, and R. Krause. Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture. <br />
 [2] C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A phase-field approach to pneumatic fracture. <br />	
-[3] P. Zulian\*, A. Kopaničáková\* et al. Large scale simulation of pressure induced phase-field fracture propagation using Utopia.<br />
+[3] P. Zulian*, A. Kopaničáková* et al. Large scale simulation of pressure induced phase-field fracture propagation using Utopia.<br />
 [4] C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A detailed investigation of the model influencing parameters of the phase-field fracture approach.<br />
 [5] A. Kopaničáková and R. Krause. Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture. <br />
 [6] C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A phase-field approach to conchoidal fracture. <br />
@@ -119,12 +119,12 @@ Multilevel methods have been originally designed for solving elliptic partial di
 #picture_half {
     display: inline-block;
     width:47%;
-    height:200px;
+    height:210px;
 }
 #div_space {
     display: inline-block;
     width:4%;
-    height:200px;
+    height:210px;
 }
 </style>
 </head>
@@ -145,9 +145,9 @@ Multilevel methods have been originally designed for solving elliptic partial di
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
 <span style="font-size: 12px">
 [1] A. Kopaničáková and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. <br />
-[2] L. Gaedke-Merzhauser\*, A. Kopaničáková\*, and R. Krause. Multilevel minimization for deep residual networks. <br />
+[2] L. Gaedke-Merzhauser*, A. Kopaničáková*, and R. Krause. Multilevel minimization for deep residual networks. <br />
 [3] C. von Planta, A. Kopaničáková, and R. Krause. Training of residual networks with stochastic MG/Opt. <br />
-[4] V. Braglia\*, A. Kopaničáková\*, and R. Krause. A multilevel approach to training. <br />
+[4] V. Braglia*, A. Kopaničáková*, and R. Krause. A multilevel approach to training. <br />
 </span>
 </body>
 
