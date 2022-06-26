@@ -8,7 +8,6 @@ author_profile: true
 ## <span style="color:rgb(199, 21, 133)"> Multilevel trust-region methods</span>
 <!-- <center><img src="/images/rmtr.png" alt="centered image" height="657" width="45%"> &emsp; &emsp; &emsp; &emsp; &emsp;  <img src="/images/rmtr2.png" alt="centered image" height="657" width="45%"> </center> -->
 <head>
-<!-- <title>Grid Example</title> -->
 <style>
 #wrapper_top {
 	 display: flex;
