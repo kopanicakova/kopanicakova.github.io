@@ -66,12 +66,12 @@ Multilevel methods have been originally designed for solving elliptic partial di
 #wrapper {
 	 
 }
-#picture_half1 {
+#picture_half {
     display: inline-block;
     width:47%;
     height:auto;
 }
-#div_space1 {
+#div_space {
     display: inline-block;
     width:4%;
     height:auto;
@@ -83,12 +83,12 @@ Multilevel methods have been originally designed for solving elliptic partial di
 	    <div id="picture_half">  
 	    	<img src="/images/frac_net1.png">
 	    </div>
-		<div id="div_space1"></div>    
+		<div id="div_space"></div>    
 	    <div id="picture_half">  
 	    	<img src="/images/frac_net2.png">
 	    </div>
 	</div>
-<div style="text-align: justify"> Predicting damage and crack propagation is a long-lasting challenge in computational mechanics. The phase-field approach to fracture allows for predicting crack evolution without the need to explicitly model crack paths and therefore has become very popular. The development of an efficient phase-field fracture simulation framework requires scalable implementation of an underlying mathematical model and robust solution strategy. I have contributed to both aspects by implementing the finite-element phase-field fracture models and by proposing novel solution strategies for solving arising non-convex coupled constrained minimization problems. The developed simulation framework has been used to simulate brittle, conchoidal, and pneumatic fractures. More recently, it has been also employed for pressure-induced fracture propagation of stochastic fracture networks in 2D/3D, considering realistic scenarios with up to 1 000 fractures.</div>
+<div style="text-align: justify"><br/>  Predicting damage and crack propagation is a long-lasting challenge in computational mechanics. The phase-field approach to fracture allows for predicting crack evolution without the need to explicitly model crack paths and therefore has become very popular. The development of an efficient phase-field fracture simulation framework requires scalable implementation of an underlying mathematical model and robust solution strategy. I have contributed to both aspects by implementing the finite-element phase-field fracture models and by proposing novel solution strategies for solving arising non-convex coupled constrained minimization problems. The developed simulation framework has been used to simulate brittle, conchoidal, and pneumatic fractures. More recently, it has been also employed for pressure-induced fracture propagation of stochastic fracture networks in 2D/3D, considering realistic scenarios with up to 1 000 fractures.</div>
 
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
@@ -115,12 +115,12 @@ Multilevel methods have been originally designed for solving elliptic partial di
 #wrapper {
 	 
 }
-#picture_half2 {
+#picture_half {
     display: inline-block;
     width:47%;
     height:auto;
 }
-#div_space2 {
+#div_space {
     display: inline-block;
     width:4%;
     height:auto;
@@ -129,16 +129,16 @@ Multilevel methods have been originally designed for solving elliptic partial di
 </head>
 <body>	
 	<div id="wrapper_top">
-	    <div id="picture_half2">  
+	    <div id="picture_half">  
 	    	<img src="/images/resnet1.png">
 	    </div>
-		<div id="div_space2"></div>    
+		<div id="div_space"></div>    
 	    <div id="picture_half">  
 	    	<center> <img src="/images/resnet2.png"></center>
 	    </div>
 	</div>
 
-<div style="text-align: justify"> Deep neural networks (DNNs) suffer from a computationally exhaustive training phase, which limits their applicability and hinders their development. During the training phase, the parameters of the network are determined by minimizing a highly non-convex loss functional. My research objective is to enhance the training of DNNs by leveraging multilevel minimization techniques. The ongoing developments explore two complementary approaches for the construction of the multilevel hierarchy and transfer operators.The first approach is tailored for the finite-sum optimization problems and constructs a multilevel hierarchy by coarsening in a number of samples, while the number of parameters is kept fixed. The second approach considers coarsening in parameter space. A particular focus is given to ODE-based network architectures, the structure of which can be explored to construct the multilevel hierarchy and transfer operators. The devised training methods achieve a significant reduction of computational cost for various classification and regression tasks, compared to standard single-level optimizers. Additionally, the methods typically exhibit lower sensitivity to the choice of the initial guess. </div>
+<div style="text-align: justify"><br/>  Deep neural networks (DNNs) suffer from a computationally exhaustive training phase, which limits their applicability and hinders their development. During the training phase, the parameters of the network are determined by minimizing a highly non-convex loss functional. My research objective is to enhance the training of DNNs by leveraging multilevel minimization techniques. The ongoing developments explore two complementary approaches for the construction of the multilevel hierarchy and transfer operators.The first approach is tailored for the finite-sum optimization problems and constructs a multilevel hierarchy by coarsening in a number of samples, while the number of parameters is kept fixed. The second approach considers coarsening in parameter space. A particular focus is given to ODE-based network architectures, the structure of which can be explored to construct the multilevel hierarchy and transfer operators. The devised training methods achieve a significant reduction of computational cost for various classification and regression tasks, compared to standard single-level optimizers. Additionally, the methods typically exhibit lower sensitivity to the choice of the initial guess. </div>
 
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
