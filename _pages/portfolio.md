@@ -134,7 +134,7 @@ Multilevel methods have been originally designed for solving elliptic partial di
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="picture_half">  
-	    	<br/> <br/> 
+	    	<br/>
 	    	 <img src="/images/resnet2.png">
 	    </div>
 	</div>

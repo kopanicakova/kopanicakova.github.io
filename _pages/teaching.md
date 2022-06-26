@@ -8,8 +8,7 @@ author_profile: true
 During my stay at Università della Svizzera italiana (USI), I have co-supervised (senior advisor Prof. R. Krause) several junior researchers and served as a teaching assistant and substitute lecturer. 
 
 
-### <span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span>
-<!-- * 02/2022 – 06/2022 &emsp;&emsp; Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.) -->
+<!-- ### <span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span> -->
 <head>
 <style>
 #wrapper {
@@ -33,6 +32,9 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 </style>
 </head>
 <body>	
+<h1><span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span></h1>	
+<h2><span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span></h2>	
+<h3><span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
 	    	02/2022 – 06/2022
@@ -42,10 +44,31 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    	Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.)
 	    </div>
 	</div>
+<br />	
+<h3><span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span></h3>	
+	<div id="wrapper">
+	    <div id="years">  
+	    	02/2019 – 07/2019 <br />
+	    	09/2018 – 01/2019 <br />
+	    	08/2018 <br />
+	    	02/2018 – 07/2018 <br />
+	    	02/2017 – 07/2017 <br />
+	    	09/2016 – 01/2017 <br />
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="titles">  
+	    	Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.) <br />
+	    	Calculus (BSc)  <br />
+	    	Functional and Numerical Analysis (MSc/Ph.D.)  <br />
+	    	Multiscale methods (MSc/Ph.D.)  <br />
+	    	Optimization methods (BSc)  <br />
+	    	Enterprise Resource Planning (MSc) <br />
+	    </div>
+	</div>	
 </body>
 
 
-
+<!-- 
 ### <span style="color:rgb(199, 21, 133)"> Lecture list (teaching assistant):</span>
 * 02/2019 – 07/2019 &emsp;&emsp; Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.)
 * 09/2018 – 01/2019 &emsp;&emsp; Calculus (BSc)
@@ -54,7 +77,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 * 02/2017 – 07/2017 &emsp;&emsp; Optimization methods (BSc)
 * 09/2016 – 01/2017 &emsp;&emsp; Enterprise Resource Planning (MSc)
 
-
+ -->
 
 ### <span style="color:rgb(199, 21, 133)"> Co-supervised Bachelor theses (BSc in Informatics):</span>
 * 09/2021 – 02/2022 &emsp;&emsp; Stefano Gonçalves,  <em>Implementation of a hybrid data-parallel algorithm for neural network<br />
