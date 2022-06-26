@@ -7,13 +7,8 @@ author_profile: true
 
 During my stay at Università della Svizzera italiana (USI), I have co-supervised (senior advisor Prof. R. Krause) several junior researchers and served as a teaching assistant and substitute lecturer. 
 
-
-<!-- ### <span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span> -->
 <head>
 <style>
-#wrapper_top {
-	 display: flex;
-}
 #wrapper {
 	 display: flex;
 }
@@ -36,7 +31,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 </head>
 <body>	
 <h3><span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span></h3>	
-	<div id="wrapper_top">
+	<div id="wrapper">
 	    <div id="years">  
 	    	02/2022 – 06/2022
 	    </div>
@@ -45,7 +40,6 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    	Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.)
 	    </div>
 	</div>
-<br />	
 <h3><span style="color:rgb(199, 21, 133)"> Lecture list (teaching assistant):</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
