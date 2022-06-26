@@ -9,7 +9,41 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 
 
 ### <span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span>
-* 02/2022 – 06/2022 &emsp;&emsp; Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.)
+<!-- * 02/2022 – 06/2022 &emsp;&emsp; Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.) -->
+<head>
+<style>
+#wrapper {
+	 display: flex;
+}
+#years {
+    display: inline-block;
+    width:20%;
+    height:auto;
+}
+#div_space {
+    display: inline-block;
+    width:4%;
+    height:auto;
+}
+#titles {
+    display: inline-block;
+    width:75%;
+    height:auto;
+}
+</style>
+</head>
+<body>	
+	<div id="wrapper">
+	    <div id="years">  
+	    	02/2022 – 06/2022
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="titles">  
+	    	Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.)
+	    </div>
+	</div>
+</body>
+
 
 
 ### <span style="color:rgb(199, 21, 133)"> Lecture list (teaching assistant):</span>
