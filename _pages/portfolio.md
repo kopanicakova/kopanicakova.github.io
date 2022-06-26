@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## <span style="color:rgb(199, 21, 133)"> Multilevel trust-region methods</span>
-<center><img src="/images/rmtr.png" alt="centered image" height="657" width=45%> &emsp; &emsp; &emsp; &emsp; &emsp;  <img src="/images/rmtr2.png" alt="centered image" height="657" width=45%> </center>
+<center><img src="/images/rmtr.png" alt="centered image" height="657" width="45%"> &emsp; &emsp; &emsp; &emsp; &emsp;  <img src="/images/rmtr2.png" alt="centered image" height="657" width="45%"> </center>
 <div style="text-align: justify">Multilevel methods have been originally designed for solving elliptic partial differential equations. Their applicability to non-convex optimization problems was extended by utilizing the trust-region globalization strategy, giving rise to recursive multilevel trust-region methods (RMTR) [Gratton et al. ’08]. I have contributed to the development of RMTR methods by proposing several novel variants that take into account the structure of the underlying optimization problem in order to construct multilevel hierarchy and transfer operators. These methods are unique as they allow for the solution of complex non-convex minimization problems with multigrid efficiency. Moreover, they are also provably globally convergent, thus guaranteeing the success of the nonlinear iteration process.</div>
 
 
