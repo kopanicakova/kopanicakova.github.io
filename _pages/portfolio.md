@@ -58,7 +58,6 @@ Multilevel methods have been originally designed for solving elliptic partial di
 
 
 ## <span style="color:rgb(199, 21, 133)"> Large-scale phase-field fracture simulations</span>
-<!-- <center><img src="/images/frac_net1.png" alt="centered image" height="657" width="437"> &emsp; &emsp; &emsp; &emsp; &emsp;  <img src="/images/frac_net2.png" alt="centered image" height="657" width="437"> </center> -->
 <head>
 <style>
 #wrapper_top {
@@ -90,8 +89,7 @@ Multilevel methods have been originally designed for solving elliptic partial di
 	    </div>
 	</div>
 
-<div style="text-align: justify"><br/> 
-Predicting damage and crack propagation is a long-lasting challenge in computational mechanics. The phase-field approach to fracture allows for predicting crack evolution without the need to explicitly model crack paths and therefore has become very popular. The development of an efficient phase-field fracture simulation framework requires scalable implementation of an underlying mathematical model and robust solution strategy. I have contributed to both aspects by implementing the finite-element phase-field fracture models and by proposing novel solution strategies for solving arising non-convex coupled constrained minimization problems. The developed simulation framework has been used to simulate brittle, conchoidal, and pneumatic fractures. More recently, it has been also employed for pressure-induced fracture propagation of stochastic fracture networks in 2D/3D, considering realistic scenarios with up to 1 000 fractures.</div>
+<div style="text-align: justify"> Predicting damage and crack propagation is a long-lasting challenge in computational mechanics. The phase-field approach to fracture allows for predicting crack evolution without the need to explicitly model crack paths and therefore has become very popular. The development of an efficient phase-field fracture simulation framework requires scalable implementation of an underlying mathematical model and robust solution strategy. I have contributed to both aspects by implementing the finite-element phase-field fracture models and by proposing novel solution strategies for solving arising non-convex coupled constrained minimization problems. The developed simulation framework has been used to simulate brittle, conchoidal, and pneumatic fractures. More recently, it has been also employed for pressure-induced fracture propagation of stochastic fracture networks in 2D/3D, considering realistic scenarios with up to 1 000 fractures.</div>
 
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
@@ -106,37 +104,42 @@ Predicting damage and crack propagation is a long-lasting challenge in computati
 </span>
 </body>
 
-<!-- <div style="text-align: justify">Predicting damage and crack propagation is a long-lasting challenge in computational mechanics. The phase-field approach to fracture allows for predicting crack evolution without the need to explicitly model crack paths and therefore has become very popular. The development of an efficient phase-field fracture simulation framework requires scalable implementation of an underlying mathematical model and robust solution strategy. I have contributed to both aspects by implementing the finite-element phase-field fracture models and by proposing novel solution strategies for solving arising non-convex coupled constrained minimization problems. The developed simulation framework has been used to simulate brittle, conchoidal, and pneumatic fractures. More recently, it has been also employed for pressure-induced fracture propagation of stochastic fracture networks in 2D/3D, considering realistic scenarios with up to 1 000 fractures.</div> -->
-
-
-
-<!-- <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
-<span style="font-size: 12px">
-[1] A. Kopaničáková, H. Kothari, and R. Krause. Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture. <br />
-[2] C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A phase-field approach to pneumatic fracture. <br />	
-[3] P. Zulian\*, A. Kopaničáková\* et al. Large scale simulation of pressure induced phase-field fracture propagation using Utopia.<br />
-[4] C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A detailed investigation of the model influencing parameters of the phase-field fracture approach.<br />
-[5] A. Kopaničáková and R. Krause. Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture. <br />
-[6] C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A phase-field approach to conchoidal fracture. <br />
-[7] C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A phase-field approach to pneumatic fracture. <br />
-</span> -->
-
-
-
-
 
 
 
 ## <span style="color:rgb(199, 21, 133)"> Multilevel training methods</span>
-<center><img src="/images/resnet1.png" alt="centered image" height="657" width="437"> &emsp; &emsp; &emsp; &emsp; &emsp;  <img src="/images/resnet2.png" alt="centered image" height="657" width="437"> </center>
-<div style="text-align: justify">
-Deep neural networks (DNNs) suffer from a computationally exhaustive training phase, which limits their applicability and hinders their development. 
-During the training phase, the parameters of the network are determined by minimizing a highly non-convex loss functional. 
-My research objective is to enhance the training of DNNs by leveraging multilevel minimization techniques.
-The ongoing developments explore two complementary approaches for the construction of the multilevel hierarchy and transfer operators.
-The first approach is tailored for the finite-sum optimization problems and constructs a multilevel hierarchy by coarsening in a number of samples, while the number of parameters is kept fixed.
-The second approach considers coarsening in parameter space. A particular focus is given to ODE-based network architectures, the structure of which can be explored to construct the multilevel hierarchy and transfer operators. 
-The devised training methods achieve a significant reduction of computational cost for various classification and regression tasks, compared to standard single-level optimizers. Additionally, the methods typically exhibit lower sensitivity to the choice of the initial guess. </div>
+<head>
+<style>
+#wrapper_top {
+	 display: flex;
+}
+#wrapper {
+	 
+}
+#picture_half {
+    display: inline-block;
+    width:47%;
+    height:190px;
+}
+#div_space {
+    display: inline-block;
+    width:4%;
+    height:190px;
+}
+</style>
+</head>
+<body>	
+	<div id="wrapper_top">
+	    <div id="picture_half">  
+	    	<img src="/images/resnet1.png">
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="picture_half">  
+	    	<img src="/images/resnet2.png">
+	    </div>
+	</div>
+
+<div style="text-align: justify"> Deep neural networks (DNNs) suffer from a computationally exhaustive training phase, which limits their applicability and hinders their development. During the training phase, the parameters of the network are determined by minimizing a highly non-convex loss functional. My research objective is to enhance the training of DNNs by leveraging multilevel minimization techniques. The ongoing developments explore two complementary approaches for the construction of the multilevel hierarchy and transfer operators.The first approach is tailored for the finite-sum optimization problems and constructs a multilevel hierarchy by coarsening in a number of samples, while the number of parameters is kept fixed. The second approach considers coarsening in parameter space. A particular focus is given to ODE-based network architectures, the structure of which can be explored to construct the multilevel hierarchy and transfer operators. The devised training methods achieve a significant reduction of computational cost for various classification and regression tasks, compared to standard single-level optimizers. Additionally, the methods typically exhibit lower sensitivity to the choice of the initial guess. </div>
 
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
@@ -146,4 +149,5 @@ The devised training methods achieve a significant reduction of computational co
 [3] C. von Planta, A. Kopaničáková, and R. Krause. Training of residual networks with stochastic MG/Opt. <br />
 [4] V. Braglia\*, A. Kopaničáková\*, and R. Krause. A multilevel approach to training. <br />
 </span>
+</body>
 
