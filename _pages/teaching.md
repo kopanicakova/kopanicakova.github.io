@@ -32,8 +32,6 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 </style>
 </head>
 <body>	
-<h1><span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span></h1>	
-<h2><span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span></h2>	
 <h3><span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
@@ -45,7 +43,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 	</div>
 <br />	
-<h3><span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span></h3>	
+<h3><span style="color:rgb(199, 21, 133)"> Lecture list (teaching assistant):</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
 	    	02/2019 – 07/2019 <br />
@@ -65,26 +63,28 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    	Enterprise Resource Planning (MSc) <br />
 	    </div>
 	</div>	
+<h3><span style="color:rgb(199, 21, 133)"> Co-supervised Bachelor theses (BSc in Informatics):</span></h3>	
+	<div id="wrapper">
+	    <div id="years">  
+	    	09/2021 – 02/2022 <br /> <br />
+	    	09/2020 – 07/2021 <br /> <br />
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="titles">  
+	    	Stefano Gonçalves,  <em>Implementation of a hybrid data-parallel algorithm for neural network training with reduced communication targeted to GPU-based supercomputers </em> <br />
+	    	Filippo Cesana,  <em>Python Front-End for Utopia with Algorithmic Implementations Related to Financial Machine Learning </em>, together with Dr. P. Zulian (USI)<br /> 
+	    </div>
+	</div>		
 </body>
 
 
 <!-- 
-### <span style="color:rgb(199, 21, 133)"> Lecture list (teaching assistant):</span>
-* 02/2019 – 07/2019 &emsp;&emsp; Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.)
-* 09/2018 – 01/2019 &emsp;&emsp; Calculus (BSc)
-* 08/2018 	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; Functional and Numerical Analysis (MSc/Ph.D.)
-* 02/2018 – 07/2018 &emsp;&emsp; Multiscale methods (MSc/Ph.D.)
-* 02/2017 – 07/2017 &emsp;&emsp; Optimization methods (BSc)
-* 09/2016 – 01/2017 &emsp;&emsp; Enterprise Resource Planning (MSc)
-
- -->
-
 ### <span style="color:rgb(199, 21, 133)"> Co-supervised Bachelor theses (BSc in Informatics):</span>
 * 09/2021 – 02/2022 &emsp;&emsp; Stefano Gonçalves,  <em>Implementation of a hybrid data-parallel algorithm for neural network<br />
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; training with reduced communication targeted to GPU-based supercomputers </em>
 * 09/2020 – 07/2021 &emsp;&emsp; Filippo Cesana,  <em>Python Front-End for Utopia with Algorithmic Implementations Related to<br />
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; Financial Machine Learning </em>, together with Dr. P. Zulian (USI)
-
+ -->
 
 ### <span style="color:rgb(199, 21, 133)"> Co-supervised Master theses (MSc in Mathematics/Computational Science):</span>
 * 09/2021 – 03/2022 &emsp;&emsp; Andrea Angino, <em>Knight descent - a parallel stochastic method for non-linear optimization<br />
