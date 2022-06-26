@@ -11,6 +11,9 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 <!-- ### <span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span> -->
 <head>
 <style>
+#wrapper_top {
+	 display: flex;
+}
 #wrapper {
 	 display: flex;
 }
@@ -33,7 +36,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 </head>
 <body>	
 <h3><span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span></h3>	
-	<div id="wrapper">
+	<div id="wrapper_top">
 	    <div id="years">  
 	    	02/2022 – 06/2022
 	    </div>
