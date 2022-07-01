@@ -11,7 +11,6 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 <style>
 #wrapper {
 	 display: flex;
-	 height:auto;
 }
 #years {
     display: inline-block;
@@ -44,21 +43,56 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 <h3><span style="color:rgb(199, 21, 133)"> Lecture list (teaching assistant):</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
-	    	02/2019 – 07/2019 <br />
-	    	09/2018 – 01/2019 <br />
-	    	08/2018 <br />
-	    	02/2018 – 07/2018 <br />
-	    	02/2017 – 07/2017 <br />
-	    	09/2016 – 01/2017 <br />
+	    	02/2019 – 07/2019 
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
 	    	Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.) <br />
-	    	Calculus (BSc)  <br />
-	    	Functional and Numerical Analysis (MSc/Ph.D.)  <br />
-	    	Multiscale methods (MSc/Ph.D.)  <br />
-	    	Optimization methods (BSc)  <br />
-	    	Enterprise Resource Planning (MSc) <br />
+	    </div>
+	</div>		
+	<div id="wrapper">
+	    <div id="years">  
+	    	09/2018 – 01/2019
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="titles">  
+	    	Calculus (BSc)
+	    </div>
+	</div>		
+	<div id="wrapper">
+	    <div id="years">  
+	    	08/2018
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="titles">  
+	    	Functional and Numerical Analysis (MSc/Ph.D.)
+	    </div>
+	</div>		
+	<div id="wrapper">
+	    <div id="years">  
+	    	02/2018 – 07/2018
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="titles">  
+	    	Multiscale methods (MSc/Ph.D.) 
+	    </div>
+	</div>		
+	<div id="wrapper">
+	    <div id="years">  
+	    	02/2017 – 07/2017
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="titles">  
+	    	Optimization methods (BSc) 
+	    </div>
+	</div>	
+	<div id="wrapper">
+	    <div id="years">  
+	    	09/2016 – 01/2017
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="titles">  
+	    	Enterprise Resource Planning (MSc)
 	    </div>
 	</div>	
 <h3><span style="color:rgb(199, 21, 133)"> Co-supervised Bachelor theses (BSc in Informatics):</span></h3>	
