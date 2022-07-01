@@ -11,6 +11,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 <style>
 #wrapper {
 	 display: flex;
+	 height:auto;
 }
 #years {
     display: inline-block;
