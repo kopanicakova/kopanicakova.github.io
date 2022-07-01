@@ -18,12 +18,14 @@ author_profile: true
 #div_paper {
     display: inline-block;
     width:30%;
-    height:190px;
+    /*height:190px;*/
+    display: flex;
 }
 #div_space {
     display: inline-block;
     width:4%;
-    height:190px;
+    display: flex;
+    /*height:190px;*/
 }
 </style>
 </head>
