@@ -13,7 +13,7 @@ author_profile: true
 	 display: flex;
 }
 #wrapper {
-	 
+	 display: flex;
 }
 #div_paper {
     display: inline-block;
