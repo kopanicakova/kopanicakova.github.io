@@ -9,26 +9,25 @@ author_profile: true
 <head>
 <!-- <title>Grid Example</title> -->
 <style>
-#wrapper_top {
-	 display: flex;
-}
 #wrapper {
-	 
+	 display: flex;
 }
 #div_paper {
     display: inline-block;
     width:30%;
-    height:190px;
+    /*height:190px;*/
+    display: flex;
 }
 #div_space {
     display: inline-block;
     width:4%;
-    height:190px;
+    display: flex;
+    /*height:190px;*/
 }
 </style>
 </head>
 <body>	
-<div id="wrapper_top">
+<div id="wrapper">
     <div id="div_paper">  
     	<figure>
   <a href="/publication/pf_spin">
