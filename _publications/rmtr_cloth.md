@@ -12,6 +12,6 @@ permalink: /publication/rmtr_cloth
 
 
 **Citation:** A. Kopaničáková, R. Krause, and R. Tamstorf. Subdivision-based nonlinear multiscale cloth simulation. SIAM Journal on Scientific Computing, 41(5):S433–S461, 2019.  <br />
-**Download:** <a href="https://epubs.siam.org/doi/abs/10.1137/18M1194870" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
+**Download:** <a href="https://epubs.siam.org/doi/abs/10.1137/18M1194870" style="color:rgb(199, 21, 133,0.75);">Published article.</a> <br />
 
 

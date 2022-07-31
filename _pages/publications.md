@@ -169,12 +169,12 @@ author_profile: true
 
 <div> </div><br/>
 ### <span style="color:rgb(199, 21, 133)"> Publications in peer-reviewed conference proceedings:</span>
-[C1] L. Gaedke-Merzhauser\*, **A. Kopaničáková\***, and R. Krause. Multilevel minimization for deep residual networks. In Proceedings of French-German-Swiss Optimization Conference (FGS’2019), 2021. **(\* Equal contribution)**. <a href="https://www.proquest.com/openview/7a0e921c47a627ec2097406f991ceee4/1?pq-origsite=gscholar&cbl=1796391" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
-[C2] C. von Planta, **A. Kopaničáková**, and R. Krause. Training of residual networks with stochastic MG/Opt. In ICML 2021 Workshop:Beyond First Order Methods in Machine Learning, 2021.<a href="https://drive.google.com/file/d/1dpgGBYC6ixRfpc3UxY9AH3aB4w2edUF_/view" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
-[C3] V. Braglia\*, **A. Kopaničáková\***, and R. Krause. A multilevel approach to training. In ICML 2020 Workshop: Beyond First Order Methods in Machine Learning, 2020. **(\* Equal contribution)**, <a href="https://drive.google.com/file/d/10GWhl-UzVwlZur5OC43P-P-p_ktSyhUO/view" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
-[C4] C. Bilgen, **A. Kopaničáková**, R. Krause, and K. Weinberg. A phase-field approach to pneumatic fracture. In PAMM, volume 17, pages 71–74, 2017. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/pamm.201710022" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
+[C1] L. Gaedke-Merzhauser\*, **A. Kopaničáková\***, and R. Krause. Multilevel minimization for deep residual networks. In Proceedings of French-German-Swiss Optimization Conference (FGS’2019), 2021. **(\* Equal contribution)**. <a href="https://www.proquest.com/openview/7a0e921c47a627ec2097406f991ceee4/1?pq-origsite=gscholar&cbl=1796391" style="color:rgb(199, 21, 133,0.75);">Published article.</a> <br />
+[C2] C. von Planta, **A. Kopaničáková**, and R. Krause. Training of residual networks with stochastic MG/Opt. In ICML 2021 Workshop:Beyond First Order Methods in Machine Learning, 2021.<a href="https://drive.google.com/file/d/1dpgGBYC6ixRfpc3UxY9AH3aB4w2edUF_/view" style="color:rgb(199, 21, 133,0.75);">Published article.</a> <br />
+[C3] V. Braglia\*, **A. Kopaničáková\***, and R. Krause. A multilevel approach to training. In ICML 2020 Workshop: Beyond First Order Methods in Machine Learning, 2020. **(\* Equal contribution)**, <a href="https://drive.google.com/file/d/10GWhl-UzVwlZur5OC43P-P-p_ktSyhUO/view" style="color:rgb(199, 21, 133,0.75);">Published article.</a> <br />
+[C4] C. Bilgen, **A. Kopaničáková**, R. Krause, and K. Weinberg. A phase-field approach to pneumatic fracture. In PAMM, volume 17, pages 71–74, 2017. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/pamm.201710022" style="color:rgb(199, 21, 133,0.75);">Published article.</a> <br />
 
 
 ### <span style="color:rgb(199, 21, 133)"> PhD thesis:</span>
-[PT1] **A. Kopaničáková**. Multilevel minimization in trust-region framework - Algorithmic and software developments. USI, 2020. <a href="https://doc.rero.ch/record/330121/files/2020INFO021.pdf" style="color:rgb(199, 21, 133,0.75);">Link to document.</a> <br />
+[PT1] **A. Kopaničáková**. Multilevel minimization in trust-region framework - Algorithmic and software developments. USI, 2020. <a href="https://doc.rero.ch/record/330121/files/2020INFO021.pdf" style="color:rgb(199, 21, 133,0.75);">Manuscript.</a> <br />
 

@@ -12,7 +12,7 @@ permalink: /publication/pf_params
 
 
 **Citation:** C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A detailed investigation of the model influencing parameters of the phase-field fracture approach. GAMM-Mitteilungen, 43(2):e202000005, 2020. <br />
-**Download:** <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/gamm.202000005" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
+**Download:** <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/gamm.202000005" style="color:rgb(199, 21, 133,0.75);">Published article.</a> <br />
 
 
 

@@ -16,5 +16,5 @@ close to the endocardial surface.
 
 
 **Citation:** F. Chegini, A. Kopaničáková, R. Krause, and M. Weiser. Efficient identification of scars using heterogeneous model hierarchies. EP Europace, 23(Supplement 1):i113–i122, 2021. <br />
-**Download:** <a href="https://academic.oup.com/europace/article-abstract/23/Supplement_1/i113/6158564?redirectedFrom=fulltextf" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
+**Download:** <a href="https://academic.oup.com/europace/article-abstract/23/Supplement_1/i113/6158564?redirectedFrom=fulltextf" style="color:rgb(199, 21, 133,0.75);">Published article.</a> <br />
 

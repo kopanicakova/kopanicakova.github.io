@@ -18,4 +18,4 @@ Solving such problems is deemed challenging even for a few fractures, however, h
 
 
 **Citation:** P. Zulian\*, A. Kopaničáková\*, M. G. C. Nestola, N. Fadel, A. Fink, J. VandeVondele, and R. Krause. Large scale simulation of pressure induced phase-field fracture propagation using Utopia. CCF Transactions on High Performance Computing, 2021.(\* Equal contribution) <br />
-**Download:** <a href="https://doi.org/10.1007/s42514-021-00069-6" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
+**Download:** <a href="https://doi.org/10.1007/s42514-021-00069-6" style="color:rgb(199, 21, 133,0.75);">Published article.</a> <br />

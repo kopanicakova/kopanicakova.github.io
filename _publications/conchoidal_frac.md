@@ -12,4 +12,4 @@ permalink: /publication/conchoidal_frac
 
 
 **Citation:** C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A phase-field approach to conchoidal fracture. Meccanica, pages 1–17, 2017. <br />
-**Download:** <a href="https://link.springer.com/content/pdf/10.1007/s11012-017-0740-z.pdf" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
+**Download:** <a href="https://link.springer.com/content/pdf/10.1007/s11012-017-0740-z.pdf" style="color:rgb(199, 21, 133,0.75);">Published article.</a> <br />

@@ -12,7 +12,7 @@ permalink: /publication/jfmg
 
 
 **Citation:** H. Kothari, A. Kopaničáková, and R. Krause. A Matrix-free Multigrid Preconditioner for Jacobian-free Newton-Krylov Methods. In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted. <br />
-**Download:** <a href="https://arxiv.org/abs/2203.13738" style="color:rgb(199, 21, 133,0.75);"> Link to preprint.</a> <br />
+**Download:** <a href="https://arxiv.org/abs/2203.13738" style="color:rgb(199, 21, 133,0.75);"> Preprint.</a> <br />
 
 
 

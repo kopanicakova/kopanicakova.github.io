@@ -12,5 +12,5 @@ permalink: /publication/rmtr_pf
 
 
 **Citation:** A. Kopaničáková and R. Krause. Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture. Computer Methods in Applied Mechanics and Engineering, 360:112720, 2020.  <br />
-**Download:**  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782519306085" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
+**Download:**  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782519306085" style="color:rgb(199, 21, 133,0.75);">Published article.</a> <br />
 

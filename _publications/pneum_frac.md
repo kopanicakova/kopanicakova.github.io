@@ -12,4 +12,4 @@ permalink: /publication/pneum_frac
 
 
 **Citation:** C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A phase-field approach to pneumatic fracture. In Non-standard Discretisation Methods in Solid Mechanics, pages 217–241, 2022. <br />
-**Download:** <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/pamm.201710022" style="color:rgb(199, 21, 133,0.75);">Link to published article.</a> <br />
+**Download:** <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/pamm.201710022" style="color:rgb(199, 21, 133,0.75);">Published article.</a> <br />
