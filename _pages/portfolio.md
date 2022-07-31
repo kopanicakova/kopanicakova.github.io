@@ -5,6 +5,52 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+## <span style="color:rgb(199, 21, 133)"> Multilevel training methods</span>
+<head>
+<style>
+#wrapper_top {
+	 display: flex;
+}
+#wrapper {
+	 
+}
+#picture_half {
+    display: inline-block;
+    width:47%;
+    height:auto;
+}
+#div_space {
+    display: inline-block;
+    width:4%;
+    height:auto;
+}
+</style>
+</head>
+<body>	
+	<div id="wrapper_top">
+	    <div id="picture_half">  
+	    	<img src="/images/resnet1.png">
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="picture_half">  
+	    	<br/>
+	    	 <img src="/images/resnet2.png">
+	    </div>
+	</div>
+
+<div style="text-align: justify"><br/>  Deep neural networks (DNNs) suffer from a computationally exhaustive training phase, which limits their applicability and hinders their development. During the training phase, the parameters of the network are determined by minimizing a highly non-convex loss functional. My research objective is to enhance the training of DNNs by leveraging multilevel minimization techniques. The ongoing developments explore two complementary approaches for the construction of the multilevel hierarchy and transfer operators.The first approach is tailored for the finite-sum optimization problems and constructs a multilevel hierarchy by coarsening in a number of samples, while the number of parameters is kept fixed. The second approach considers coarsening in parameter space. A particular focus is given to ODE-based network architectures, the structure of which can be explored to construct the multilevel hierarchy and transfer operators. The devised training methods achieve a significant reduction of computational cost for various classification and regression tasks, compared to standard single-level optimizers. Additionally, the methods typically exhibit lower sensitivity to the choice of the initial guess. </div>
+
+
+<span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
+<span style="font-size: 12px">
+[1] A. Kopaničáková and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. <br />
+[2] L. Gaedke-Merzhauser*, A. Kopaničáková*, and R. Krause. Multilevel minimization for deep residual networks. <br />
+[3] C. von Planta, A. Kopaničáková, and R. Krause. Training of residual networks with stochastic MG/Opt. <br />
+[4] V. Braglia*, A. Kopaničáková*, and R. Krause. A multilevel approach to training. <br />
+</span>
+</body>
+
+
 ## <span style="color:rgb(199, 21, 133)"> Multilevel trust-region methods</span>
 <head>
 <style>
@@ -102,52 +148,3 @@ Multilevel methods have been originally designed for solving elliptic partial di
 [7] C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A phase-field approach to pneumatic fracture. <br />
 </span>
 </body>
-
-
-
-
-## <span style="color:rgb(199, 21, 133)"> Multilevel training methods</span>
-<head>
-<style>
-#wrapper_top {
-	 display: flex;
-}
-#wrapper {
-	 
-}
-#picture_half {
-    display: inline-block;
-    width:47%;
-    height:auto;
-}
-#div_space {
-    display: inline-block;
-    width:4%;
-    height:auto;
-}
-</style>
-</head>
-<body>	
-	<div id="wrapper_top">
-	    <div id="picture_half">  
-	    	<img src="/images/resnet1.png">
-	    </div>
-		<div id="div_space"></div>    
-	    <div id="picture_half">  
-	    	<br/>
-	    	 <img src="/images/resnet2.png">
-	    </div>
-	</div>
-
-<div style="text-align: justify"><br/>  Deep neural networks (DNNs) suffer from a computationally exhaustive training phase, which limits their applicability and hinders their development. During the training phase, the parameters of the network are determined by minimizing a highly non-convex loss functional. My research objective is to enhance the training of DNNs by leveraging multilevel minimization techniques. The ongoing developments explore two complementary approaches for the construction of the multilevel hierarchy and transfer operators.The first approach is tailored for the finite-sum optimization problems and constructs a multilevel hierarchy by coarsening in a number of samples, while the number of parameters is kept fixed. The second approach considers coarsening in parameter space. A particular focus is given to ODE-based network architectures, the structure of which can be explored to construct the multilevel hierarchy and transfer operators. The devised training methods achieve a significant reduction of computational cost for various classification and regression tasks, compared to standard single-level optimizers. Additionally, the methods typically exhibit lower sensitivity to the choice of the initial guess. </div>
-
-
-<span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
-<span style="font-size: 12px">
-[1] A. Kopaničáková and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. <br />
-[2] L. Gaedke-Merzhauser*, A. Kopaničáková*, and R. Krause. Multilevel minimization for deep residual networks. <br />
-[3] C. von Planta, A. Kopaničáková, and R. Krause. Training of residual networks with stochastic MG/Opt. <br />
-[4] V. Braglia*, A. Kopaničáková*, and R. Krause. A multilevel approach to training. <br />
-</span>
-</body>
-
