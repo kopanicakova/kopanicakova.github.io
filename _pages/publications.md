@@ -35,7 +35,7 @@ author_profile: true
   </a>
   <figcaption>A. Kopaničáková, H. Kothari, and R. Krause. 
   <b>Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture.</b> 
-  Under review in Computer Methods in Applied Mechanics and Engineering, 2022. 
+  Computer Methods in Applied Mechanics and Engineering, 2023. 
  </figcaption>
   </figure></div>
   <div id="div_space"></div>
@@ -45,7 +45,7 @@ author_profile: true
   </a>
   <figcaption>A. Kopaničáková, and R. Krause. 
   <b>Globally Convergent Multilevel Training of Deep Residual Networks.</b> 
-  Accepted for publication in SIAM Journal on Scientific Computing, 2022. 
+  SIAM Journal on Scientific Computing, 2022. 
 </figcaption>
   </figure></div>
 <div id="div_space"></div>
