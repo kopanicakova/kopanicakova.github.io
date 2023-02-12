@@ -15,5 +15,5 @@ The overall performance and the convergence properties of our  multilevel traini
 </div><br />
 
 
-**Citation:** A. Kopaničáková, and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. Accepted for publication in SIAM Journal on Scientific Computing, 2022. <br />
-**Download:** <a href="https://arxiv.org/abs/2107.07572" style="color:rgb(199, 21, 133,0.75);">Preprint.</a> <br />
+**Citation:** A. Kopaničáková, and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. SIAM Journal on Scientific Computing, 2022. <br />
+**Download:** <a href="https://epubs.siam.org/doi/abs/10.1137/21M1434076" style="color:rgb(199, 21, 133,0.75);">Published article.</a> <br />
