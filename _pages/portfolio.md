@@ -43,10 +43,11 @@ author_profile: true
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
 <span style="font-size: 12px">
-[1] A. Kopaničáková and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. <br />
-[2] L. Gaedke-Merzhauser*, A. Kopaničáková*, and R. Krause. Multilevel minimization for deep residual networks. <br />
-[3] C. von Planta, A. Kopaničáková, and R. Krause. Training of residual networks with stochastic MG/Opt. <br />
-[4] V. Braglia*, A. Kopaničáková*, and R. Krause. A multilevel approach to training. <br />
+[1] S. Gratton, A. Kopaničáková and Ph. L. Toint. Multilevel Objective-Function-Free Optimization with an Application to Neural Networks Training. <br />
+[2] A. Kopaničáková and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. <br />
+[3] L. Gaedke-Merzhauser*, A. Kopaničáková*, and R. Krause. Multilevel minimization for deep residual networks. <br />
+[4] C. von Planta, A. Kopaničáková, and R. Krause. Training of residual networks with stochastic MG/Opt. <br />
+[5] V. Braglia*, A. Kopaničáková*, and R. Krause. A multilevel approach to training. <br />
 </span>
 </body>
 
@@ -89,13 +90,14 @@ Multilevel methods have been originally designed for solving elliptic partial di
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
 <span style="font-size: 12px">
-[1] A. Kopaničáková. On the use of hybrid coarse-level models in multilevel minimization methods. <br />	
-[2] A. Kopaničáková and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. <br />
-[3] F. Chegini, A. Kopaničáková, R. Krause, and M. Weiser. Efficient identification of scars using heterogeneous model hierarchies. <br />
-[4] A. Kopaničáková and R. Krause. Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture. <br />
-[5] A. Kopaničáková, R. Krause, and R. Tamstorf. Subdivision-based nonlinear multiscale cloth simulation. <br />
-[6] F. Chegini, A. Kopaničáková, M. Weiser, and R. Krause. Quantitative analysis of nonlinear multifidelity optimization for inverse electrophysiology. <br />
-[7] A. Kopaničáková and R. Krause. Multilevel Active-Set Trust-Region (MASTR) Method for Bound Constrained Minimization. <br />
+[1] S. Gratton, A. Kopaničáková and Ph. L. Toint. Multilevel Objective-Function-Free Optimization with an Application to Neural Networks Training. <br />	
+[2] A. Kopaničáková. On the use of hybrid coarse-level models in multilevel minimization methods. <br />	
+[3] A. Kopaničáková and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. <br />
+[4] F. Chegini, A. Kopaničáková, R. Krause, and M. Weiser. Efficient identification of scars using heterogeneous model hierarchies. <br />
+[5] A. Kopaničáková and R. Krause. Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture. <br />
+[6] A. Kopaničáková, R. Krause, and R. Tamstorf. Subdivision-based nonlinear multiscale cloth simulation. <br />
+[7] F. Chegini, A. Kopaničáková, M. Weiser, and R. Krause. Quantitative analysis of nonlinear multifidelity optimization for inverse electrophysiology. <br />
+[8] A. Kopaničáková and R. Krause. Multilevel Active-Set Trust-Region (MASTR) Method for Bound Constrained Minimization. <br />
 </span>	
 </body>
 
