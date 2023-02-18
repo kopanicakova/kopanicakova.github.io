@@ -41,7 +41,7 @@ author_profile: true
   <div id="div_space"></div>
   <div id="div_paper"><figure>
   <a href="/publication/hybrid_objectives">
-     <img src="/images/hybrid_objectives.png">
+     <img src="/images/hybrid_objectives2.png">
   </a>
   <figcaption>A. Kopaničáková. 
   <b>On the use of hybrid coarse-level models in multilevel minimization methods.</b> 
