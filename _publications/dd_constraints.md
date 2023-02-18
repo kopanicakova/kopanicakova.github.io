@@ -7,7 +7,7 @@ permalink: /publication/dd_constraints
 ---
 
 ## <span style="color:rgb(199, 21, 133)">  Nonlinear Schwarz preconditioning for nonlinear optimization problems with bound constraints. </span>
-<div style="text-align: justify">We propose a nonlinear additive Schwarz method for solving nonlinear optimization problems with bound constraints. Our method is used as a “rightpreconditioner" for solving the first-order optimality system arising within the sequential quadratic programming (SQP) framework using Newton’s method. The algorithmic scalability of this preconditioner is enhanced by incorporating a solutiondependent coarse space, which takes into account the restricted constraints from the fine level. By means of numerical examples, we demonstrate that the proposed preconditioned Newton methods outperform standard active-set methods considered in the literature.
+<div style="text-align: justify">We propose a nonlinear additive Schwarz method for solving nonlinear optimization problems with bound constraints. Our method is used as a “right preconditioner" for solving the first-order optimality system arising within the sequential quadratic programming (SQP) framework using Newton’s method. The algorithmic scalability of this preconditioner is enhanced by incorporating a solutiondependent coarse space, which takes into account the restricted constraints from the fine level. By means of numerical examples, we demonstrate that the proposed preconditioned Newton methods outperform standard active-set methods considered in the literature.
 </div><br />
 
 
