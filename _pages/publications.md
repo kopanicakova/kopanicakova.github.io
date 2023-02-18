@@ -27,6 +27,39 @@ author_profile: true
 </style>
 </head>
 <body>	
+  <div id="wrapper">
+    <div id="div_paper">  
+      <figure>
+  <a href="/publication/ML_OFFO">
+     <img src="/images/ML_OFFO.png">
+  </a>
+  <figcaption>S. Gratton, A. Kopaničáková, and Ph. L. Toint. 
+  <b>Multilevel Objective-Function-Free Optimization with an Application to Neural Networks Training.</b> 
+  Under review, 2023. 
+ </figcaption>
+  </figure></div>
+  <div id="div_space"></div>
+  <div id="div_paper"><figure>
+  <a href="/publication/hybrid_objectives">
+     <img src="/images/hybrid_objectives.png">
+  </a>
+  <figcaption>A. Kopaničáková. 
+  <b>On the use of hybrid coarse-level models in multilevel minimization methods.</b> 
+  Under review, 2023. 
+</figcaption>
+  </figure></div>
+<div id="div_space"></div>
+  <div id="div_paper"><figure>
+  <a href="/publication/dd_constraints">
+     <img src="/images/dd_constraints.png">
+  </a>
+  <figcaption>H. Kothari, A. Kopaničáková, and R. Krause.
+  <b>Nonlinear Schwarz preconditioning for nonlinear optimization problems with bound constraints.</b> 
+  Under review, 2023.
+   </figcaption>
+  </figure></div>  
+</div><br/>
+<!-- row 2-->
 <div id="wrapper">
     <div id="div_paper">  
     	<figure>
@@ -59,7 +92,7 @@ author_profile: true
    </figcaption>
   </figure></div>  
 </div><br/>
-<!-- row 2-->
+<!-- row 3 -->
 <div id="wrapper">
     <div id="div_paper">  
     	<figure>
@@ -92,7 +125,7 @@ author_profile: true
 </figcaption>
   </figure></div>  
 </div><br/>
-<!-- row 3-->
+<!-- row 4-->
 <div id="wrapper">
     <div id="div_paper">  
     	<figure>
@@ -127,7 +160,7 @@ author_profile: true
   </figure>
 </div>  
 </div><br/>
-<!-- row 4-->
+<!-- row 5-->
 <div id="wrapper">
     <div id="div_paper">  
     	<figure>
