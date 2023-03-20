@@ -11,7 +11,7 @@ permalink: /publication/mastr
 </div><br />
 
 
-**Citation:** A. Kopaničáková, and R. Krause.  Multilevel Active-Set Trust-Region (MASTR) Method for Bound Constrained Minimization. In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted.  <br />
+**Citation:** A. Kopaničáková, and R. Krause.  Multilevel Active-Set Trust-Region (MASTR) Method for Bound Constrained Minimization. In: Brenner, S.C., Chung, E., Klawonn, A., Kwok, F., Xu, J., Zou, J. (eds) Domain Decomposition Methods in Science and Engineering XXVI. Lecture Notes in Computational Science and Engineering, vol 145. Springer, Cham. https://doi.org/10.1007/978-3-030-95025-5_37. 2022.  <br />
 **Download:** <a href="https://arxiv.org/pdf/2103.14552.pdf" style="color:rgb(199, 21, 133,0.75);">Preprint.</a> <br />
 
 

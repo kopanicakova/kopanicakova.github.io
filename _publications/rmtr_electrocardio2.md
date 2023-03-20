@@ -12,6 +12,6 @@ For computing a maximum posterior estimate, we investigate different algorithmic
 </div><br />
 
 
-**Citation:** F. Chegini, A. Kopaničáková, M. Weiser, and R. Krause. Quantitative analysis of nonlinear multifidelity optimization for inverse electrophysiology. In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted.  <br />
+**Citation:** F. Chegini, A. Kopaničáková, M. Weiser, and R. Krause. Quantitative analysis of nonlinear multifidelity optimization for inverse electrophysiology.  In: Brenner, S.C., Chung, E., Klawonn, A., Kwok, F., Xu, J., Zou, J. (eds) Domain Decomposition Methods in Science and Engineering XXVI. Lecture Notes in Computational Science and Engineering, vol 145. Springer, Cham. https://doi.org/10.1007/978-3-030-95025-5_6. 2022.  <br />
 **Download:** <a href="" style="color:rgb(199, 21, 133,0.75);">Preprint can be provided upon request.</a> <br />
 

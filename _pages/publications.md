@@ -169,7 +169,7 @@ author_profile: true
   </a>
   <figcaption>F. Chegini, A. Kopaničáková, M. Weiser, and R. Krause. 
   <b> Quantitative analysis of nonlinear multifidelity optimization for inverse electrophysiology.</b>
-  In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted.  
+  In Domain Decomposition Methods in Science and Engineering XXVI. Lecture Notes in Computational Science and Engineering, vol 145. Springer, 2022.
 </figcaption>
   </figure></div>
   <div id="div_space"></div>
@@ -179,7 +179,7 @@ author_profile: true
   </a>
   <figcaption>A. Kopaničáková, and R. Krause.
   <b>Multilevel Active-Set Trust-Region (MASTR) Method for Bound Constrained Minimization.</b> 
-  In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted.
+  In Domain Decomposition Methods in Science and Engineering XXVI. Lecture Notes in Computational Science and Engineering, vol 145. Springer, 2022.
    </figcaption>
   </figure></div>
 <div id="div_space"></div>
@@ -190,7 +190,7 @@ author_profile: true
   </a>
   <figcaption>H. Kothari, A. Kopaničáková, and R. Krause.
   <b> A Matrix-free Multigrid Preconditioner for Jacobian-free Newton-Krylov Methods.</b> 
-  In Domain Decomposition Methods in Science and Engineering XXVI. Springer, 2021. Accepted. 
+  In Domain Decomposition Methods in Science and Engineering XXVI. Lecture Notes in Computational Science and Engineering, vol 145. Springer, 2022.
 </figcaption>
   </figure>
 </div>  
