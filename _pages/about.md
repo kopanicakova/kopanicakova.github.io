@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify">I am currently <span style="color:rgb(199, 21, 133, 0.75)"> Visiting Scholar at Brown University</span> (Division of Applied Mathematics, CRUNCH group). 
+<div style="text-align: justify">I am currently <span style="color:rgb(199, 21, 133, 0.75)"> Visiting Scholar at Brown University</span> (Division of Applied Mathematics, CRUNCH group led by Prof. George Karniadakis). 
 My research visit is supported by the Swiss National Science Foundation via a Postdoc-Mobility grant awarded for the project "Multilevel training of DeepONets - multiscale and multiphysics applications". 
 Prior to joining Brown University, I was a <span style="color:rgb(199, 21, 133, 0.75)">Postdoctoral Researcher at Università della Svizzera italiana</span> (Euler Institute), from where I have also received a <span style="color:rgb(199, 21, 133, 0.75)">Ph.D. in Computational Science,</span> under the supervision of Prof. Rolf Krause.</div>
 
