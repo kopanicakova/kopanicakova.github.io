@@ -14,7 +14,7 @@ author_profile: true
 
 ### <span style="color:rgb(199, 21, 133)">Selected oral presentations:</span>
 [T5] **A. Kopaničáková**, S. Gratton, and Ph. Toint. Multilevel Objective-Function-Free Trust-Region with an Application to Neural Networks Training. Copper Mountain Conference On Multigrid Methods, 2023<br />
-[T6] **A. Kopaničáková**. Nonlinear multilevel minimization methods with applicaitons in computational science and machine-learning. Rising Stars in Computational & Data Science, 2023<br />
+[T6] **A. Kopaničáková**. Nonlinear multilevel minimization methods with applicaitons in computational science and machine-learning. Rising Stars in Computational & Data Science event, 2023<br />
 [T7] **A. Kopaničáková**, H. Kothari, and R. Krause. Towards Large-Scale Training of Deep Neural Networks Using Domain-Decomposition Methods. SIAM Conference on Computational Science and Engineering  (CSE23), 2023<br />
 [T8] **A. Kopaničáková**, and R. Krause. Multiscale Training Algorithms for Deep Neural Networks. SIAM Confrence on Mathematics of Data Science Conference (MDS22), 2022<br />
 [T9] **A. Kopaničáková**, H. Kothari, P. Zulian, and R. Krause. Multilevel and domain decomposition methods for phase-field fracture simulations. 15th World Congress on Computational Mechanics & 8th Asian Pacific Congress on Computational Mechanics (WCCM-APCOM), 2022<br />
@@ -39,5 +39,3 @@ Platform for Advanced Scientific Computing (PASC) Conference, 2022<br />
 [P2] P. Zulian, **A. Kopaničáková**, M. Nestola, D. Ganellari, N. Fadel, J. VandeVondele, and R. Krause. Utopia: a Hardware Portable Library for Large Scale Simulations in Computational Geophysics. The Platform for Advanced Scientific Computing (PASC) Conference, 2022<br />
 [P3] P. Zulian, **A. Kopaničáková**, M. G. C. Nestola, and R. Krause. Open-source software library for non-conforming domain decomposition methods targeting computational energy. The Future Swiss Electrical Infrastructure (SCCER-FURIES) Annual Conference, 2019<br />
 [P4] P. Zulian, M. G. C. Nestola, **A. Kopaničáková**, and R. Krause. Fluid-structure interaction methods and software libraries for in-silico analysis of the aortic heart valve. Towards the Digital Twin (TRM) Forum, 2019<br />
-
-

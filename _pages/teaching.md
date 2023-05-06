@@ -117,6 +117,15 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 <h3><span style="color:rgb(199, 21, 133)"> Co-supervised Master theses (MSc in Mathematics/Computational Science):</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
+	    	01/2023 – 
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="titles">  
+	    	Marc Salvado, <em>Multilevel approaches for enhancing the training of transformers</em>
+	    </div>
+	</div>	
+	<div id="wrapper">
+	    <div id="years">  
 	    	09/2021 – 03/2022
 	    </div>
 		<div id="div_space"></div>    
@@ -159,7 +168,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Marc Salvadó, <em>Multilevel methods and large-scale maximum inner product quantization</em> 
+	    	Marc Salvadó, <em>Layer parallel training of transformers</em> 
 	    </div>
 	</div>	
 	<div id="wrapper">
