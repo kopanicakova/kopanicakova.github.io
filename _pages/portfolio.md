@@ -76,13 +76,13 @@ author_profile: true
 </head>
 <body>	
 	<div id="wrapper_top">
-	    <!-- <div id="picture_half">   -->
-	    	<img src="/images/network_decomp.png">
-	    <!-- </div> -->
-<!-- 		<div id="div_space"></div>    
 	    <div id="picture_half">  
-	    	<img src="/images/rmtr2.png">
-	    </div> -->
+	    	<img src="/images/network_decomp.png">
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="picture_half">  
+	    	<img src="/images/dd_constraints.png">
+	    </div>
 	</div>
 
 <div style="text-align: justify"><br/> 
