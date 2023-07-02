@@ -67,6 +67,11 @@ author_profile: true
     width:47%;
     height:auto;
 }
+#picture_half2 {
+    display: inline-block;
+    width:35%;
+    height:auto;
+}
 #div_space {
     display: inline-block;
     width:4%;
@@ -80,7 +85,7 @@ author_profile: true
 	    	<img src="/images/network_decomp.png">
 	    </div>
 		<div id="div_space"></div>    
-	    <div id="picture_half">  
+	    <div id="picture_half2">  
 	    	<img src="/images/dd_constraints.png">
 	    </div>
 	</div>
@@ -204,7 +209,7 @@ Multilevel methods have been originally designed for solving elliptic partial di
 
 
 
-## <span style="color:rgb(199, 21, 133)"> Scientific software</span>
+<!-- ## <span style="color:rgb(199, 21, 133)"> Scientific software</span>
 <head>
 <style>
 #wrapper_top {
@@ -226,7 +231,7 @@ Multilevel methods have been originally designed for solving elliptic partial di
 </style>
 </head>
 <body>	
-	<!-- <div id="wrapper_top1">
+	<div id="wrapper_top1">
 	    <div id="picture_half">  
 	    	<img src="/images/frac_net1.png">
 	    </div>
@@ -234,13 +239,13 @@ Multilevel methods have been originally designed for solving elliptic partial di
 	    <div id="picture_half">  
 	    	<img src="/images/frac_net2.png">
 	    </div>
-	</div> -->
-<div style="text-align: justify">
-<!-- <br/>  -->
+	</div>
+<div style="text-align: justify"> -->
+<!-- <br/> 
 I actively contribute to the development of scientific software libraries with a particular focus on the development of large-scale, parallel simulations, and efficient nonlinear optimization strategies.</div>
+ -->
 
-
-<span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Software libraries: </span><br />
+<!-- <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Software libraries: </span><br />
 <span style="font-size: 12px">
 <b> Utopia: </b> Open-source C++ embedded domain specific language designed for parallel nonlinear solution strategies and finite element analysis. <a href="https://bitbucket.org/zulianp/utopia/src/master/" style="color:rgb(199, 21,133,0.75);">Code repository.</a> (Core developer) <br />
 <b> ROOK: </b> Large-scale finite-element framework for (pressure-induced) phase-field fracture
@@ -250,5 +255,5 @@ networks. (Solo developer) <br />
 <b> DistTraiNN: </b> Model parallel framework for distributed training of deep neural network (Core developer) <br />
 <b> Heart: </b> Parallel framework for inverse problems in electrophysiology. (Contributor)<br />
 </span>
-</body>
+</body> -->
 
