@@ -74,7 +74,7 @@ author_profile: true
 }
 #div_space {
     display: inline-block;
-    width:15%;
+    width:20%;
     height:auto;
 }
 </style>
@@ -212,7 +212,7 @@ Multilevel methods have been originally designed for solving elliptic partial di
 ## <span style="color:rgb(199, 21, 133)"> Scientific software</span>
 <body>	
 <div style="text-align: justify">
-I actively contribute to the development of scientific software libraries with a particular focus on the development of large-scale, parallel simulations, and efficient nonlinear optimization strategies.</div>
+I actively contribute to the development of scientific software libraries with a particular focus on the development of large-scale, parallel nonlinear optimization strategies and simulation frameworks.</div>
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Software libraries: </span><br />
 <span style="font-size: 12px">
