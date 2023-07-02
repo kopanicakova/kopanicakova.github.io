@@ -226,7 +226,7 @@ Multilevel methods have been originally designed for solving elliptic partial di
 </style>
 </head>
 <body>	
-	<div id="wrapper_top1">
+	<!-- <div id="wrapper_top1">
 	    <div id="picture_half">  
 	    	<img src="/images/frac_net1.png">
 	    </div>
@@ -234,8 +234,9 @@ Multilevel methods have been originally designed for solving elliptic partial di
 	    <div id="picture_half">  
 	    	<img src="/images/frac_net2.png">
 	    </div>
-	</div>
-<div style="text-align: justify"><br/> I actively contribute to the development of scientific software libraries. </div>
+	</div> -->
+<div style="text-align: justify"><br/> 
+I actively contribute to the development of scientific software libraries. </div>
 
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Software libraries: </span><br />
