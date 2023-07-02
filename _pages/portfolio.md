@@ -53,7 +53,7 @@ author_profile: true
 </body>
 
 
-## <span style="color:rgb(199, 21, 133)"> Nonlinear field-split and domain-decomposition based preconditioners</span>
+## <span style="color:rgb(199, 21, 133)"> Nonlinear field-split and domain-decomposition based preconditioning</span>
 <head>
 <style>
 #wrapper_top {
@@ -77,7 +77,7 @@ author_profile: true
 <body>	
 	<div id="wrapper_top">
 	    <div id="picture_half">  
-	    	<img src="/images/network_decomp.pdf">
+	    	<img src="/images/network_decomp.png">
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="picture_half">  
