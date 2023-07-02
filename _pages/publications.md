@@ -196,7 +196,7 @@ author_profile: true
 </div>  
 </div><br/>
 <!-- row 6-->
-<!-- <div id="wrapper">
+<div id="wrapper">
     <div id="div_paper">  
       <figure>
   <a href="/publication/rmtr_electrocardio2">
@@ -215,7 +215,7 @@ author_profile: true
     <figure>
   </figure>
 </div>  
-</div><br/> -->
+</div><br/>
 <!-- row 7-->
 </body>
 
