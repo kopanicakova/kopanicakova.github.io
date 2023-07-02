@@ -172,7 +172,6 @@ author_profile: true
 </figcaption>
   </figure>
 </div>  
-</div><br/>
   <div id="div_space"></div>
   <div id="div_paper"><figure>
   <a href="/publication/mastr">
