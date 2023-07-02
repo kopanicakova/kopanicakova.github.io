@@ -93,6 +93,42 @@ author_profile: true
 </figcaption>
   </figure></div>
 </div><br/>
+<!-- row 5-->
+<div id="wrapper">
+  <div id="div_paper">
+    <figure>
+  <a href="/publication/pneum_frac">
+     <img src="/images/pneum_frac.png">
+  </a>
+  <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
+  <b> A phase-field approach to pneumatic fracture.</b> 
+  Non-standard Discretisation Methods in Solid Mechanics,pages 217–241,2022. 
+</figcaption>
+  </figure>
+</div>  
+  <div id="div_space"></div>
+  <div id="div_paper"><figure>
+  <a href="/publication/mastr">
+     <img src="/images/mastr.png">
+  </a>
+  <figcaption>A. Kopaničáková, and R. Krause.
+  <b>Multilevel Active-Set Trust-Region (MASTR) Method for Bound Constrained Minimization.</b> 
+  In Domain Decomposition Methods in Science and Engineering XXVI. Lecture Notes in Computational Science and Engineering, vol 145. Springer, 2022.
+   </figcaption>
+  </figure></div>
+<div id="div_space"></div>
+  <div id="div_paper">
+    <figure>
+  <a href="/publication/jfmg">
+     <img src="/images/jfmg.png">
+  </a>
+  <figcaption>H. Kothari, A. Kopaničáková, and R. Krause.
+  <b> A Matrix-free Multigrid Preconditioner for Jacobian-free Newton-Krylov Methods.</b> 
+  In Domain Decomposition Methods in Science and Engineering XXVI. Lecture Notes in Computational Science and Engineering, vol 145. Springer, 2022.
+</figcaption>
+  </figure>
+</div>  
+</div><br/>
 <!-- row 3 -->
 <div id="wrapper">
   <div id="div_paper"><figure>
@@ -158,42 +194,6 @@ author_profile: true
   Meccanica, pages 1–17, 2017. 
 </figcaption>
   </figure></div>
-</div><br/>
-<!-- row 5-->
-<div id="wrapper">
-  <div id="div_paper">
-    <figure>
-  <a href="/publication/pneum_frac">
-     <img src="/images/pneum_frac.png">
-  </a>
-  <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
-  <b> A phase-field approach to pneumatic fracture.</b> 
-  Non-standard Discretisation Methods in Solid Mechanics,pages 217–241,2022. 
-</figcaption>
-  </figure>
-</div>  
-  <div id="div_space"></div>
-  <div id="div_paper"><figure>
-  <a href="/publication/mastr">
-     <img src="/images/mastr.png">
-  </a>
-  <figcaption>A. Kopaničáková, and R. Krause.
-  <b>Multilevel Active-Set Trust-Region (MASTR) Method for Bound Constrained Minimization.</b> 
-  In Domain Decomposition Methods in Science and Engineering XXVI. Lecture Notes in Computational Science and Engineering, vol 145. Springer, 2022.
-   </figcaption>
-  </figure></div>
-<div id="div_space"></div>
-  <div id="div_paper">
-  	<figure>
-  <a href="/publication/jfmg">
-     <img src="/images/jfmg.png">
-  </a>
-  <figcaption>H. Kothari, A. Kopaničáková, and R. Krause.
-  <b> A Matrix-free Multigrid Preconditioner for Jacobian-free Newton-Krylov Methods.</b> 
-  In Domain Decomposition Methods in Science and Engineering XXVI. Lecture Notes in Computational Science and Engineering, vol 145. Springer, 2022.
-</figcaption>
-  </figure>
-</div>  
 </div><br/>
 <!-- row 6-->
 <div id="wrapper">
