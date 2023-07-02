@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-### <span style="color:rgb(199, 21, 133)">Invited talks/visits</span>
+### <span style="color:rgb(199, 21, 133)">Invited talks</span>
 [T1] **A. Kopaničáková**. Enhancing Training of Deep Neural Networks Using Multilevel and Domain Decomposition Methods. **Plenary talk,** at International Multigrid Conference 2022<br />
 [T2] **A. Kopaničáková** and R. Krause. Multilevel training of deep neural networks. Invited talk in the machine learning seminar of Legato team (group of Prof. Stéphane Bordas, Université du Luxembourg), 2022<br />
 [T3] **A. Kopaničáková** and R. Krause. Multilevel minimization and Deep Residual Networks (ResNets). Invited talk in the group of Prof. M. Jaggi (EPFL Laussane, Switzerland), 2020<br />
