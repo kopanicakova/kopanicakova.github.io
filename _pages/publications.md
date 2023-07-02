@@ -30,11 +30,11 @@ author_profile: true
   <div id="wrapper">
     <div id="div_paper">  
       <figure>
-  <a href="/publication/ML_OFFO">
-     <img src="/images/ML_OFFO.png">
+  <a href="/publication/DD_SPIN">
+     <img src="/images/network_decomp.png">
   </a>
-  <figcaption>S. Gratton, A. Kopaničáková, and Ph. L. Toint. 
-  <b>Multilevel Objective-Function-Free Optimization with an Application to Neural Networks Training.</b> 
+  <figcaption>A. Kopaničáková, H. Kothari, G. Karniadakis and R. Krause. 
+  <b>Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies.</b>
   Under review, 2023. 
  </figcaption>
   </figure></div>
