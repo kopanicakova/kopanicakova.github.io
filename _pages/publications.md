@@ -199,37 +199,34 @@ author_profile: true
 <div id="wrapper">
     <div id="div_paper">  
       <figure>
-  <a href="/publication/network_decomp">
+  <a href="/publication/DD_SPIN">
      <img src="/images/network_decomp.png">
   </a>
   <figcaption>A. Kopaničáková, H. Kothari, G. Karniadakis and R. Krause. 
   <b>Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies. Under review, 2023. 
 </figcaption>
-<!--   </figure></div>
+  </figure></div>
   <div id="div_space"></div>
   <div id="div_paper"><figure>
-  <a href="/publication/mastr">
-     <img src="/images/mastr.png">
+  <!-- <a href="/publication/mastr">
+     <img src="/images/mastr.png"> -->
   </a>
-  <figcaption>A. Kopaničáková, and R. Krause.
-  <b>Multilevel Active-Set Trust-Region (MASTR) Method for Bound Constrained Minimization.</b> 
-  In Domain Decomposition Methods in Science and Engineering XXVI. Lecture Notes in Computational Science and Engineering, vol 145. Springer, 2022.
+  <figcaption>
    </figcaption>
-  </figure></div> -->
-<!-- <div id="div_space"></div>
+  </figure></div>
+<div id="div_space"></div>
   <div id="div_paper">
     <figure>
-  <a href="/publication/jfmg">
-     <img src="/images/jfmg.png">
+  <!-- <a href="/publication/jfmg">
+     <img src="/images/jfmg.png"> -->
   </a>
-  <figcaption>H. Kothari, A. Kopaničáková, and R. Krause.
-  <b> A Matrix-free Multigrid Preconditioner for Jacobian-free Newton-Krylov Methods.</b> 
-  In Domain Decomposition Methods in Science and Engineering XXVI. Lecture Notes in Computational Science and Engineering, vol 145. Springer, 2022.
+  <figcaption>
 </figcaption>
   </figure>
-</div>   -->
+</div>  
 </div><br/>
 </body>
+
 
 
 
