@@ -64,7 +64,7 @@ author_profile: true
 }
 #picture_half {
     display: inline-block;
-    width:47%;
+    width:50%;
     height:auto;
 }
 #picture_half2 {
@@ -74,7 +74,7 @@ author_profile: true
 }
 #div_space {
     display: inline-block;
-    width:4%;
+    width:10%;
     height:auto;
 }
 </style>
