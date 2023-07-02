@@ -238,17 +238,15 @@ Multilevel methods have been originally designed for solving elliptic partial di
 <div style="text-align: justify"><br/> I actively contribute to the development of scientific software libraries. </div>
 
 
-<span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
+<span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Software libraries: </span><br />
 <span style="font-size: 12px">
-<b> Utopia </b> Open-source C++ embedded domain specific language designed for parallel nonlinear solution strategies and finite element analysis. Code repository. (Core developer) <br />
-
-<b> ROOK </b> Large-scale finite-element framework for (pressure-induced) phase-field fracture
+<b> Utopia: </b> Open-source C++ embedded domain specific language designed for parallel nonlinear solution strategies and finite element analysis. <a href="https://bitbucket.org/zulianp/utopia/src/master/" style="color:rgb(199, 21,133,0.75);">Code repository.</a> (Core developer) <br />
+<b> ROOK: </b> Large-scale finite-element framework for (pressure-induced) phase-field fracture
 simulations. (Solo developer) <br />
-<b> MultiscAI </b> Stochastic multilevel optimization framework for training ODE-based deep neural
+<b> MultiscAI: </b> Stochastic multilevel optimization framework for training ODE-based deep neural
 networks. (Solo developer) <br />
-<b> DistTraiNN </b> Scalable domain-decomposition framework for physics-informed networks and operator learning approaches. (Core developer) <br />
-<b> Heart </b> Parallel framework for inverse problems in electrophysiology. (Contributor)<br />
-
-
+<b> DistTraiNN: </b> Scalable domain-decomposition framework for physics-informed networks and operator learning approaches. (Core developer) <br />
+<b> Heart: </b> Parallel framework for inverse problems in electrophysiology. (Contributor)<br />
 </span>
 </body>
+
