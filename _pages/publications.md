@@ -38,7 +38,18 @@ author_profile: true
   Under review, 2023. 
  </figcaption>
   </figure></div>
-  <div id="div_space"></div>
+   <div id="div_space"></div>
+    <div id="div_paper">  
+      <figure>
+  <a href="/publication/ML_OFFO">
+     <img src="/images/ML_OFFO.png">
+  </a>
+  <figcaption>S. Gratton, A. Kopaničáková, and Ph. L. Toint. 
+  <b>Multilevel Objective-Function-Free Optimization with an Application to Neural Networks Training.</b> 
+  Under review, 2023. 
+ </figcaption>
+  </figure></div>
+<div id="div_space"></div>
   <div id="div_paper"><figure>
   <a href="/publication/hybrid_objectives">
      <img src="/images/hybrid_objectives2.png">
@@ -47,8 +58,10 @@ author_profile: true
   <b>On the use of hybrid coarse-level models in multilevel minimization methods.</b> 
   Accepted, 2023. 
 </figcaption>
-  </figure></div>
-<div id="div_space"></div>
+  </figure></div> 
+</div><br/>
+<!-- row 2-->
+<div id="wrapper">
   <div id="div_paper"><figure>
   <a href="/publication/dd_constraints">
      <img src="/images/dd_constraints.png">
@@ -58,11 +71,9 @@ author_profile: true
   Accepted, 2023.
    </figcaption>
   </figure></div>  
-</div><br/>
-<!-- row 2-->
-<div id="wrapper">
+  <div id="div_space"></div>
     <div id="div_paper">  
-    	<figure>
+      <figure>
   <a href="/publication/pf_spin">
      <img src="/images/pf_spin.png">
   </a>
@@ -71,7 +82,7 @@ author_profile: true
   Computer Methods in Applied Mechanics and Engineering, 2023. 
  </figcaption>
   </figure></div>
-  <div id="div_space"></div>
+<div id="div_space"></div>
   <div id="div_paper"><figure>
   <a href="/publication/rmtr_resnet">
      <img src="/images/rmtr_resnet.png">
@@ -81,7 +92,9 @@ author_profile: true
   SIAM Journal on Scientific Computing, 2022. 
 </figcaption>
   </figure></div>
-<div id="div_space"></div>
+</div><br/>
+<!-- row 3 -->
+<div id="wrapper">
   <div id="div_paper"><figure>
   <a href="/publication/pf_utopia">
      <img src="/images/pf_utopia.png">
@@ -91,11 +104,9 @@ author_profile: true
   CCF Transactions on High Performance Computing, 2021.
    </figcaption>
   </figure></div>  
-</div><br/>
-<!-- row 3 -->
-<div id="wrapper">
+  <div id="div_space"></div>
     <div id="div_paper">  
-    	<figure>
+      <figure>
   <a href="/publication/rmtr_electrocardio1">
      <img src="/images/rmtr_electrocardio1.png">
   </a>
@@ -104,7 +115,7 @@ author_profile: true
   EP Europace, 23(Supplement 1):i113–i122, 2021. 
 </figcaption>
   </figure></div>
-  <div id="div_space"></div>
+<div id="div_space"></div>
   <div id="div_paper"><figure>
   <a href="/publication/pf_params">
      <img src="/images/pf_params.png">
@@ -114,7 +125,9 @@ author_profile: true
   GAMM-Mitteilungen, 43(2):e202000005, 2020. 
 </figcaption>
   </figure></div>
-<div id="div_space"></div>
+</div><br/>
+<!-- row 4-->
+<div id="wrapper">
   <div id="div_paper"><figure>
   <a href="/publication/rmtr_pf">
      <img src="/images/rmtr_pf.png">
@@ -124,11 +137,9 @@ author_profile: true
   Computer Methods in Applied Mechanics and Engineering, 360:112720, 2020. 
 </figcaption>
   </figure></div>  
-</div><br/>
-<!-- row 4-->
-<div id="wrapper">
+  <div id="div_space"></div>
     <div id="div_paper">  
-    	<figure>
+      <figure>
   <a href="/publication/rmtr_cloth">
      <img src="/images/rmtr_cloth.png">
   </a>
@@ -137,7 +148,7 @@ author_profile: true
   SIAM Journal on Scientific Computing, 41(5):S433–S461, 2019.  
 </figcaption>
   </figure></div>
-  <div id="div_space"></div>
+<div id="div_space"></div>
   <div id="div_paper"><figure>
   <a href="/publication/conchoidal_frac">
      <img src="/images/conchoidal_frac.png">
@@ -147,9 +158,11 @@ author_profile: true
   Meccanica, pages 1–17, 2017. 
 </figcaption>
   </figure></div>
-<div id="div_space"></div>
+</div><br/>
+<!-- row 5-->
+<div id="wrapper">
   <div id="div_paper">
-  	<figure>
+    <figure>
   <a href="/publication/pneum_frac">
      <img src="/images/pneum_frac.png">
   </a>
@@ -160,18 +173,6 @@ author_profile: true
   </figure>
 </div>  
 </div><br/>
-<!-- row 5-->
-<div id="wrapper">
-    <div id="div_paper">  
-    	<figure>
-  <a href="/publication/rmtr_electrocardio2">
-     <img src="/images/rmtr_electrocardio2.png">
-  </a>
-  <figcaption>F. Chegini, A. Kopaničáková, M. Weiser, and R. Krause. 
-  <b> Quantitative analysis of nonlinear multifidelity optimization for inverse electrophysiology.</b>
-  In Domain Decomposition Methods in Science and Engineering XXVI. Lecture Notes in Computational Science and Engineering, vol 145. Springer, 2022.
-</figcaption>
-  </figure></div>
   <div id="div_space"></div>
   <div id="div_paper"><figure>
   <a href="/publication/mastr">
@@ -199,12 +200,12 @@ author_profile: true
 <div id="wrapper">
     <div id="div_paper">  
       <figure>
-  <a href="/publication/rmtr_cloth">
-     <img src="/images/rmtr_cloth.png">
+  <a href="/publication/rmtr_electrocardio2">
+     <img src="/images/rmtr_electrocardio2.png">
   </a>
-  <figcaption>A. Kopaničáková, R. Krause, and R. Tamstorf.
-  <b> Subdivision-based nonlinear multiscale cloth simulation.</b>
-  SIAM Journal on Scientific Computing, 41(5):S433–S461, 2019.  
+  <figcaption>F. Chegini, A. Kopaničáková, M. Weiser, and R. Krause. 
+  <b> Quantitative analysis of nonlinear multifidelity optimization for inverse electrophysiology.</b>
+  In Domain Decomposition Methods in Science and Engineering XXVI. Lecture Notes in Computational Science and Engineering, vol 145. Springer, 2022.
 </figcaption>
   </figure></div>
   <div id="div_space"></div>
