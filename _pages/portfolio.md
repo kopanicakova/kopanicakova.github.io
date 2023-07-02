@@ -236,7 +236,7 @@ Multilevel methods have been originally designed for solving elliptic partial di
 	    </div>
 	</div> -->
 <div style="text-align: justify"><br/> 
-I actively contribute to the development of scientific software libraries. </div>
+I actively contribute to the development of scientific software libraries with a particular focus on the development of large-scale, parallel simulations, and efficient nonlinear optimization strategies.</div>
 
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Software libraries: </span><br />
@@ -246,7 +246,7 @@ I actively contribute to the development of scientific software libraries. </div
 simulations. (Solo developer) <br />
 <b> MultiscAI: </b> Stochastic multilevel optimization framework for training ODE-based deep neural
 networks. (Solo developer) <br />
-<b> DistTraiNN: </b> Scalable domain-decomposition framework for physics-informed networks and operator learning approaches. (Core developer) <br />
+<b> DistTraiNN: </b> Model parallel framework for distributed training of deep neural network (Core developer) <br />
 <b> Heart: </b> Parallel framework for inverse problems in electrophysiology. (Contributor)<br />
 </span>
 </body>
