@@ -235,7 +235,8 @@ Multilevel methods have been originally designed for solving elliptic partial di
 	    	<img src="/images/frac_net2.png">
 	    </div>
 	</div> -->
-<div style="text-align: justify"><br/> 
+<div style="text-align: justify">
+<!-- <br/>  -->
 I actively contribute to the development of scientific software libraries with a particular focus on the development of large-scale, parallel simulations, and efficient nonlinear optimization strategies.</div>
 
 
