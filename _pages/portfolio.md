@@ -76,19 +76,19 @@ author_profile: true
 </head>
 <body>	
 	<div id="wrapper_top">
-	    <div id="picture_half">  
+	    <!-- <div id="picture_half">   -->
 	    	<img src="/images/network_decomp.png">
-	    </div>
-		<div id="div_space"></div>    
+	    <!-- </div> -->
+<!-- 		<div id="div_space"></div>    
 	    <div id="picture_half">  
 	    	<img src="/images/rmtr2.png">
-	    </div>
+	    </div> -->
 	</div>
 
 <div style="text-align: justify"><br/> 
 Nonlinear field-split or domain-decomposition preconditioners enable an efficient solution of large-scale nonlinear
 multi-physics problems arising from finite element or finite difference discretization of nonlinear PDEs.
-These methods enhance the convergence of nonlinear solution strategies by rebalancing the nonlinearities, or by transforming the basis of the solution space. This is achieved by decomposing either the computational domain or the physics of the coupled problems. Former is of particular interest in the field of scientific computing, as they allow for massive parallelization. My research goal is to enhance the class of nonlinear preconditioners by proposing novel algorithmic variants and by extending their applicability to a wider range of nonlinear problems.</div>
+These methods enhance the convergence of nonlinear solution strategies by rebalancing the nonlinearities, or by transforming the basis of the solution space. This is achieved by decomposing either the computational domain or the physics of the coupled problems. Former is of particular interest in the field of scientific computing, as they allow for massive parallelization. My research goal is to enhance the class of nonlinear preconditioners by proposing novel algorithmic variants and by extending applicability of existent approaches to a wider range of nonlinear problems.</div>
 
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
