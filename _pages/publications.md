@@ -131,6 +131,17 @@ author_profile: true
 </div><br/>
 <!-- row 3 -->
 <div id="wrapper">
+ <div id="div_paper">  
+      <figure>
+  <a href="/publication/rmtr_electrocardio2">
+     <img src="/images/rmtr_electrocardio2.png">
+  </a>
+  <figcaption>F. Chegini, A. Kopaničáková, M. Weiser, and R. Krause. 
+  <b> Quantitative analysis of nonlinear multifidelity optimization for inverse electrophysiology.</b>
+  In Domain Decomposition Methods in Science and Engineering XXVI. Lecture Notes in Computational Science and Engineering, vol 145. Springer, 2022.
+</figcaption>
+  </figure></div>
+  <div id="div_space"></div>
   <div id="div_paper"><figure>
   <a href="/publication/pf_utopia">
      <img src="/images/pf_utopia.png">
@@ -139,8 +150,8 @@ author_profile: true
   <b>Large scale simulation of pressure induced phase-field fracture propagation using Utopia.</b> 
   CCF Transactions on High Performance Computing, 2021.
    </figcaption>
-  </figure></div>  
-  <div id="div_space"></div>
+  </figure></div> 
+<div id="div_space"></div>
     <div id="div_paper">  
       <figure>
   <a href="/publication/rmtr_electrocardio1">
@@ -151,7 +162,9 @@ author_profile: true
   EP Europace, 23(Supplement 1):i113–i122, 2021. 
 </figcaption>
   </figure></div>
-<div id="div_space"></div>
+</div><br/>
+<!-- row 4-->
+<div id="wrapper">
   <div id="div_paper"><figure>
   <a href="/publication/pf_params">
      <img src="/images/pf_params.png">
@@ -161,9 +174,7 @@ author_profile: true
   GAMM-Mitteilungen, 43(2):e202000005, 2020. 
 </figcaption>
   </figure></div>
-</div><br/>
-<!-- row 4-->
-<div id="wrapper">
+  <div id="div_space"></div>
   <div id="div_paper"><figure>
   <a href="/publication/rmtr_pf">
      <img src="/images/rmtr_pf.png">
@@ -173,9 +184,9 @@ author_profile: true
   Computer Methods in Applied Mechanics and Engineering, 360:112720, 2020. 
 </figcaption>
   </figure></div>  
-  <div id="div_space"></div>
-    <div id="div_paper">  
-      <figure>
+<div id="div_space"></div>
+<div id="div_paper">  
+<figure>
   <a href="/publication/rmtr_cloth">
      <img src="/images/rmtr_cloth.png">
   </a>
@@ -184,7 +195,9 @@ author_profile: true
   SIAM Journal on Scientific Computing, 41(5):S433–S461, 2019.  
 </figcaption>
   </figure></div>
-<div id="div_space"></div>
+</div><br/>
+<!-- row 6-->
+<div id="wrapper">
   <div id="div_paper"><figure>
   <a href="/publication/conchoidal_frac">
      <img src="/images/conchoidal_frac.png">
@@ -192,19 +205,6 @@ author_profile: true
   <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
   <b>A phase-field approach to conchoidal fracture.</b> 
   Meccanica, pages 1–17, 2017. 
-</figcaption>
-  </figure></div>
-</div><br/>
-<!-- row 6-->
-<div id="wrapper">
-    <div id="div_paper">  
-      <figure>
-  <a href="/publication/rmtr_electrocardio2">
-     <img src="/images/rmtr_electrocardio2.png">
-  </a>
-  <figcaption>F. Chegini, A. Kopaničáková, M. Weiser, and R. Krause. 
-  <b> Quantitative analysis of nonlinear multifidelity optimization for inverse electrophysiology.</b>
-  In Domain Decomposition Methods in Science and Engineering XXVI. Lecture Notes in Computational Science and Engineering, vol 145. Springer, 2022.
 </figcaption>
   </figure></div>
   <div id="div_space"></div>
