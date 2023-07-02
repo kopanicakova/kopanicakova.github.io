@@ -118,7 +118,7 @@ These methods enhance the convergence of nonlinear solution strategies by rebala
 }
 #div_space {
     display: inline-block;
-    width:4%;
+    width:2%;
     height:auto;
 }
 </style>
@@ -199,5 +199,56 @@ Multilevel methods have been originally designed for solving elliptic partial di
 [5] A. Kopaničáková and R. Krause. Recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture. <br />
 [6] C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A phase-field approach to conchoidal fracture. <br />
 [7] C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A phase-field approach to pneumatic fracture. <br />
+</span>
+</body>
+
+
+
+## <span style="color:rgb(199, 21, 133)"> Scientific software</span>
+<head>
+<style>
+#wrapper_top {
+	 display: flex;
+}
+#wrapper {
+	 
+}
+#picture_half {
+    display: inline-block;
+    width:47%;
+    height:auto;
+}
+#div_space {
+    display: inline-block;
+    width:4%;
+    height:auto;
+}
+</style>
+</head>
+<body>	
+	<div id="wrapper_top1">
+	    <div id="picture_half">  
+	    	<img src="/images/frac_net1.png">
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="picture_half">  
+	    	<img src="/images/frac_net2.png">
+	    </div>
+	</div>
+<div style="text-align: justify"><br/> I actively contribute to the development of scientific software libraries. </div>
+
+
+<span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
+<span style="font-size: 12px">
+<b> Utopia </b> Open-source C++ embedded domain specific language designed for parallel nonlinear solution strategies and finite element analysis. Code repository. (Core developer) <br />
+
+<b> ROOK </b> Large-scale finite-element framework for (pressure-induced) phase-field fracture
+simulations. (Solo developer) <br />
+<b> MultiscAI </b> Stochastic multilevel optimization framework for training ODE-based deep neural
+networks. (Solo developer) <br />
+<b> DistTraiNN </b> Scalable domain-decomposition framework for physics-informed networks and operator learning approaches. (Core developer) <br />
+<b> Heart </b> Parallel framework for inverse problems in electrophysiology. (Contributor)<br />
+
+
 </span>
 </body>
