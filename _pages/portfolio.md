@@ -38,7 +38,7 @@ author_profile: true
 	    </div>
 	</div>
 
-<div style="text-align: justify"><br/> Deep neural networks (DNNs) suffer from a computationally exhaustive training phase, which limits their applicability and hinders their development. During the training phase, the parameters of the network are determined by minimizing a highly non-convex loss function. My research objective is to enhance the training of DNNs by leveraging multilevel and domain-decomposition techniques. This entails developing novel optimization methods, which perform well in large-scale stochastic settings, thus which are memory and computationally efficient and convergence of which does not deteriorate in the presence of sub-sampling noise. Moreover, it is important to devise novel strategies for constructing the multilevel hierarchy and for partitioning the parameter/data space. This can be achieved by exploring the structure of the network's architecture, data representation, and the properties of the loss function. </div>
+<div style="text-align: justify"><br/> Deep neural networks (DNNs) suffer from a computationally exhaustive training phase, which limits their applicability and hinders their development. During the training phase, the parameters of the network are determined by minimizing a highly non-convex loss function. My research objective is to enhance the training of DNNs by leveraging multilevel and domain-decomposition techniques. This entails developing novel optimization methods, which perform well in large-scale stochastic settings. Thus, developing methods thus which are memory and computationally efficient and convergence of which does not deteriorate in the presence of sub-sampling noise. Moreover, it is important to devise suitable strategies for constructing the multilevel hierarchy and for partitioning the parameter/data space. This can be achieved by exploring the structure of the network's architecture, data representation, and the properties of the loss function. </div>
 
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
@@ -92,8 +92,7 @@ author_profile: true
 
 <div style="text-align: justify"><br/> 
 Nonlinear field-split or domain-decomposition preconditioners enable an efficient solution of large-scale nonlinear
-multi-physics problems arising from finite element or finite difference discretization of nonlinear PDEs.
-These methods enhance the convergence of nonlinear solution strategies by rebalancing the nonlinearities, or by transforming the basis of the solution space. This is achieved by decomposing either the computational domain or the physics of the coupled problems. Former is of particular interest in the field of scientific computing, as they allow for massive parallelization. My research goal is to enhance the class of nonlinear preconditioners by proposing novel algorithmic variants and by extending applicability of existent approaches to a wider range of nonlinear problems.</div>
+multi-physics problems. The idea behind these methods is to enhance the convergence of nonlinear solution strategies by rebalancing the nonlinearities, or by transforming the basis of the solution space. This can be achieved by decomposing either the computational domain or the physics of the coupled problems. Former is of particular interest in the field of scientific computing, as it allows for massive parallelization. My research goal is to enhance the class of nonlinear preconditioners by proposing novel algorithmic variants and by extending the applicability of existent approaches to a wider range of nonlinear problems. </div>
 
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
