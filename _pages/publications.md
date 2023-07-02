@@ -35,7 +35,7 @@ author_profile: true
   </a>
   <figcaption>A. Kopaničáková, H. Kothari, G. Karniadakis and R. Krause. 
   <b>Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies.</b>
-  Under review, 2023. 
+  Under review (SISC), 2023. 
  </figcaption>
   </figure></div>
    <div id="div_space"></div>
@@ -46,7 +46,7 @@ author_profile: true
   </a>
   <figcaption>S. Gratton, A. Kopaničáková, and Ph. L. Toint. 
   <b>Multilevel Objective-Function-Free Optimization with an Application to Neural Networks Training.</b> 
-  Under review, 2023. 
+  Under review (SIOPT), 2023. 
  </figcaption>
   </figure></div>
 <div id="div_space"></div>
@@ -56,7 +56,7 @@ author_profile: true
   </a>
   <figcaption>A. Kopaničáková. 
   <b>On the use of hybrid coarse-level models in multilevel minimization methods.</b> 
-  Accepted, 2023. 
+  Accepted (DD27), 2023. 
 </figcaption>
   </figure></div> 
 </div><br/>
@@ -68,7 +68,7 @@ author_profile: true
   </a>
   <figcaption>H. Kothari, A. Kopaničáková, and R. Krause.
   <b>Nonlinear Schwarz preconditioning for nonlinear optimization problems with bound constraints.</b> 
-  Accepted, 2023.
+  Accepted (DD27), 2023.
    </figcaption>
   </figure></div>  
   <div id="div_space"></div>
