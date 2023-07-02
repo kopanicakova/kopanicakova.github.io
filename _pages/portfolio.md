@@ -53,6 +53,55 @@ author_profile: true
 </body>
 
 
+## <span style="color:rgb(199, 21, 133)"> Nonlinear field-split and domain-decomposition based preconditioners</span>
+<head>
+<style>
+#wrapper_top {
+	 display: flex;
+}
+#wrapper {
+	 
+}
+#picture_half {
+    display: inline-block;
+    width:47%;
+    height:auto;
+}
+#div_space {
+    display: inline-block;
+    width:4%;
+    height:auto;
+}
+</style>
+</head>
+<body>	
+	<div id="wrapper_top">
+	    <div id="picture_half">  
+	    	<img src="/images/network_decomp.pdf">
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="picture_half">  
+	    	<img src="/images/rmtr2.png">
+	    </div>
+	</div>
+
+<div style="text-align: justify"><br/> 
+Nonlinear field-split or domain-decomposition preconditioners enable an efficient solution of large-scale nonlinear
+multi-physics problems arising from finite element or finite difference discretization of nonlinear PDEs.
+These methods enhance the convergence of nonlinear solution strategies by rebalancing the nonlinearities, or by transforming the basis of the solution space. This is achieved by decomposing either the computational domain or the physics of the coupled problems. Former is of particular interest in the field of scientific computing, as they allow for massive parallelization. My research goal is to enhance the class of nonlinear preconditioners by proposing novel algorithmic variants and by extending their applicability to a wider range of nonlinear problems.</div>
+
+
+<span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
+<span style="font-size: 12px">
+[1] A. Kopaničáková, H. Kothari, G. Karniadakis and R. Krause. Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies. <br />		
+[2] H. Kothari, A. Kopaničáková and R. Krause. Nonlinear Schwarz preconditioning for nonlinear optimization problems with bound constraints. <br />		
+[3] A. Kopaničáková, H. Kothari, and R. Krause. Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture. <br />
+[4] C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg. A detailed investigation of the model influencing parameters of the phase-field fracture approach.<br />
+</span>	
+</body>
+
+
+
 ## <span style="color:rgb(199, 21, 133)"> Multilevel trust-region methods</span>
 <head>
 <style>
