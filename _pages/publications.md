@@ -209,28 +209,28 @@ author_profile: true
   </figure></div>
   <div id="div_space"></div>
   <div id="div_paper"><figure>
-  <a href="/publication/conchoidal_frac">
+<!--   <a href="/publication/conchoidal_frac">
      <img src="/images/conchoidal_frac.png">
   </a>
   <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
   <b>A phase-field approach to conchoidal fracture.</b> 
   Meccanica, pages 1–17, 2017. 
-</figcaption>
+</figcaption> -->
   </figure></div>
 <div id="div_space"></div>
   <div id="div_paper">
     <figure>
-  <a href="/publication/pneum_frac">
+<!--   <a href="/publication/pneum_frac">
      <img src="/images/pneum_frac.png">
   </a>
   <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
   <b> A phase-field approach to pneumatic fracture.</b> 
   Non-standard Discretisation Methods in Solid Mechanics,pages 217–241,2022. 
-</figcaption>
+</figcaption> -->
   </figure>
 </div>  
 </div><br/>
-<!-- row 5-->
+<!-- row 7-->
 </body>
 
 
