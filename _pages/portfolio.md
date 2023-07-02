@@ -69,7 +69,7 @@ author_profile: true
 }
 #picture_half2 {
     display: inline-block;
-    width:35%;
+    width:30%;
     height:auto;
 }
 #div_space {
@@ -225,4 +225,5 @@ networks. (Solo developer) <br />
 <b> Heart: </b> Parallel framework for inverse problems in electrophysiology. (Contributor)<br />
 </span>
 </body>
+
 
