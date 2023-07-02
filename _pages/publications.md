@@ -199,34 +199,39 @@ author_profile: true
 <div id="wrapper">
     <div id="div_paper">  
       <figure>
-  <a href="/publication/DD_SPIN">
-     <img src="/images/network_decomp.png">
+  <a href="/publication/rmtr_cloth">
+     <img src="/images/rmtr_cloth.png">
   </a>
-  <figcaption>A. Kopaničáková, H. Kothari, G. Karniadakis and R. Krause. 
-  <b>Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies. Under review, 2023. 
+  <figcaption>A. Kopaničáková, R. Krause, and R. Tamstorf.
+  <b> Subdivision-based nonlinear multiscale cloth simulation.</b>
+  SIAM Journal on Scientific Computing, 41(5):S433–S461, 2019.  
 </figcaption>
   </figure></div>
   <div id="div_space"></div>
   <div id="div_paper"><figure>
-  <!-- <a href="/publication/mastr">
-     <img src="/images/mastr.png"> -->
+  <a href="/publication/conchoidal_frac">
+     <img src="/images/conchoidal_frac.png">
   </a>
-  <figcaption>
-   </figcaption>
+  <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
+  <b>A phase-field approach to conchoidal fracture.</b> 
+  Meccanica, pages 1–17, 2017. 
+</figcaption>
   </figure></div>
 <div id="div_space"></div>
   <div id="div_paper">
     <figure>
-  <!-- <a href="/publication/jfmg">
-     <img src="/images/jfmg.png"> -->
+  <a href="/publication/pneum_frac">
+     <img src="/images/pneum_frac.png">
   </a>
-  <figcaption>
+  <figcaption>C. Bilgen, A. Kopaničáková, R. Krause, and K. Weinberg.
+  <b> A phase-field approach to pneumatic fracture.</b> 
+  Non-standard Discretisation Methods in Solid Mechanics,pages 217–241,2022. 
 </figcaption>
   </figure>
 </div>  
 </div><br/>
+<!-- row 5-->
 </body>
-
 
 
 
