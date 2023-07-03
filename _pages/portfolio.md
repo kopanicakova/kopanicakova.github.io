@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-## <span style="color:rgb(199, 21, 133)"> Multilevel and domain-decomposition based training methods</span>
+## <span style="color:rgb(199, 21, 133)"> Multilevel training methods</span>
 <head>
 <style>
 #wrapper_top {
@@ -38,22 +38,21 @@ author_profile: true
 	    </div>
 	</div>
 
-<div style="text-align: justify"><br/> Deep neural networks (DNNs) suffer from a computationally exhaustive training phase, which limits their applicability and hinders their development. During the training phase, the parameters of the network are determined by minimizing a highly non-convex loss function. My research objective is to enhance the training of DNNs by leveraging multilevel and domain-decomposition techniques. This entails developing novel optimization methods, which perform well in large-scale stochastic settings. Thus, developing methods thus which are memory and computationally efficient and convergence of which does not deteriorate in the presence of sub-sampling noise. Moreover, it is important to devise suitable strategies for constructing the multilevel hierarchy and for partitioning the parameter/data space. This can be achieved by exploring the structure of the network's architecture, data representation, and the properties of the loss function. </div>
+<div style="text-align: justify"><br/> Deep neural networks (DNNs) suffer from a computationally exhaustive training phase, which limits their applicability and hinders their development. During the training phase, the parameters of the network are determined by minimizing a highly non-convex loss function. My research objective is to enhance the training of DNNs by leveraging multilevel and domain-decomposition techniques. This entails developing novel optimization methods, which perform well in large-scale stochastic settings. Thus, developing methods thus which are memory and computationally efficient and convergence of which does not deteriorate in the presence of sub-sampling noise. Moreover, it is important to devise suitable strategies for constructing the multilevel hierarchy. This can be achieved by exploring the structure of the network's architecture, data representation, and the properties of the loss function. </div>
 
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Related references: </span><br />
 <span style="font-size: 12px">
-[1] A. Kopaničáková, H. Kothari, G. Karniadakis and R. Krause. Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies. <br />	
-[2] S. Gratton, A. Kopaničáková and Ph. L. Toint. Multilevel Objective-Function-Free Optimization with an Application to Neural Networks Training. <br />
-[3] A. Kopaničáková and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. <br />
-[4] L. Gaedke-Merzhauser*, A. Kopaničáková*, and R. Krause. Multilevel minimization for deep residual networks. <br />
-[5] C. von Planta, A. Kopaničáková, and R. Krause. Training of residual networks with stochastic MG/Opt. <br />
-[6] V. Braglia*, A. Kopaničáková*, and R. Krause. A multilevel approach to training. <br />
+[1] S. Gratton, A. Kopaničáková and Ph. L. Toint. Multilevel Objective-Function-Free Optimization with an Application to Neural Networks Training. <br />
+[2] A. Kopaničáková and R. Krause. Globally Convergent Multilevel Training of Deep Residual Networks. <br />
+[3] L. Gaedke-Merzhauser*, A. Kopaničáková*, and R. Krause. Multilevel minimization for deep residual networks. <br />
+[4] C. von Planta, A. Kopaničáková, and R. Krause. Training of residual networks with stochastic MG/Opt. <br />
+[5] V. Braglia*, A. Kopaničáková*, and R. Krause. A multilevel approach to training. <br />
 </span>
 </body>
 
 
-## <span style="color:rgb(199, 21, 133)"> Nonlinear field-split and domain-decomposition based preconditioning</span>
+## <span style="color:rgb(199, 21, 133)"> Nonlinear preconditioning</span>
 <head>
 <style>
 #wrapper_top {
