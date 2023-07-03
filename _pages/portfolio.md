@@ -220,7 +220,7 @@ I actively contribute to the development of scientific software libraries with a
 simulations. (Solo developer) <br />
 <b> MultiscAI: </b> Stochastic multilevel optimization framework for training ODE-based deep neural
 networks. (Solo developer) <br />
-<b> DistTraiNN: </b> Model parallel framework for distributed training of deep neural network (Core developer) <br />
+<b> DistTraiNN: </b> Model parallel framework for distributed training of deep neural networks (Core developer) <br />
 <b> Heart: </b> Parallel framework for inverse problems in electrophysiology. (Contributor)<br />
 </span>
 </body>
