@@ -11,7 +11,7 @@ permalink: /publication/DD_SPIN
 </div><br />
 
 
-**Citation:** A. Kopaničáková, H. Kothari, G. Karniadakis and R. Krause. Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies. arXiv:2302.07049, 2023.  <br />
-**Download:** <a href="https://arxiv.org/pdf/2302.07049.pdf" style="color:rgb(199, 21, 133,0.75);">Preprint.</a> <br />
+**Citation:** A. Kopaničáková, H. Kothari, G. Karniadakis and R. Krause. Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies. arXiv:2306.17648, 2023.  <br />
+**Download:** <a href="https://arxiv.org/pdf/2306.17648.pdf" style="color:rgb(199, 21, 133,0.75);">Preprint.</a> <br />
 
 
