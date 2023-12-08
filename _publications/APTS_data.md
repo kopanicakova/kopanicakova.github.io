@@ -3,7 +3,7 @@ layout: archive
 title: ""
 author_profile: true
 collection: publications
-permalink: /publication/APTS_weights
+permalink: /publication/APTS_data
 ---
 
 ## <span style="color:rgb(199, 21, 133)"> DeepONet Based Preconditioning Strategies for Solving Parametric Linear Systems of Equations. </span>
