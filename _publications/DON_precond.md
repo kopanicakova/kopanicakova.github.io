@@ -3,7 +3,7 @@ layout: archive
 title: ""
 author_profile: true
 collection: publications
-permalink: /publication/ML_OFFO
+permalink: /publication/DON_precond
 ---
 
 ## <span style="color:rgb(199, 21, 133)"> DeepONet Based Preconditioning Strategies for Solving Parametric Linear Systems of Equations. </span>
@@ -15,8 +15,8 @@ The evaluation complexity of these algorithms is analyzed and their behaviour in
 learning applications.
 </div><br />
  -->
-
+<!-- 
 **Citation:** S. Gratton, A. Kopaničáková, and Ph. L. Toint. Multilevel Objective-Function-Free Optimization with an Application to Neural Networks Training. arXiv:2302.07049, 2023.  <br />
 **Download:** <a href="https://arxiv.org/pdf/2302.07049.pdf" style="color:rgb(199, 21, 133,0.75);">Preprint.</a> <br />
-
+ -->
 

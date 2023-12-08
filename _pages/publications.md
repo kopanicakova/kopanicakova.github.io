@@ -30,7 +30,8 @@ author_profile: true
   <div id="wrapper">
     <div id="div_paper">  
       <figure>
-  <a href="/publication/DD_SPIN">
+  <!-- <a href="/publication/DD_SPIN"> -->
+    <a href="/publication/DON_precond">
      <img src="/images/network_decomp.png">
   </a>
   <figcaption>A. Kopaničáková, H. Kothari, G. Karniadakis and R. Krause. 
