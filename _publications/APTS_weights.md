@@ -14,4 +14,3 @@ Preconditioned Trust-region Strategy” (APTS). The proposed method is based on 
 **Citation:** K. Trotti, S. Cruz, A. Kopaničáková, and R. Krause. Parallel Trust-Region Approaches in Neural Network Training: Beyond Traditional Methods. arXiv:2302.07049, 2023.  <br />
 **Download:** <a href="https://arxiv.org/pdf/2312.13677.pdf" style="color:rgb(199, 21, 133,0.75);">Preprint.</a> <br />
 
-
