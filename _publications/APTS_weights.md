@@ -6,17 +6,12 @@ collection: publications
 permalink: /publication/APTS_weights
 ---
 
-## <span style="color:rgb(199, 21, 133)"> DeepONet Based Preconditioning Strategies for Solving Parametric Linear Systems of Equations. </span>
-<div style="text-align: justify">A class of multi-level algorithms for unconstrained nonlinear optimization is presented
-which does not require the evaluation of the objective function. The class contains the
-momentum-less AdaGrad method as a particular (single-level) instance. The choice of avoiding the evaluation of the objective function is intended to make the algorithms of the class
-less sensitive to noise, while the multi-level feature aims at reducing their computational cost.
-The evaluation complexity of these algorithms is analyzed and their behaviour in the presence of noise is then illustrated in the context of training deep neural networks for supervised
-learning applications.
+## <span style="color:rgb(199, 21, 133)"> Parallel Trust-Region Approaches in Neural Network Training: Beyond Traditional Methods. </span>
+<div style="text-align: justify">We propose to train neural networks (NNs) using a novel variant of the “Additively
+Preconditioned Trust-region Strategy” (APTS). The proposed method is based on a parallelizable additive domain decomposition approach applied to the neural network’s parameters. Built upon the TR framework, the APTS method ensures global convergence towards a minimizer. Moreover, it eliminates the need for computationally expensive hyper-parameter tuning, as the TR algorithm automatically determines the step size in each iteration. We demonstrate the capabilities, strengths, and limitations of the proposed APTS training method by performing a series of numerical experiments. The presented numerical study includes a comparison with widely used training methods such as SGD, Adam, LBFGS, and the standard TR method.
 </div><br />
 
-
-**Citation:** S. Gratton, A. Kopaničáková, and Ph. L. Toint. Multilevel Objective-Function-Free Optimization with an Application to Neural Networks Training. arXiv:2302.07049, 2023.  <br />
-**Download:** <a href="https://arxiv.org/pdf/2302.07049.pdf" style="color:rgb(199, 21, 133,0.75);">Preprint.</a> <br />
+**Citation:** K. Trotti, S. Cruz, A. Kopaničáková, and R. Krause. Parallel Trust-Region Approaches in Neural Network Training: Beyond Traditional Methods. arXiv:2302.07049, 2023.  <br />
+**Download:** <a href="https://arxiv.org/pdf/2312.13677.pdf" style="color:rgb(199, 21, 133,0.75);">Preprint.</a> <br />
 
 
