@@ -7,16 +7,19 @@ permalink: /publication/DON_precond
 ---
 
 ## <span style="color:rgb(199, 21, 133)"> DeepONet Based Preconditioning Strategies for Solving Parametric Linear Systems of Equations. </span>
-<!-- <div style="text-align: justify">A class of multi-level algorithms for unconstrained nonlinear optimization is presented
-which does not require the evaluation of the objective function. The class contains the
-momentum-less AdaGrad method as a particular (single-level) instance. The choice of avoiding the evaluation of the objective function is intended to make the algorithms of the class
-less sensitive to noise, while the multi-level feature aims at reducing their computational cost.
-The evaluation complexity of these algorithms is analyzed and their behaviour in the presence of noise is then illustrated in the context of training deep neural networks for supervised
-learning applications.
+<div style="text-align: justify">We introduce a new class of hybrid preconditioners for solving parametric linear systems of equations. The proposed preconditioners are constructed by hybridizing the deep operator network, namely DeepONet, with standard iterative methods. Exploiting the spectral bias, DeepONet-based components are harnessed to address low-frequency error components, while conventional iterative methods are employed to mitigate high-frequency error components. Our preconditioning framework comprises two distinct hybridization approaches: direct preconditioning (DP)
+and trunk basis (TB) approaches. In the DP approach, DeepONet is used to approximate an action
+of an inverse operator to a vector during each preconditioning step. In contrast, the TB approach
+extracts basis functions from the trained DeepONet to construct a map to a smaller subspace, in
+which the low-frequency component of the error can be effectively eliminated. Our numerical results
+demonstrate that utilizing the TB approach enhances the convergence of Krylov methods by a large
+margin compared to standard non-hybrid preconditioning strategies. Moreover, the proposed hybrid
+preconditioners exhibit robustness across a wide range of model parameters and problem resolutions.
 </div><br />
- -->
-<!-- 
-**Citation:** S. Gratton, A. Kopaničáková, and Ph. L. Toint. Multilevel Objective-Function-Free Optimization with an Application to Neural Networks Training. arXiv:2302.07049, 2023.  <br />
-**Download:** <a href="https://arxiv.org/pdf/2302.07049.pdf" style="color:rgb(199, 21, 133,0.75);">Preprint.</a> <br />
- -->
+
+
+**Citation:** A. Kopaničáková, and G. Karniadakis. DEEPONET BASED PRECONDITIONING STRATEGIES FOR
+SOLVING PARAMETRIC LINEAR SYSTEMS OF EQUATIONS. arXiv:2401.02016, 2023.  <br />
+**Download:** <a href="https://arxiv.org/pdf/2401.02016.pdf" style="color:rgb(199, 21, 133,0.75);">Preprint.</a> <br />
+
 
