@@ -85,4 +85,4 @@ author_profile: true
 </ul>
 
 ### Thesis
-* [Multilevel minimization in trust-region framework - Algorithmic and software developments., style="color:rgb(199, 21, 133,0.75);"](https://doc.rero.ch/record/330121/files/2020INFO021.pdf)<br> _PhD thesis_, Università della Svizzera italiana, **2020**
+*  <a href="https://doc.rero.ch/record/330121/files/2020INFO021.pdf" style="color:rgb(199, 21, 133,0.75);"> Multilevel minimization in trust-region framework - Algorithmic and software developments. <\a> PhD thesis, Università della Svizzera italiana, **2020**
