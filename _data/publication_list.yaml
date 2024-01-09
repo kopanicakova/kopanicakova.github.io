@@ -1,3 +1,47 @@
+- title: "DeepONet Based Preconditioning Strategies for Solving Parametric Linear Systems of Equations"
+  year: 2023
+  type: preprint
+  label: kopanicakova_2023
+  image: 
+  description: 
+  authors: A. Kopaničáková, G. Em Karniadakis
+  link_pre:
+    url: https://arxiv.org/abs/2401.02016
+    display: 2401.02016 (2024)
+  link_main:
+    url: 
+    display: Under review.
+  bibtex: |
+        @unpublished{kopanicakova_2024_j1,
+          title = {{DeepONet Based Preconditioning Strategies for Solving Parametric Linear Systems of Equations}},
+          author={Kopani{\v c}{\'a}kov{\'a} Alena and Karniadakis George Em},
+          year={2024},
+          archivePrefix="arXiv",
+          eprint={2401.02016},
+        }
+
+- title: "Parallel Trust-Region Approaches in Neural Network Training: Beyond Traditional Methods"
+  year: 2023
+  type: preprint
+  label: trotti_23
+  image: 
+  description: 
+  authors: A. Kopaničáková, G. Em Karniadakis
+  link_pre:
+    url: https://arxiv.org/abs/2312.13677
+    display: 2312.13677 (2023)
+  link_main:
+    url: 
+    display: Under review.
+  bibtex: |
+        @unpublished{trotti_23,
+          title = {{DeepONet Based Preconditioning Strategies for Solving Parametric Linear Systems of Equations}},
+          author  = {Cruz, Samuel and Trotti, Ken and Kopani{\v c}{\'a}kov{\'a}, Alena and Krause, Rolf},
+          year={2023},
+          archivePrefix="arXiv",
+          eprint={2312.13677},
+        }
+
 - title: "Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies"
   year: 2023
   type: preprint
@@ -10,15 +54,28 @@
     display: arXiv:2306.17648 (2023)
   link_main:
     url: 
-    display: Under review in SIAM Journal on Scientific Computing (SISC)
+    display: Accepted for publication in SIAM Journal on Scientific Computing (SISC)
   bibtex: |
         @unpublished{kopanicakova_pinnspqn_2023,
           title={Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies},
-          author={Kopaničáková A. and Kothari H. and Karniadakis G. Em and Krause R.},
+          author={Kopani{\v c}{\'a}kov{\'a} Alena and Kothari Hardik and Karniadakis George Em and Krause Rolf},
           year={2023},
           archivePrefix="arXiv",
           eprint={2306.17648},
         }
+
+
+
+
+
+
+
+
+
+
+
+                
+
         
 - title: "Nonlinear Schwarz preconditioning for Quasi-Newton methods"
   year: 2022
@@ -71,7 +128,7 @@
   label: kopanicakova_nonlinear_2023
   image: 
   description: 
-  authors: A. Kopaničáková, H. Kothari, R. Krause
+  authors: A. Kopani{\v c}{\'a}kov{\'a}, H. Kothari, R. Krause
   link_pre:
     url: https://arxiv.org/abs/2203.13738
     display: arXiv:2203.13738 (2022)
@@ -81,7 +138,7 @@
   bibtex: |
         @article{kopanicakova_nonlinear_2023,
           title={Nonlinear field-split preconditioners for solving monolithic phase-field models of brittle fracture},
-          author={Hardik Kothari and Alena Kopaničáková and Rolf Krause},
+          author={Hardik Kothari and Alena Kopani{\v c}{\'a}kov{\'a} and Rolf Krause},
           journal = {Computer Methods in Applied Mechanics and Engineering},
           month = {jan},
           year={2023},
