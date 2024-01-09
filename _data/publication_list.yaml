@@ -361,3 +361,84 @@
           eprint={2211.15078},
         }
 
+
+
+- title: "A Multigrid Preconditioner for Jacobian-free Newton-Krylov Methods"
+  year: 2023
+  type: inproceeding
+  label: kothari_multigrid_2023
+  image: 
+  description: 
+  authors: H. Kothari, A. Kopaničáková, R. Krause
+  link_pre:
+    url: http://www.ddm.org/DD26/proceedings/343.pdf
+    display: arXiv:2103.13890 (2021)
+  link_main:
+    url: https://doi.org/10.1007/978-3-030-95025-5_38
+    display: Domain Decomposition Methods in Science and Engineering XXVI
+  bibtex: |
+        @InProceedings{kothari_multigrid_2023,
+          author="Kothari, Hardik
+                  and Kopani{\v{c}}{\'a}kov{\'a}, Alena
+                  and Krause, Rolf",
+          editor="Brenner, Susanne C.
+                  and Chung, Eric
+                  and Klawonn, Axel
+                  and Kwok, Felix
+                  and Xu, Jinchao
+                  and Zou, Jun",
+          title="A Multigrid Preconditioner for Jacobian-free Newton--Krylov Methods",
+          booktitle="Domain Decomposition Methods in Science and Engineering XXVI",
+          year="2023",
+          publisher="Springer International Publishing",
+          address="Cham",
+          pages="365--372",
+        }
+
+
+- title: "A phase-field approach to pneumatic fracture"
+  year: 2017
+  type: inproceeding
+  label: Bilgen17b
+  image: 
+  description: 
+  authors: C. Bilgen, A. Kopaničáková, R. Krause, K. Weinberg
+  link_main:
+    url: https://onlinelibrary.wiley.com/doi/epdf/10.1002/pamm.201710022
+    display: PAMM
+  bibtex: |
+        @InProceedings{Bilgen17b,
+          author        = {Bilgen, Carola and \textbf{Kopani{\v c}{\'a}kov{\'a}},  {\bf A}lena and Krause, Rolf and Weinberg, Kerstin},
+          title         = {{A} phase-field approach to pneumatic fracture},
+          booktitle       = {{PAMM}},
+          year          = {2017},
+          volume        = {17},
+          number        = {1},
+          pages         = {71-74},
+          doi           = {10.1002/pamm.201710022},
+        }
+
+
+- title: "Multilevel minimization for deep residual networks"
+  year: 2021
+  type: inproceeding
+  label: Kopanicakova_2020c
+  image: 
+  description: 
+  authors: L. Gaedke-Merzhauser*, A. Kopaničáková*, R. Krause
+  link_pre:
+    url: https://arxiv.org/pdf/2004.06196.pdf
+    display: arXiv:2004.06196 (2021)
+  link_main:
+    url: https://www.proquest.com/openview/7a0e921c47a627ec2097406f991ceee4/1?pq-origsite=gscholar&cbl=1796391
+    display: ESAIM Proceedings
+  bibtex: |
+        @InProceedings{Kopanicakova_2020c,
+          title={Multilevel minimization for deep residual networks},
+          author={Gaedke-Merzh{\"a}user\textbf{*}, Lisa and \textbf{Kopani{\v{c}}{\'a}kov{\'a}*},  {\bf A}lena and Krause, Rolf},
+          booktitle={In ESAIM Proceedings and Surveys},
+          volume={71}, 
+          pages={131-144},
+          year={2021},
+        }
+
