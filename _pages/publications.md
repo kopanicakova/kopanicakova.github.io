@@ -14,8 +14,8 @@ author_profile: true
 <li ><p>
 <b>{{ publi.title }}</b> ({{ publi.year }})
 <br>{{ publi.authors }}<br>
-<a href="javascript:toggleBibtex('{{ publi.label }}')">[BibTeX]</a>
-<a href="{{ publi.link_pre.url }}" target="_blank">[Preprint]</a> 
+<a href="javascript:toggleBibtex('{{ publi.label }}')" style="color:rgb(199, 21, 133,0.75);">[BibTeX]</a>
+<a href="{{ publi.link_pre.url }}" target="_blank" style="color:rgb(199, 21, 133,0.75);">[Preprint]</a> 
 </p>
 <div id="bib_{{ publi.label }}" class="bibtex noshow">
 <pre>
@@ -42,9 +42,9 @@ author_profile: true
 <br>{{ publi.authors }}<br>
 <i>{{ publi.link_main.display }}</i>
 <br> 
-<a href="{{ publi.link_main.url }}" target="_blank">[Link]</a>
-<a href="javascript:toggleBibtex('{{ publi.label }}')">[BibTeX]</a>
-<a href="{{ publi.link_pre.url }}" target="_blank">[Preprint]</a> 
+<a href="{{ publi.link_main.url }}" target="_blank" style="color:rgb(199, 21, 133,0.75);">[Link]</a>
+<a href="javascript:toggleBibtex('{{ publi.label }}')" style="color:rgb(199, 21, 133,0.75);">[BibTeX]</a>
+<a href="{{ publi.link_pre.url }}" target="_blank" style="color:rgb(199, 21, 133,0.75);">[Preprint]</a> 
 </p>
 <div id="bib_{{ publi.label }}" class="bibtex noshow">
 <pre>
@@ -70,9 +70,9 @@ author_profile: true
 <br>{{ publi.authors }}<br>
 <i>{{ publi.link_main.display }}</i>
 <br> 
-<a href="{{ publi.link_main.url }}" target="_blank">[Link]</a>
-<a href="javascript:toggleBibtex('{{ publi.label }}')">[BibTeX]</a>
-<a href="{{ publi.link_pre.url }}" target="_blank">[Preprint]</a> 
+<a href="{{ publi.link_main.url }}" target="_blank" style="color:rgb(199, 21, 133,0.75);">[Link]</a>
+<a href="javascript:toggleBibtex('{{ publi.label }}')" style="color:rgb(199, 21, 133,0.75);">[BibTeX]</a>
+<a href="{{ publi.link_pre.url }}" target="_blank" style="color:rgb(199, 21, 133,0.75);">[Preprint]</a> 
 </p>
 <div id="bib_{{ publi.label }}" class="bibtex noshow">
 <pre>
