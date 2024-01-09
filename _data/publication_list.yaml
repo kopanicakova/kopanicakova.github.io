@@ -518,11 +518,11 @@
     display: arXiv:2006.15602 (2020)
   link_main:
     url: https://drive.google.com/file/d/10GWhl-UzVwlZur5OC43P-P-p_ktSyhUO/view
-    display: ICML 2020 Workshop: Beyond First Order Methods in Machine Learning
+    display: ICML 2020 Workshop Beyond First Order Methods in Machine Learning
   bibtex: |
         @InProceedings{Kopanicakova_2020d,
             title={A Multilevel Approach to Training},
-            author={Braglia\textbf{*}, Vanessa and \textbf{Kopani{\v{c}}{\'a}kov{\'a}*},  {\bf A}lena and Krause, Rolf},
+            author={Braglia*, Vanessa and Kopani{\v{c}}{\'a}kov{\'a}*,  Alena and Krause, Rolf},
             booktitle={ICML 2020 Workshop: Beyond First Order Methods in Machine Learning},
             year={2020},
         }
@@ -539,11 +539,11 @@
     display: arXiv:2108.04052 (2021)
   link_main:
     url: https://drive.google.com/file/d/1dpgGBYC6ixRfpc3UxY9AH3aB4w2edUF_/view
-    display: ICML 2021 Workshop: Beyond First Order Methods in Machine Learning
+    display: ICML 2021 Workshop Beyond First Order Methods in Machine Learning
   bibtex: |
         @InProceedings{Kopanicakova_2021e,
           title={Training of residual networks with stochastic {MG}/{O}pt},
-          author={von Planta, Cyrill and \textbf{Kopani{\v{c}}{\'a}kov{\'a}}, {\bf A}lena and Krause, Rolf},
+          author={von Planta, Cyrill and {Kopani{\v{c}}{\'a}kov{\'a}}, Alena and Krause, Rolf},
           booktitle={ICML 2021 Workshop: Beyond First Order Methods in Machine Learning},
           year={2021}, 
         }
