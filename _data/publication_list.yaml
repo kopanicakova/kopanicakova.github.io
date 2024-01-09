@@ -442,3 +442,66 @@
           year={2021},
         }
 
+
+- title: "Multilevel Active-Set Trust-Region (MASTR) Method for Bound Constrained Minimization"
+  year: 2023
+  type: inproceeding
+  label: Kopanicakova_2021c
+  image: 
+  description: 
+  authors: A. Kopaničáková, R. Krause
+  link_pre:
+    url: http://www.ddm.org/DD26/proceedings/335.pdf
+    display: arXiv:22103.14552 (2021)
+  link_main:
+    url: http://www.ddm.org/DD26/proceedings/335.pdf
+    display: Domain Decomposition Methods in Science and Engineering XXVI
+  bibtex: |
+        @InProceedings{Kopanicakova_2021c,
+          author="Kopani{\v{c}}{\'a}kov{\'a}, Alena
+                  and Krause, Rolf",
+          editor="Brenner, Susanne C.
+                  and Chung, Eric
+                  and Klawonn, Axel
+                  and Kwok, Felix
+                  and Xu, Jinchao
+                  and Zou, Jun",
+          title="{M}ultilevel {A}ctive-{S}et {T}rust-{R}egion {(MASTR)} {M}ethod for {B}ound {C}onstrained {M}inimization}",
+          booktitle="Domain Decomposition Methods in Science and Engineering XXVI",
+          year="2023",
+          publisher="Springer International Publishing",
+          address="Cham",
+          pages="355--363",
+        }
+
+
+- title: "Quantitative Analysis of Nonlinear Multifidelity Optimization for Inverse Electrophysiology"
+  year: 2023
+  type: inproceeding
+  label: Kopanicakova_2021d
+  image: 
+  description: 
+  authors: F. Chegini, A. Kopaničáková, R. Krause, M. Weiser
+  link_main:
+    url: http://www.ddm.org/DD26/proceedings/065.pdf
+    display: Domain Decomposition Methods in Science and Engineering XXVI
+  bibtex: |
+        @InProceedings{Kopanicakova_2021d,
+          author="Chegini Fatemeh
+                  and Kopani{\v{c}}{\'a}kov{\'a}, Alena
+                  and Krause, Rolf
+                  and Weiser, Martin",
+          editor="Brenner, Susanne C.
+                  and Chung, Eric
+                  and Klawonn, Axel
+                  and Kwok, Felix
+                  and Xu, Jinchao
+                  and Zou, Jun",
+          title="Quantitative Analysis of Nonlinear Multifidelity Optimization for Inverse Electrophysiology",
+          booktitle="Domain Decomposition Methods in Science and Engineering XXVI",
+          year="2023",
+          publisher="Springer International Publishing",
+          address="Cham",
+          pages="67--78",
+        }
+
