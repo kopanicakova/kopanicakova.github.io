@@ -38,7 +38,7 @@ author_profile: true
 {% if publi.type == "journal" %}
 
 <li ><p>
-<b>{{ publi.title }}</b> ({{ publi.year }}) <br>{{ publi.authors }}<br> <i>{{ publi.link_main.display }}</i>
+<b>{{ publi.title }}</b> ({{ publi.year }}), {{ publi.authors }}, <i>{{ publi.link_main.display }}</i>
 <br> 
 <a href="{{ publi.link_main.url }}" target="_blank" style="color:rgb(199, 21, 133,0.75);">[Link]</a>
 <a href="javascript:toggleBibtex('{{ publi.label }}')" style="color:rgb(199, 21, 133,0.75);">[BibTeX]</a>
@@ -85,4 +85,4 @@ author_profile: true
 </ul>
 
 ### Thesis
-*  <a href="https://doc.rero.ch/record/330121/files/2020INFO021.pdf" style="color:rgb(199, 21, 133,0.75);"> Multilevel minimization in trust-region framework - Algorithmic and software developments. <\a> PhD thesis, Università della Svizzera italiana, **2020**
+*  <a href="https://doc.rero.ch/record/330121/files/2020INFO021.pdf" style="color:rgb(199, 21, 133,0.75);"> Multilevel minimization in trust-region framework - Algorithmic and software developments. </a> PhD thesis, Università della Svizzera italiana, **2020**
