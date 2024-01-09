@@ -554,7 +554,7 @@
   authors: A. Kopaničáková, M. Vircikova, P. Sincak
   link_main:
     url: http://scyr.kpi.fei.tuke.sk/wp-content/scyr-files/history/SCYR_2013_proceedings.pdf
-    display: Proceedings of the 13th Scientific Conference of Young Researchers of Faculty of Electrical Engineering and Informatics Technical University of Košice}
+    display: Proceedings of the 13th Scientific Conference of Young Researchers of Faculty of Electrical Engineering and Informatics Technical University of Košice
   bibtex: |
         @InProceedings{kopanivcakova2013gesture,
             title={Gesture recognition using {D}{T}{W} and its application potential in human-centered robotics},
