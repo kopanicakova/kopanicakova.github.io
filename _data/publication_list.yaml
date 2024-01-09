@@ -558,7 +558,7 @@
   bibtex: |
         @InProceedings{kopanivcakova2013gesture,
             title={Gesture recognition using {D}{T}{W} and its application potential in human-centered robotics},
-            author={\textbf{{K}opani{\v{c}}{\'a}kov{\'a}}, {\bf A}lena and Vir{\v{c}}{\'\i}kov{\'a}, M{\'a}ria and Sin{\v{c}}\'ak, Peter},
+            author={{K}opani{\v{c}}{\'a}kov{\'a}, Alena and Vir{\v{c}}{\'\i}kov{\'a}, M{\'a}ria and Sin{\v{c}}\'ak, Peter},
             booktitle={Proceedings of the 13th Scientific Conference of Young Researchers of Faculty of Electrical Engineering and Informatics
           Technical University of Ko\v{s}ice},
             year={2013}, 
