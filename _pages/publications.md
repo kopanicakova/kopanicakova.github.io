@@ -1,9 +1,10 @@
 ---
-layout: publications
-title: "Publications"
+layout: archive
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+
 ## Submitted manuscripts
 <ul class="preprint_list">
 {% assign number_printed = 0 %}
@@ -87,4 +88,3 @@ author_profile: true
 
 ## Thesis
 * [Multilevel solution strategies for unfitted finite element method](https://susi.usi.ch/usi/documents/319417)<br> _PhD thesis_, Università della Svizzera italiana, **2020**
-* [Parallelisation of a Spectral Element Solver](https://www.ics.usi.ch/images/kothari/kothari_master_thesis.pdf)<br> _Master thesis_, TU Bergakademie Freiberg, **2014**
