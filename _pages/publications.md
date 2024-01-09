@@ -12,7 +12,7 @@ author_profile: true
 {% if publi.type == "preprint" %}
 
 <li ><p>
-<b>{{ publi.title }}</b> ({{ publi.year }}), {{ publi.authors }}, {{ publi.link_main.display }}
+<b, font-size: 10px;>{{ publi.title }}</b> ({{ publi.year }}), {{ publi.authors }}, {{ publi.link_main.display }}
 <a href="javascript:toggleBibtex('{{ publi.label }}')" style="color:rgb(199, 21, 133,0.75);">[BibTeX]</a>
 <a href="{{ publi.link_pre.url }}" target="_blank" style="color:rgb(199, 21, 133,0.75);">[Preprint]</a> 
 </p>
