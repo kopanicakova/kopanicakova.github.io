@@ -313,6 +313,26 @@
 
 
 
+- title: "On the use of hybrid coarse-level models in multilevel minimization methods"
+  year: 2024
+  type: inproceeding
+  label: Kopanicakova_2022f
+  image: 
+  authors: A. Kopaničáková
+  link_pre:
+    url: https://arxiv.org/abs/2211.15078
+    display: arXiv:2211.15078 (2022)
+  link_main:
+    url: http://www.ddm.org/DD27/proceedings/037_60_main_edited.pdf
+    display: Accepted for publication in Domain Decomposition Methods in Science and Engineering XXVII
+  bibtex: |
+        @unpublished{Kopanicakova_2022f,
+          title={On the use of hybrid coarse-level models in multilevel minimization methods},
+          author={Alena Kopaničáková},
+          year={2022},
+          archivePrefix="arXiv",
+          eprint={2211.15078},
+        }
 
 
 
@@ -338,29 +358,6 @@
           archivePrefix="arXiv",
           eprint={2211.14780},
         }
-
-
-- title: "On the use of hybrid coarse-level models in multilevel minimization methods"
-  year: 2024
-  type: inproceeding
-  label: Kopanicakova_2022f
-  image: 
-  authors: A. Kopaničáková
-  link_pre:
-    url: https://arxiv.org/abs/2211.15078
-    display: arXiv:2211.15078 (2022)
-  link_main:
-    url: http://www.ddm.org/DD27/proceedings/037_60_main_edited.pdf
-    display: Accepted for publication in Domain Decomposition Methods in Science and Engineering XXVII
-  bibtex: |
-        @unpublished{Kopanicakova_2022f,
-          title={On the use of hybrid coarse-level models in multilevel minimization methods},
-          author={Alena Kopaničáková},
-          year={2022},
-          archivePrefix="arXiv",
-          eprint={2211.15078},
-        }
-
 
 
 - title: "A Multigrid Preconditioner for Jacobian-free Newton-Krylov Methods"
@@ -393,53 +390,6 @@
           publisher="Springer International Publishing",
           address="Cham",
           pages="365--372",
-        }
-
-
-- title: "A phase-field approach to pneumatic fracture"
-  year: 2017
-  type: inproceeding
-  label: Bilgen17b
-  image: 
-  description: 
-  authors: C. Bilgen, A. Kopaničáková, R. Krause, K. Weinberg
-  link_main:
-    url: https://onlinelibrary.wiley.com/doi/epdf/10.1002/pamm.201710022
-    display: PAMM
-  bibtex: |
-        @InProceedings{Bilgen17b,
-          author        = {Bilgen, Carola and \textbf{Kopani{\v c}{\'a}kov{\'a}},  {\bf A}lena and Krause, Rolf and Weinberg, Kerstin},
-          title         = {{A} phase-field approach to pneumatic fracture},
-          booktitle       = {{PAMM}},
-          year          = {2017},
-          volume        = {17},
-          number        = {1},
-          pages         = {71-74},
-          doi           = {10.1002/pamm.201710022},
-        }
-
-
-- title: "Multilevel minimization for deep residual networks"
-  year: 2021
-  type: inproceeding
-  label: Kopanicakova_2020c
-  image: 
-  description: 
-  authors: L. Gaedke-Merzhauser*, A. Kopaničáková*, R. Krause
-  link_pre:
-    url: https://arxiv.org/pdf/2004.06196.pdf
-    display: arXiv:2004.06196 (2021)
-  link_main:
-    url: https://www.proquest.com/openview/7a0e921c47a627ec2097406f991ceee4/1?pq-origsite=gscholar&cbl=1796391
-    display: ESAIM Proceedings
-  bibtex: |
-        @InProceedings{Kopanicakova_2020c,
-          title={Multilevel minimization for deep residual networks},
-          author={Gaedke-Merzh{\"a}user\textbf{*}, Lisa and \textbf{Kopani{\v{c}}{\'a}kov{\'a}*},  {\bf A}lena and Krause, Rolf},
-          booktitle={In ESAIM Proceedings and Surveys},
-          volume={71}, 
-          pages={131-144},
-          year={2021},
         }
 
 
@@ -505,6 +455,50 @@
           pages="67--78",
         }
 
+- title: "Training of residual networks with stochastic MG/Opt"
+  year: 2021
+  type: inproceeding
+  label: Kopanicakova_2021e
+  image: 
+  description: 
+  authors: C. von Planta, A. Kopaničáková, R. Krause
+  link_pre:
+    url: https://arxiv.org/pdf/2108.04052.pdf
+    display: arXiv:2108.04052 (2021)
+  link_main:
+    url: https://drive.google.com/file/d/1dpgGBYC6ixRfpc3UxY9AH3aB4w2edUF_/view
+    display: ICML 2021 Workshop Beyond First Order Methods in Machine Learning
+  bibtex: |
+        @InProceedings{Kopanicakova_2021e,
+          title={Training of residual networks with stochastic {MG}/{O}pt},
+          author={von Planta, Cyrill and {Kopani{\v{c}}{\'a}kov{\'a}}, Alena and Krause, Rolf},
+          booktitle={ICML 2021 Workshop: Beyond First Order Methods in Machine Learning},
+          year={2021}, 
+        }
+
+
+- title: "Multilevel minimization for deep residual networks"
+  year: 2021
+  type: inproceeding
+  label: Kopanicakova_2020c
+  image: 
+  description: 
+  authors: L. Gaedke-Merzhauser*, A. Kopaničáková*, R. Krause
+  link_pre:
+    url: https://arxiv.org/pdf/2004.06196.pdf
+    display: arXiv:2004.06196 (2021)
+  link_main:
+    url: https://www.proquest.com/openview/7a0e921c47a627ec2097406f991ceee4/1?pq-origsite=gscholar&cbl=1796391
+    display: ESAIM Proceedings
+  bibtex: |
+        @InProceedings{Kopanicakova_2020c,
+          title={Multilevel minimization for deep residual networks},
+          author={Gaedke-Merzh{\"a}user*, Lisa and Kopani{\v{c}}{\'a}kov{\'a}*,  Alena and Krause, Rolf},
+          booktitle={In ESAIM Proceedings and Surveys},
+          volume={71}, 
+          pages={131-144},
+          year={2021},
+        }        
 
 - title: "A Multilevel Approach to Training"
   year: 2020
@@ -527,24 +521,46 @@
             year={2020},
         }
 
-- title: "Training of residual networks with stochastic MG/Opt"
-  year: 2021
+- title: "A phase-field approach to pneumatic fracture"
+  year: 2017
   type: inproceeding
-  label: Kopanicakova_2021e
+  label: Bilgen17b
   image: 
   description: 
-  authors: C. von Planta, A. Kopaničáková, R. Krause
-  link_pre:
-    url: https://arxiv.org/pdf/2108.04052.pdf
-    display: arXiv:2108.04052 (2021)
+  authors: C. Bilgen, A. Kopaničáková, R. Krause, K. Weinberg
   link_main:
-    url: https://drive.google.com/file/d/1dpgGBYC6ixRfpc3UxY9AH3aB4w2edUF_/view
-    display: ICML 2021 Workshop Beyond First Order Methods in Machine Learning
+    url: https://onlinelibrary.wiley.com/doi/epdf/10.1002/pamm.201710022
+    display: PAMM
   bibtex: |
-        @InProceedings{Kopanicakova_2021e,
-          title={Training of residual networks with stochastic {MG}/{O}pt},
-          author={von Planta, Cyrill and {Kopani{\v{c}}{\'a}kov{\'a}}, Alena and Krause, Rolf},
-          booktitle={ICML 2021 Workshop: Beyond First Order Methods in Machine Learning},
-          year={2021}, 
+        @InProceedings{Bilgen17b,
+          author        = {Bilgen, Carola and Kopani{\v c}{\'a}kov{\'a},  Alena and Krause, Rolf and Weinberg, Kerstin},
+          title         = {{A} phase-field approach to pneumatic fracture},
+          booktitle       = {{PAMM}},
+          year          = {2017},
+          volume        = {17},
+          number        = {1},
+          pages         = {71-74},
+          doi           = {10.1002/pamm.201710022},
+        }
+
+
+
+- title: "Gesture recognition using DTW and its application potential in human-centered robotics"
+  year: 2013
+  type: inproceeding
+  label: kopanivcakova2013gesture
+  image: 
+  description: 
+  authors: A. Kopaničáková, M. Vircikova, P. Sincak
+  link_main:
+    url: http://scyr.kpi.fei.tuke.sk/wp-content/scyr-files/history/SCYR_2013_proceedings.pdf
+    display: Proceedings of the 13th Scientific Conference of Young Researchers of Faculty of Electrical Engineering and Informatics Technical University of Košice}
+  bibtex: |
+        @InProceedings{kopanivcakova2013gesture,
+            title={Gesture recognition using {D}{T}{W} and its application potential in human-centered robotics},
+            author={\textbf{{K}opani{\v{c}}{\'a}kov{\'a}}, {\bf A}lena and Vir{\v{c}}{\'\i}kov{\'a}, M{\'a}ria and Sin{\v{c}}\'ak, Peter},
+            booktitle={Proceedings of the 13th Scientific Conference of Young Researchers of Faculty of Electrical Engineering and Informatics
+          Technical University of Ko\v{s}ice},
+            year={2013}, 
         }
 
