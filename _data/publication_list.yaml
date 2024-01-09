@@ -89,7 +89,7 @@
     display: SIAM Journal on Optimization
   bibtex: |
         @article{Kopanicakova_2023a,
-          author = {Gratton, Serge and \textbf{Kopani\v{c}\'{a}kov\'{a}}, {\bf A}lena and Toint, Philippe L.},
+          author = {Gratton, Serge and \textbf{Kopani\v{c}\'{a}kov\'{a}}, Alena and Toint, Philippe L.},
           title = {Multilevel Objective-Function-Free Optimization with an Application to Neural Networks Training},
           journal = {SIAM Journal on Optimization},
           volume = {33},
@@ -116,7 +116,7 @@
   bibtex: |
         @article{Kopanicakova_2021f,
             title={Nonlinear field-split preconditioners for solving monolithic phase-field models of brittle fracture},
-            author={\textbf{Kopani{\v c}{\'a}kov{\'a}}, Alena and Kothari, Hardik and Krause, Rolf},
+            author={Kopani{\v c}{\'a}kov{\'a}, Alena and Kothari, Hardik and Krause, Rolf},
             journal={Computer Methods in Applied Mechanics and Engineering},
             volume={403},
             pages={115733},
@@ -137,7 +137,7 @@
     display: Non-standard Discretisation Methods in Solid Mechanics
   bibtex: |
         @article{Kopanicakova_2022b,
-          author="Bilgen, Carola and \textbf{Kopani{\v c}{\'a}kov{\'a}},  {\bf A}lena and Krause, Rolf and Weinberg, Kerstin",
+          author="Bilgen, Carola and Kopani{\v c}{\'a}kov{\'a},  Alena and Krause, Rolf and Weinberg, Kerstin",
           editor="Schr{\"o}der, J{\"o}rg and Wriggers, Peter",
           title="A Phase-Field Approach to Pneumatic Fracture",
           bookTitle="Non-standard Discretisation Methods in Solid Mechanics",
@@ -158,7 +158,7 @@
     display: CCF Transactions on High Performance Computing
   bibtex: |
         @article{Kopanicakova_2021a,
-          author = {Zulian\textbf{*}, Patrick and \textbf{Kopani{\v{c}}{\'a}kov{\'a}*},  {\bf A}lena and Nestola, Maria G C and Fadel, Nur and Fink, Andreas and VandeVondele, Joost and Krause, Rolf},
+          author = {Zulian\textbf{*}, Patrick and \textbf{Kopani{\v{c}}{\'a}kov{\'a}*},  Alena and Nestola, Maria G C and Fadel, Nur and Fink, Andreas and VandeVondele, Joost and Krause, Rolf},
           title = {Large scale simulation of pressure induced phase‐field fracture propagation using {U}topia},
           journal = {CCF Transactions on High Performance Computing},
           year = {2021},
@@ -179,7 +179,7 @@
     display: EP Europace
   bibtex: |
         @article{Kopanicakova_2020b,
-            author={Chegini, Fatemeh and \textbf{Kopani{\v{c}}{\'{a}}kov{\'{a}}},  {\bf A}lena and Krause, Rolf and Weiser, Martin},
+            author={Chegini, Fatemeh and \textbf{Kopani{\v{c}}{\'{a}}kov{\'{a}}},  Alena and Krause, Rolf and Weiser, Martin},
             title={Efficient Identification of Scars using Heterogeneous Model Hierarchies},
             journal={EP Europace},
             volume={23},
@@ -203,7 +203,7 @@
     display: GAMM-Mitteilungen
   bibtex: |
         @article{Kopanicakova_2019c,
-            author  = {Bilgen, Carola and \textbf{Kopani{\v{c}}{\'{a}}kov{\'{a}}},  {\bf A}lena and Krause, Rolf and Weinberg, Kerstin},
+            author  = {Bilgen, Carola and \textbf{Kopani{\v{c}}{\'{a}}kov{\'{a}}},  Alena and Krause, Rolf and Weinberg, Kerstin},
             title   = {{A} detailed investigation of the model influencing parameters of the phase-field fracture approach.},
             journal={GAMM-Mitteilungen},
             volume={43},
@@ -230,7 +230,7 @@
     display: Computer Methods in Applied Mechanics and Engineering
   bibtex: |
         @article{Kopanicakova_2019b,
-          author  = {\textbf{Kopani{\v{c}}{\'{a}}kov{\'{a}}},  {\bf A}lena and Krause, Rolf},
+          author  = {\textbf{Kopani{\v{c}}{\'{a}}kov{\'{a}}},  Alena and Krause, Rolf},
           title   = {{R}ecursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture.},
           journal={Computer Methods in Applied Mechanics and Engineering},
           volume={360},
