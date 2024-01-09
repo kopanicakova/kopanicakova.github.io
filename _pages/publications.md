@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Submitted manuscripts (under review)
+### <span style="color:rgb(199, 21, 133)"> Submitted manuscripts (under review)
 <ul class="preprint_list">
 {% assign number_printed = 0 %}
 {% for publi in site.data.publication_list %}
@@ -28,7 +28,7 @@ author_profile: true
 
 </ul>
 
-### Publications in peer-reviewed journals and book chapters
+### <span style="color:rgb(199, 21, 133)"> Publications in peer-reviewed journals and book chapters
 <!-- Generated from JabRef by PubList by Truong Nghiem at 11:44 on 2015.09.10. -->
 <ul class="biblist">
 
@@ -55,7 +55,7 @@ author_profile: true
 
 </ul>
 
-### Publications in peer-reviewed conference proceedings
+### <span style="color:rgb(199, 21, 133)"> Publications in peer-reviewed conference proceedings
 <ul class="biblist">
 
 {% assign number_printed = 0 %}
@@ -81,5 +81,5 @@ author_profile: true
 
 </ul>
 
-### Thesis
-*  <a href="https://doc.rero.ch/record/330121/files/2020INFO021.pdf" style="color:rgb(199, 21, 133,0.75);"> Multilevel minimization in trust-region framework - Algorithmic and software developments. </a> PhD thesis, Università della Svizzera italiana, **2020**
+### <span style="color:rgb(199, 21, 133)"> Thesis
+*  <a href="https://doc.rero.ch/record/330121/files/2020INFO021.pdf" style="color:rgb(199, 21, 133,0.75);"> Multilevel minimization in trust-region framework - Algorithmic and software developments. </a> PhD thesis, Università della Svizzera italiana, 2020
