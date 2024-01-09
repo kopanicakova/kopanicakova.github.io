@@ -87,4 +87,4 @@ author_profile: true
 </ul>
 
 ## Thesis
-* [Multilevel solution strategies for unfitted finite element method](https://susi.usi.ch/usi/documents/319417)<br> _PhD thesis_, Università della Svizzera italiana, **2020**
+* [Multilevel minimization in trust-region framework - Algorithmic and software developments., style="color:rgb(199, 21, 133,0.75);"](https://doc.rero.ch/record/330121/files/2020INFO021.pdf)<br> _PhD thesis_, Università della Svizzera italiana, **2020**
