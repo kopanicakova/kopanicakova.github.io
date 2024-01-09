@@ -136,7 +136,7 @@
     url: https://arxiv.org/pdf/2203.13738.pdf
     display: arXiv:2203.13738 (2022)
   link_main:
-    url: https://reader.elsevier.com/reader/sd/pii/S0045782522006880?token=D09A42163D987B88BF525B5E02461AF9D846E15B288F547BC6DDB91E3912E686561215C8DB33B233A66948C8EFB21430&originRegion=us-east-1&originCreation=20221128062343
+    url: https://www.sciencedirect.com/science/article/pii/S0045782522006880
     display: Computer Methods in Applied Mechanics and Engineering
   bibtex: |
         @article{Kopanicakova_2021f,
