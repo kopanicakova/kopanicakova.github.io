@@ -38,7 +38,6 @@ author_profile: true
 
 <li ><p style="font-size:0.9em">
 <b>{{ publi.title }}</b> ({{ publi.year }}), {{ publi.authors }}, {{ publi.link_main.display }}
-<br> 
 <a href="{{ publi.link_main.url }}" target="_blank" style="color:rgb(199, 21, 133,0.75);">[Link]</a>
 <a href="javascript:toggleBibtex('{{ publi.label }}')" style="color:rgb(199, 21, 133,0.75);">[BibTeX]</a>
 <a href="{{ publi.link_pre.url }}" target="_blank" style="color:rgb(199, 21, 133,0.75);">[Preprint]</a> 
@@ -64,7 +63,6 @@ author_profile: true
 
 <li ><p style="font-size:0.9em">
 <b>{{ publi.title }}</b> ({{ publi.year }}), {{ publi.authors }}, {{ publi.link_main.display }}
-<br> 
 <a href="{{ publi.link_main.url }}" target="_blank" style="color:rgb(199, 21, 133,0.75);">[Link]</a>
 <a href="javascript:toggleBibtex('{{ publi.label }}')" style="color:rgb(199, 21, 133,0.75);">[BibTeX]</a>
 <a href="{{ publi.link_pre.url }}" target="_blank" style="color:rgb(199, 21, 133,0.75);">[Preprint]</a> 
