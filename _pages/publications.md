@@ -11,8 +11,8 @@ author_profile: true
 {% for publi in site.data.publication_list %}
 {% if publi.type == "preprint" %}
 
-<li ><p>
-<b, font-size: 10px;>{{ publi.title }}</b> ({{ publi.year }}), {{ publi.authors }}, {{ publi.link_main.display }}
+<li ><p style="font-size:0.75em">
+<b>{{ publi.title }}</b> ({{ publi.year }}), {{ publi.authors }}, {{ publi.link_main.display }}
 <a href="javascript:toggleBibtex('{{ publi.label }}')" style="color:rgb(199, 21, 133,0.75);">[BibTeX]</a>
 <a href="{{ publi.link_pre.url }}" target="_blank" style="color:rgb(199, 21, 133,0.75);">[Preprint]</a> 
 </p>
