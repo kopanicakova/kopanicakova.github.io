@@ -99,7 +99,7 @@
           doi = {10.1137/23M1553455},
         }
 
-- title: "Nonlinear field-split preconditioners for solving monolithic phase-field models of brittle fracture"
+- title: "{Globally convergent multilevel training of deep residual networks"
   year: 2023
   type: journal
   label: Kopanicakova_2021g
@@ -266,7 +266,7 @@
 
 
 
-- title: "A Multigrid Method for a Nitsche-based Extended Finite Element Method"
+- title: "Subdivision-Based Nonlinear Multiscale Cloth Simulation"
   year: 2019
   type: journal
   label: Kopanicakova_2019a
