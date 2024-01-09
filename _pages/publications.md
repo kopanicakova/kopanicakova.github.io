@@ -12,8 +12,7 @@ author_profile: true
 {% if publi.type == "preprint" %}
 
 <li ><p>
-<b>{{ publi.title }}</b> ({{ publi.year }})
-<br>{{ publi.authors }}<br>
+<b>{{ publi.title }}</b> ({{ publi.year }}), {{ publi.authors }}, {{ publi.link_main.display }}
 <a href="javascript:toggleBibtex('{{ publi.label }}')" style="color:rgb(199, 21, 133,0.75);">[BibTeX]</a>
 <a href="{{ publi.link_pre.url }}" target="_blank" style="color:rgb(199, 21, 133,0.75);">[Preprint]</a> 
 </p>
@@ -38,7 +37,7 @@ author_profile: true
 {% if publi.type == "journal" %}
 
 <li ><p>
-<b>{{ publi.title }}</b> ({{ publi.year }}), {{ publi.authors }}, <i>{{ publi.link_main.display }}</i>
+<b>{{ publi.title }}</b> ({{ publi.year }}), {{ publi.authors }}, {{ publi.link_main.display }}
 <br> 
 <a href="{{ publi.link_main.url }}" target="_blank" style="color:rgb(199, 21, 133,0.75);">[Link]</a>
 <a href="javascript:toggleBibtex('{{ publi.label }}')" style="color:rgb(199, 21, 133,0.75);">[BibTeX]</a>
@@ -64,9 +63,7 @@ author_profile: true
 {% if publi.type == "inproceeding" %}
 
 <li ><p>
-<b>{{ publi.title }}</b> ({{ publi.year }})
-<br>{{ publi.authors }}<br>
-<i>{{ publi.link_main.display }}</i>
+<b>{{ publi.title }}</b> ({{ publi.year }}), {{ publi.authors }}, {{ publi.link_main.display }}
 <br> 
 <a href="{{ publi.link_main.url }}" target="_blank" style="color:rgb(199, 21, 133,0.75);">[Link]</a>
 <a href="javascript:toggleBibtex('{{ publi.label }}')" style="color:rgb(199, 21, 133,0.75);">[BibTeX]</a>
