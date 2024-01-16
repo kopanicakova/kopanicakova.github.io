@@ -42,9 +42,17 @@
           eprint={2312.13677},
         }
 
+
+
+
+
+
+
+
+
 - title: "Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies"
   year: 2023
-  type: preprint
+  type: journal
   label: kopanicakova_2023
   image: 
   description: We propose to enhance the training of physics-informed neural networks (PINNs). To this aim, we introduce nonlinear additive and multiplicative preconditioning strategies for the widely used L-BFGS optimizer. The nonlinear preconditioners are constructed by utilizing the Schwarz domain-decomposition framework, where the parameters of the network are decomposed in a layer-wise manner. Through a series of numerical experiments, we demonstrate that both, additive and multiplicative preconditioners significantly improve the convergence of the standard L-BFGS optimizer, while providing more accurate solutions of the underlying partial differential equations. Moreover, the additive preconditioner is inherently parallel, thus giving rise to a novel approach to model parallelism.
@@ -63,14 +71,6 @@
           archivePrefix="arXiv",
           eprint={2306.17648},
         }
-
-
-        
-
-
-
-
-
 
 
 
