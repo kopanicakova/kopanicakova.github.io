@@ -26,7 +26,7 @@
   label: trotti_23
   image: 
   description: 
-  authors: A. Kopaničáková, G. Em Karniadakis
+  authors: S. Cruz, K. Trotti, A. Kopaničáková, R. Krause
   link_pre:
     url: https://arxiv.org/abs/2312.13677
     display: 2312.13677 (2023)
@@ -35,7 +35,7 @@
     display: Under review.
   bibtex: |
         @unpublished{trotti_23,
-          title = {{DeepONet Based Preconditioning Strategies for Solving Parametric Linear Systems of Equations}},
+          title = {{Parallel Trust-Region Approaches in Neural Network Training: Beyond Traditional Methods}},
           author  = {Cruz, Samuel and Trotti, Ken and Kopani{\v c}{\'a}kov{\'a}, Alena and Krause, Rolf},
           year={2023},
           archivePrefix="arXiv",
