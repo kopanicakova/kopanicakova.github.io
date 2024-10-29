@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alena Kopanicakova"
 title_separator          : "-"
 name                     : &name "Alena Kopanicakova"
-description              : &description "Researcher"
+description              : &description "Toulouse-INP"
 url                      : https://kopanicakova.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kopanicakova.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alena Kopanicakova"
   avatar           : "profile.jpeg"
-  bio              : "Researcher (Brown University)"
-  location         : "Providence, RI"
+  bio              : "Toulouse-INP/ANITI"
+  location         : "Toulouse, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ch/citations?user=OQqwN7wAAAAJ&hl=en"
-  email            : "alena.kopanicakova@brown.edu"
+  email            : "alena.kopanicakova@toulouse-inp.fr"
   researchgate     : "https://www.researchgate.net/profile/Alena-Kopanicakova"
   uri              :
   bitbucket        :
