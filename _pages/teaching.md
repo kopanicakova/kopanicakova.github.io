@@ -30,17 +30,17 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 </style>
 </head>
 <body>	
-<h3><span style="color:rgb(199, 21, 133)"> Lecture list (substitute lecturer):</span></h3>	
+<h3><span style="color:rgb(199, 21, 133)"> Teaching:</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
 	    	02/2022 – 06/2022
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.)
+	    	Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.), USI, Substitute lecture
 	    </div>
 	</div>
-<h3><span style="color:rgb(199, 21, 133)"> Lecture list (teaching assistant):</span></h3>	
+<h3><span style="color:rgb(199, 21, 133)"> Teaching assistant (USI):</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
 	    	02/2019 – 07/2019 
