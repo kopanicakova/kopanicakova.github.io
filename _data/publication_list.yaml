@@ -1,6 +1,35 @@
+- title: "Blending neural operators and relaxation methods in PDE numerical solvers"
+  year: 2024
+  type: journal
+  label: kopanicakova_2024_4
+  image: 
+  description: Neural networks suffer from spectral bias and have difficulty representing the high-frequency components of a function, whereas relaxation methods can resolve high frequencies efficiently but stall at moderate to low frequencies. We exploit the weaknesses of the two approaches by combining them synergistically to develop a fast numerical solver of partial differential equations (PDEs) at scale. Specifically, we propose HINTS, a hybrid, iterative, numerical and transferable solver by integrating a Deep Operator Network (DeepONet) with standard relaxation methods, leading to parallel efficiency and algorithmic scalability for a wide class of PDEs, not tractable with existing monolithic solvers. HINTS balances the convergence behaviour across the spectrum of eigenmodes by utilizing the spectral bias of DeepONet, resulting in a uniform convergence rate and hence exceptional performance of the hybrid solver overall. Moreover, HINTS applies to large-scale, multidimensional systems; it is flexible with regards to discretizations, computational domain and boundary conditions; and it can also be used to precondition Krylov methods.
+  authors: E. Zhang, A. Kahana, A. Kopaničáková, E. Turkel, R. Ranade, J. Pathak, G. Em Karniadakis
+  link_pre:
+    url: https://arxiv.org/abs/2208.13273
+    display: arXiv:2208.13273 (2024)
+  link_main:
+    url: 
+    display: SIAM Journal on Scientific Computing (SISC)
+  bibtex: |
+        @unpublished{kopanicakova_2024_4,
+          title={Blending neural operators and relaxation methods in PDE numerical solvers},
+          author={Zhang Enrui and Kahana Adar and Kopani{\v c}{\'a}kov{\'a} Alena and Turkel Eli and Ranade Rishikesh and Pathak Jay and Karniadakis George Em},
+          year={2024},
+          journal={Nature Machine Intelligence},
+          year={2024},
+          archivePrefix="arXiv",
+          eprint={2208.13273},
+        }
+
+
+
+
+
+
 - title: "DeepONet Based Preconditioning Strategies for Solving Parametric Linear Systems of Equations"
-  year: 2023
-  type: preprint
+  year: 2024
+  type: journal
   label: kopanicakova_2024_a
   image: 
   description: 
@@ -10,15 +39,16 @@
     display: 2401.02016 (2024)
   link_main:
     url: 
-    display: Under review.
+    display: Accepted for publication in SISC.
   bibtex: |
-        @unpublished{kopanicakova_2024_j1,
+        @article{kopanicakova_2024_j1,
           title = {{DeepONet Based Preconditioning Strategies for Solving Parametric Linear Systems of Equations}},
           author={Kopani{\v c}{\'a}kov{\'a} Alena and Karniadakis George Em},
           year={2024},
           archivePrefix="arXiv",
           eprint={2401.02016},
         }
+
 
 - title: "Parallel Trust-Region Approaches in Neural Network Training: Beyond Traditional Methods"
   year: 2023
@@ -34,7 +64,7 @@
     url: 
     display: Under review.
   bibtex: |
-        @unpublished{trotti_23,
+        @article{trotti_23,
           title = {{Parallel Trust-Region Approaches in Neural Network Training: Beyond Traditional Methods}},
           author  = {Cruz, Samuel and Trotti, Ken and Kopani{\v c}{\'a}kov{\'a}, Alena and Krause, Rolf},
           year={2023},
@@ -45,7 +75,76 @@
 
 
 
+- title: "Two-level Overlapping Additive Schwarz preconditioning for training of scientific machine-learning applications"
+  year: 2024
+  type: preprint
+  label: kopanicakova2024_j3
+  image: 
+  description: 
+  authors: Y.Lee, A. Kopaničáková, G. Karniadakis
+  link_pre:
+    url: https://arxiv.org/abs/2406.10997
+    display: 2406.10997 (2024)
+  link_main:
+    url: 
+    display: Under review.
+  bibtex: |
+        @article{kopanicakova2024_j3,
+          title = {{Two-level Overlapping Additive Schwarz preconditioning for training of scientific machine-learning applications}},
+          author  = {Lee Youngku and Kopani{\v c}{\'a}kov{\'a}, Alena and Karniadakis, George},
+          year={2024},
+          archivePrefix="arXiv",
+          eprint={2312.2406.10997},
+        }
 
+
+
+
+- title: "The limitations of a standard phase-field model in reproducing jointing in sedimentary rock layers"
+  year: 2024
+  type: preprint
+  label: kopanicakova2024_j5
+  image: 
+  description: 
+  authors: E. Pezzuli, P. Zulian, A. Kopaničáková, R. Krause, G. Karniadakis, T. Driesner
+  link_pre:
+    url: https://arxiv.org/abs/2408.14449
+    display: 2408.14449 (2024)
+  link_main:
+    url: 
+    display: Under review.
+  bibtex: |
+        @article{kopanicakova2024_j5,
+          title = {{The limitations of a standard phase-field model in reproducing jointing in sedimentary rock layers.}},
+          author  = {Pezzuli, Edoardo and Zulian, Patrick and Kopani{\v c}{\'a}kov{\'a}, Alena and Krause, Rolf and Driesner, Thomas},
+          year={2024},
+          archivePrefix="arXiv",
+          eprint={2408.14449},
+        }
+
+
+
+- title: "Two-level trust-region method with random subspaces"
+  year: 2024
+  type: preprint
+  label: kopanicakova2024_j6
+  image: 
+  description: 
+  authors: A. Angino, A. Kopaničáková, R. Krause
+  link_pre:
+    url: https://arxiv.org/abs/2409.05479
+    display: 2409.05479 (2024)
+  link_main:
+    url: 
+    display: Under review.
+  bibtex: |
+        @article{kopanicakova2024_j6,
+          title = {{Two-level trust-region method with random subspaces.}},
+          author  = {Angino, Andrea and Kopani{\v c}{\'a}kov{\'a}, Alena and Krause, Rolf},
+          year={2024},
+          archivePrefix="arXiv",
+          eprint={2409.05479},
+        }
 
 
 
@@ -62,12 +161,16 @@
     display: arXiv:2306.17648 (2023)
   link_main:
     url: 
-    display: Accepted for publication in SIAM Journal on Scientific Computing (SISC)
+    display: SIAM Journal on Scientific Computing (SISC)
   bibtex: |
-        @unpublished{kopanicakova_pinnspqn_2023,
+        @article{kopanicakova_pinnspqn_2023,
           title={Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies},
           author={Kopani{\v c}{\'a}kov{\'a} Alena and Kothari Hardik and Karniadakis George Em and Krause Rolf},
           year={2023},
+          journal={SIAM Journal on Scientific Computing},
+          pages={S46--S67},
+          year={2024},
+          publisher={SIAM}          
           archivePrefix="arXiv",
           eprint={2306.17648},
         }
@@ -324,14 +427,15 @@
     display: arXiv:2211.15078 (2022)
   link_main:
     url: http://www.ddm.org/DD27/proceedings/037_60_main_edited.pdf
-    display: Accepted for publication in Domain Decomposition Methods in Science and Engineering XXVII
+    display: Domain Decomposition Methods in Science and Engineering XXVII
   bibtex: |
         @unpublished{Kopanicakova_2022f,
           title={On the use of hybrid coarse-level models in multilevel minimization methods},
           author={Alena Kopaničáková},
+          booktitle={International Conference on Domain Decomposition Methods},
+          pages={303--310},
           year={2022},
-          archivePrefix="arXiv",
-          eprint={2211.15078},
+          organization={Springer}
         }
 
 
@@ -354,9 +458,10 @@
         @unpublished{kothari_raspqn_const_2022,
           title={Nonlinear {S}chwarz preconditioning for nonlinear optimization problems with bound constraints},
           author={Hardik Kothari and Alena Kopaničáková and Rolf Krause},
+          booktitle={International Conference on Domain Decomposition Methods},
+          pages={319--326},
           year={2022},
-          archivePrefix="arXiv",
-          eprint={2211.14780},
+          organization={Springer}
         }
 
 

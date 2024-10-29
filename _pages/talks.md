@@ -9,7 +9,7 @@ author_profile: true
 [T1] **A. Kopaničáková**. Towards trustworthy use of scientific machine-learning in large scale numerical simulations. Plenary talk at 10th European Conference on Numerical Methods in Electromagnetism, 2024<br />
 [T2] **A. Kopaničáková** and G. Karniadakis. DeepOnet Based Preconditioning Strategies For Solving Parametric Linear Systems of Equations. Invited online seminar at CRUNCH group, 2024<br /> 
 [T3] **A. Kopaničáková**. Training deep neural networks using subspace correction methods. Invited talk at TU Delft (Netherlands), 2023<br />
-[T4] **A. Kopaničáková**. Training of deep neural networks using multilevel and domain-decompositon strategies. In- vited talk at the University of Maryland (Baltimore Country), 2023<br />
+[T4] **A. Kopaničáková**. Training of deep neural networks using multilevel and domain-decompositon strategies. Invited talk at the University of Maryland (Baltimore Country), 2023<br />
 [T5] **A. Kopaničáková**, H. Kothari, G. Karniadakis, and R. Krause. Enhancing Training of Deep Neural Networks Using Multilevel and Domain Decomposition Strategies. Invited seminar at Division of Applied Mathematics (Brown, USA), 2023<br />
 [T6] **A. Kopaničáková**. Enhancing Training of Deep Neural Networks Using Multilevel and Domain Decomposition Methods. **Plenary talk,** at International Multigrid Conference 2022<br />
 [T7] **A. Kopaničáková** and R. Krause. Multilevel training of deep neural networks. Invited talk in the machine learning seminar of Legato team (group of Prof. Stéphane Bordas, Université du Luxembourg), 2022<br />
