@@ -52,12 +52,12 @@ author_profile: true
 }
 #picture_half1 {
     display: inline-block;
-    width:33%;
+    width:60%;
     height:auto;
 }
 #picture_half2 {
     display: inline-block;
-    width:60%;
+    width:33%;
     height:auto;
 }
 #div_space {
@@ -69,11 +69,11 @@ author_profile: true
 </head>
 <body>	
 	<div id="wrapper_top">
-	    <div id="picture_half2">  
+	    <div id="picture_half1">  
 	    	<img src="/images/hybrid_methods.png">
 	    </div>
 		<div id="div_space"></div>    
-	    <div id="picture_half1">  
+	    <div id="picture_half2">  
 	    	<br/>
 	    	 <img src="/images/hybrid_preconditioning.png">
 	    </div>
