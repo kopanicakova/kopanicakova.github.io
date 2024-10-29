@@ -35,14 +35,14 @@ author_profile: true
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Teaching load of 96 hours (50% reduction for the 1st year recruits), Toulouse-INP (ENSEEIHT)
-	    </div>		<br />
+	    	Teaching load of 96 hours (50% reduction for the 1st year recruits), Toulouse-INP (ENSEEIHT) <br />
+	    </div>	
 	    <div id="years">  
 	    	02/2022 – 06/2022
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.), USI, Substitute lecturer
+	    	Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.), USI, Substitute lecturer <br />
 	    </div>
 	</div>
 <h3><span style="color:rgb(199, 21, 133)"> Teaching assistant (USI):</span></h3>	
