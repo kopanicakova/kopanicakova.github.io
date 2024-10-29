@@ -80,7 +80,6 @@ author_profile: true
 
 
 
-
 ## <span style="color:rgb(199, 21, 133)"> Nonlinear preconditioning</span>
 <head>
 <style>
