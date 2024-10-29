@@ -11,7 +11,7 @@ Please, don't hesitate to get in touch by sending an email!
 
 
 
-### <span style="color:rgb(199, 21, 133)">Current openings</span>
+### <span style="color:rgb(199, 21, 133)">Openings</span>
 We are currently looking for: 
 <div style="text-align: justify">
 <ul>
