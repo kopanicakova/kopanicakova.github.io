@@ -9,7 +9,7 @@ author_profile: true
 
 <div style="text-align: justify">I serve as the Principal Investigator for the international Chair HAISLED at <a href="https://aniti.univ-toulouse.fr/"><span style="color:rgb(199, 21, 133)">ANITI</span></a>. <br>
 <strong>Co-chairs:</strong> Michael Bauerheim (ISAE-Supaero Toulouse), Paul Novello (IRT Saint-Exupéry Toulouse)
-</div>div>
+</div>
 
 
 ### <span style="color:rgb(199, 21, 133)">Abstract:</span>
