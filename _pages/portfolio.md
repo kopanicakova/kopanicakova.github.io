@@ -52,8 +52,8 @@ author_profile: true
 }
 #picture_half1 {
     display: inline-block;
-    height:5%;
-    width:auto;
+    width:45%;
+    height:auto;
 }
 #picture_half2 {
     display: inline-block;
@@ -73,10 +73,10 @@ author_profile: true
 	    	<img src="/images/hybrid_methods.png">
 	    </div>
 		<div id="div_space"></div>    
-	    <div id="picture_half2">  
+	    <!-- <div id="picture_half2">  
 	    	<br/>
 	    	 <img src="/images/hybrid_preconditioning.png">
-	    </div>
+	    </div> -->
 	</div>
 
 <div style="text-align: justify"><br/> 
