@@ -52,12 +52,12 @@ author_profile: true
 }
 #picture_half1 {
     display: inline-block;
-    width:40%;
+    width:38%;
     height:auto;
 }
 #picture_half2 {
     display: inline-block;
-    width:55%;
+    width:58%;
     height:auto;
 }
 #div_space {
