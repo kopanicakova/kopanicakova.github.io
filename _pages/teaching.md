@@ -36,7 +36,7 @@ author_profile: true
 		<div id="div_space"></div>    
 	    <div id="titles">  
 	    	Teaching load of 96 hours (50% reduction for the 1st year recruits), Toulouse-INP (ENSEEIHT)
-	    </div>		
+	    </div>		<br />
 	    <div id="years">  
 	    	02/2022 – 06/2022
 	    </div>
@@ -100,25 +100,16 @@ author_profile: true
 	    	Enterprise Resource Planning (MSc)
 	    </div>
 	</div>	
-<h3><span style="color:rgb(199, 21, 133)"> Supervised Bachelor theses (BSc in Informatics):</span></h3>	
+<h3><span style="color:rgb(199, 21, 133)"> Mentored Ph.D. students:</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
-	    	09/2021 – 02/2022
+	    	01/2021 – <br /> 
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Stefano Gonçalves,  <em>Implementation of a hybrid data-parallel algorithm for neural network training with reduced communication targeted to GPU-based supercomputers </em>, USI, together with R. Krause (USI) 
+	    	Samuel Cruz, <em>Domain decomposition methods and deep-learning</em>, USI, thesis director: R. Krause (USI) 
 	    </div>
-	</div>	
-	<div id="wrapper">
-	    <div id="years">  
-	    	09/2020 – 07/2021 
-	    </div>
-		<div id="div_space"></div>    
-	    <div id="titles">  
-	    	Filippo Cesana,  <em>Python Front-End for Utopia with Algorithmic Implementations Related to Financial Machine Learning </em>, USI, together with R. Krause (USI) and P. Zulian
-	    </div>
-	</div>			
+	</div>					
 <h3><span style="color:rgb(199, 21, 133)"> Supervised Master theses (MSc in Mathematics/Computational Science):</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
@@ -173,17 +164,26 @@ author_profile: true
 	    <div id="titles">  
 	    	Vanessa Braglia, <em>Multilevel training for neural networks</em>, USI, together with R. Krause (USI) 
 	    </div>
-	</div>		
-<h3><span style="color:rgb(199, 21, 133)"> Mentored Ph.D. students:</span></h3>	
+	</div>	
+<h3><span style="color:rgb(199, 21, 133)"> Supervised Bachelor theses (BSc in Informatics):</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
-	    	01/2021 – <br /> 
+	    	09/2021 – 02/2022
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Samuel Cruz, <em>Domain decomposition methods and deep-learning</em>, USI, thesis director: R. Krause (USI) 
+	    	Stefano Gonçalves,  <em>Implementation of a hybrid data-parallel algorithm for neural network training with reduced communication targeted to GPU-based supercomputers </em>, USI, together with R. Krause (USI) 
 	    </div>
-	</div>				
+	</div>	
+	<div id="wrapper">
+	    <div id="years">  
+	    	09/2020 – 07/2021 
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="titles">  
+	    	Filippo Cesana,  <em>Python Front-End for Utopia with Algorithmic Implementations Related to Financial Machine Learning </em>, USI, together with R. Krause (USI) and P. Zulian
+	    </div>
+	</div>					
 <h3><span style="color:rgb(199, 21, 133)"> Supervised student assistants/interns:</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
