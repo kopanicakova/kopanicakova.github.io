@@ -37,7 +37,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.), USI, Substitute lecture
+	    	Solution and Optimization Methods for Large Scale Problems (MSc/Ph.D.), USI, Substitute lecturer
 	    </div>
 	</div>
 <h3><span style="color:rgb(199, 21, 133)"> Teaching assistant (USI):</span></h3>	
@@ -115,6 +115,24 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 	</div>			
 <h3><span style="color:rgb(199, 21, 133)"> Supervised Master theses (MSc in Mathematics/Computational Science):</span></h3>	
+	<div id="wrapper">
+	    <div id="years">  
+	    	10/2024 – 
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="titles">  
+	    	Laurynas Varnas, <em>Domain decomposition training algorithms for graph neural networks</em>, USI, together with  A. Heinlein (TU Delft), R. Krause 
+	    </div>
+	</div>	
+	<div id="wrapper">
+	    <div id="years">  
+	    	03/2024 – 
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="titles">  
+	    	Mirte van Loenen, <em>Decomposing Graph Neural Networks</em>, TU Delft, together with A. Heinlein (TU Delft)
+	    </div>
+	</div>		
 	<div id="wrapper">
 	    <div id="years">  
 	    	01/2023 – 
