@@ -29,8 +29,8 @@ Successful realization of this project has a potential to pave the way towards e
 <ul>
   <li>Error control for SciML surrogates</li>
   <li>Design of SciML architectures with physical and geometric constraints</li>
-  <li>Design of efficient and parallel training algorithms for SciML</li>
-  <li>Development of hybrid (AI-numerics) solution strategies for large-scale, high-fidelity multiscale and multiphysics problems</li>
+  <li>Design of efficient, accurate and parallel training algorithms for SciML</li>
+  <li>Development of hybrid (AI-numerical) solution strategies for large-scale, high-fidelity multiscale and multiphysics problems</li>
 </ul>
 </div>
 
@@ -40,11 +40,11 @@ Successful realization of this project has a potential to pave the way towards e
 ### <span style="color:rgb(199, 21, 133)">Collaborations:</span>
 <div style="text-align: justify">
 <ul>
-  <li><strong>IRT Saint Exupéry:</strong> Error bounds for SciML surrogates using the Lipschitz constant</li>
-  <li><strong>Airbus, Vitesco, and Liebherr:</strong> Surrogate modeling for industrial design. Collaboration led by P. Novello</li>
-  <li><strong>EPFL (Switzerland, group of P. Fua):</strong> Fully differentiable AI-based pipeline for rapid optimization. Collaboration led by M. Bauerheim</li>
-  <li><strong>Sandia National Laboratories (USA, group of E. Cyr):</strong> Parallel learning algorithms for large-scale machine learning</li>
-  <li><strong>KAUST/Università della Svizzera Italiana/UniDistance (Saudi Arabia/Switzerland, group of R. Krause):</strong> Parallel learning algorithms for large-scale machine learning</li>
+  <li>IRT Saint Exupéry: Error bounds for SciML surrogates using the Lipschitz constant</li>
+  <li>Airbus, Vitesco, and Liebherr: Surrogate modeling for industrial design. Collaboration led by P. Novello</li>
+  <li>EPFL (Switzerland, group of P. Fua): Fully differentiable AI-based pipeline for rapid optimization. Collaboration led by M. Bauerheim</li>
+  <li>Sandia National Laboratories (USA, group of E. Cyr): Parallel learning algorithms for large-scale machine learning</li>
+  <li>KAUST/Università della Svizzera Italiana/UniDistance (Saudi Arabia/Switzerland, group of R. Krause): Parallel learning algorithms for large-scale machine learning</li>
 </ul>
 </div>
 
