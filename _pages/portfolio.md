@@ -52,8 +52,8 @@ author_profile: true
 }
 #picture_half1 {
     display: inline-block;
-    width:auto;
     height:5%;
+    width:auto;
 }
 #picture_half2 {
     display: inline-block;
