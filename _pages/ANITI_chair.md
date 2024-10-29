@@ -17,10 +17,9 @@ author_profile: true
 However, SciML surrogates suffer from absence of the explicit error control, computationally intensive training phase, and the lack of reliability in practice. 
 HAILSED aims to tackle these challenges by: <br>
 <ul>
-  <li> (1) developing novel types of SciML surrogates, the architecture of which incorporates  physical and geometric constraints explicitly, and whose validation error can be controlled <em> a posteriori</em>, </li>
-<li> (2) developing novel training algorithms, which leverage domain-decomposition-based approaches and utilize model parallelism, </li>
-<li> (3) hybridizing SciML surrogates with state-of-the-art numerical solution methods, which will be achieved by developing AI-equipped nonlinear field-split and domain-decomposition-based preconditioning strategies.  </li></ul>
-
+  <li> developing novel types of SciML surrogates, the architecture of which incorporates  physical and geometric constraints explicitly, and whose validation error can be controlled <em> a posteriori</em>, </li>
+<li>  developing novel training algorithms, which leverage domain-decomposition-based approaches and utilize model parallelism, </li>
+<li> hybridizing SciML surrogates with state-of-the-art numerical solution methods, which will be achieved by developing AI-equipped nonlinear field-split and domain-decomposition-based preconditioning strategies.  </li></ul>
 Successful realization of this project has a potential to pave the way towards efficient and error-controlled solution of large-scale multi-physics and multi-scale problems  by combining the efficiency of SciML surrogates with the accuracy and reliability of standard numerical approaches. </div>
 
 
