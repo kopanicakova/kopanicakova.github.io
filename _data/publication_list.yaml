@@ -30,7 +30,7 @@
 - title: "DeepONet Based Preconditioning Strategies for Solving Parametric Linear Systems of Equations"
   year: 2024
   type: journal
-  label: kopanicakova_2024_a
+  label: kopanicakova_2024_j1
   image: 
   description: 
   authors: A. Kopaničáková, G. Em Karniadakis
@@ -152,7 +152,7 @@
 - title: "Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies"
   year: 2023
   type: journal
-  label: kopanicakova_2023
+  label: kopanicakova_pinnspqn_2023
   image: 
   description: We propose to enhance the training of physics-informed neural networks (PINNs). To this aim, we introduce nonlinear additive and multiplicative preconditioning strategies for the widely used L-BFGS optimizer. The nonlinear preconditioners are constructed by utilizing the Schwarz domain-decomposition framework, where the parameters of the network are decomposed in a layer-wise manner. Through a series of numerical experiments, we demonstrate that both, additive and multiplicative preconditioners significantly improve the convergence of the standard L-BFGS optimizer, while providing more accurate solutions of the underlying partial differential equations. Moreover, the additive preconditioner is inherently parallel, thus giving rise to a novel approach to model parallelism.
   authors: A. Kopaničáková, H. Kothari, G. Em Karniadakis, R. Krause
