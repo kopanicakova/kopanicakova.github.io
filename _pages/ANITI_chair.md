@@ -27,10 +27,10 @@ Successful realization of this project has a potential to pave the way towards e
 ### <span style="color:rgb(199, 21, 133)">Research objectives:</span>
 <div style="text-align: justify">
 <ul>
-  <li>Approximation bounds for SciML surrogates</li>
-  <li>Incorporation of physical and geometric constraints into SciML architectures</li>
-  <li>Development of multilevel and domain decomposition algorithms that are robust to sub-sampling noise and can efficiently exploit the underlying structure of deep neural networks</li>
-  <li>Globally convergent hybridization of iterative methods with machine learning approaches</li>
+  <li>Error control for SciML surrogates</li>
+  <li>Design of SciML architectures with physical and geometric constraints</li>
+  <li>Design of efficient and parallel training algorithms for SciML</li>
+  <li>Development of hybrid (AI-numerics) solution strategies for large-scale, high-fidelity multiscale and multiphysics problems</li>
 </ul>
 </div>
 
@@ -50,13 +50,4 @@ Successful realization of this project has a potential to pave the way towards e
 
 
 
-
-### <span style="color:rgb(199, 21, 133)">Targeted scientific results:</span>
-<div style="text-align: justify">
-<ul>
-  <li>Error control for SciML surrogates</li>
-  <li>Efficient and parallel training of SciML</li>
-  <li>Efficient solution strategies for large-scale, high-fidelity multiscale and multiphysics problems</li>
-</ul>
-</div>
 
