@@ -31,7 +31,7 @@ author_profile: true
 <h3><span style="color:rgb(199, 21, 133)"> Teaching:</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
-	    	09/2024 – 07/2025
+	    	2024 – 2025
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
