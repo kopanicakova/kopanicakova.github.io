@@ -69,11 +69,11 @@ author_profile: true
 </head>
 <body>	
 	<div id="wrapper_top">
-	    <div id="picture_half1">  
+	    <div id="picture_half2">  
 	    	<img src="/images/hybrid_methods.png">
 	    </div>
 		<div id="div_space"></div>    
-	    <div id="picture_half2">  
+	    <div id="picture_half1">  
 	    	<br/>
 	    	 <img src="/images/hybrid_preconditioning.png">
 	    </div>
