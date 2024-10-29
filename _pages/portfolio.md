@@ -118,10 +118,8 @@ multi-physics problems. The idea behind these methods is to enhance the converge
 	</div>
 
 <div style="text-align: justify"><br/> 
-Multilevel methods have been originally designed for solving elliptic partial differential equations. Their applicability to non-convex optimization problems was extended by utilizing the trust-region globalization strategy, giving rise to recursive multilevel trust-region methods (RMTR) [Gratton et al. ’08]. I have contributed to the development of RMTR methods by proposing several novel variants that take into account the structure of the underlying optimization problem in order to construct multilevel hierarchy and transfer operators. These methods are unique as they allow for the solution of complex non-convex minimization problems with multigrid efficiency. Moreover, they are also provably globally convergent, thus guaranteeing the success of the nonlinear iteration process.</div>
-</body>
-
-
+Multilevel methods were originally designed for solving elliptic partial differential equations. Their applicability to non-convex optimization problems was extended through the trust-region globalization strategy, leading to the development of recursive multilevel trust-region methods (RMTR) [Gratton et al., ’08]. I actively contribute to the development of RMTR methods by proposing several novel variants aimed at either extending applicability, improving efficiency, or enabling problem-specific optimizations.
+These methods are unique in that they allow for solving complex non-convex minimization problems with multigrid efficiency. Moreover, they are provably globally convergent, ensuring the success of the nonlinear iteration process. </div> </body>
 
 
 
@@ -169,14 +167,15 @@ I actively contribute to the development of scientific software libraries with a
 
 <span style="color:rgb(199, 21, 133, 0.75); font-size: 14px"> Software libraries: </span><br />
 <span style="font-size: 12px">
+<b> DistTraiNN: </b> Model parallel framework for distributed training of deep neural networks <a href="https://bitbucket.org/alena_kopanicakova/disttrainn/" style="color:rgb(199, 21,133,0.75);">Code repository.</a> (Core developer) <br />
+<b> MultiscAI: </b> Stochastic multilevel optimization framework for training ODE-based deep neural
+networks. (Solo developer) <br />
 <b> Utopia: </b> Open-source C++ embedded domain specific language designed for parallel nonlinear solution strategies and finite element analysis. <a href="https://bitbucket.org/zulianp/utopia/src/master/" style="color:rgb(199, 21,133,0.75);">Code repository.</a> (Core developer) <br />
 <b> ROOK: </b> Large-scale finite-element framework for (pressure-induced) phase-field fracture
 simulations. (Solo developer) <br />
-<b> MultiscAI: </b> Stochastic multilevel optimization framework for training ODE-based deep neural
-networks. (Solo developer) <br />
-<b> DistTraiNN: </b> Model parallel framework for distributed training of deep neural networks (Core developer) <br />
 <b> Heart: </b> Parallel framework for inverse problems in electrophysiology. (Contributor)<br />
 </span>
 </body>
+
 
 
