@@ -20,9 +20,8 @@
           year={2024},
           archivePrefix="arXiv",
           eprint={2208.13273},
+          doi = {10.1038/s42256-024-00910-x},
         }
-
-
 
 
 
@@ -173,6 +172,7 @@
           publisher={SIAM}          
           archivePrefix="arXiv",
           eprint={2306.17648},
+          doi = {10.1137/23M1583375},
         }
 
 
