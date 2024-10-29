@@ -41,7 +41,7 @@ author_profile: true
 <div style="text-align: justify"><br/> Deep neural networks (DNNs) suffer from a computationally exhaustive training phase, which limits their applicability and hinders their development. During the training phase, the parameters of the network are determined by minimizing a highly non-convex loss function. My research objective is to enhance the training of DNNs by leveraging multilevel and domain-decomposition techniques. This entails developing novel optimization methods which perform well in large-scale stochastic settings. Thus, developing methods that are memory and computationally efficient and convergence that does not deteriorate in the presence of sub-sampling noise. Moreover, it is important to devise suitable strategies for constructing a hierarchy of subspaces. This can be achieved by exploring the structure of the network's architecture, data representation, and the properties of the loss function. </div> </body>
 
 
-## <span style="color:rgb(199, 21, 133)"> Hybridization of large-scale solution strategies and AI</span>
+## <span style="color:rgb(199, 21, 133)"> Hybridization of large-scale solution strategies with AI techniques</span>
 <head>
 <style>
 #wrapper_top {
