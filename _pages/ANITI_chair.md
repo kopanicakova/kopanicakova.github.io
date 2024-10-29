@@ -12,7 +12,7 @@ author_profile: true
 </div>
 
 
-### <span style="color:rgb(199, 21, 133)">Abstract:</span>
+### <span style="color:rgb(199, 21, 133)">Short-description:</span>
 <div style="text-align: justify">Recently, scientific machine learning (SciML) has expanded the capabilities of traditional numerical approaches, by simplifying computational modeling and providing cost-effective surrogates.
 However, SciML surrogates suffer from absence of the explicit error control, computationally intensive training phase, and the lack of reliability in practice. 
 HAILSED aims to tackle these challenges by <br>
