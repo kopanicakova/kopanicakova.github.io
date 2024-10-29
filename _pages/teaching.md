@@ -37,6 +37,8 @@ author_profile: true
 	    <div id="titles">  
 	    	Teaching load of 96 hours (50% reduction for the 1st year recruits), Toulouse-INP (ENSEEIHT) <br />
 	    </div>	
+	    </div>	
+	<div id="wrapper">	    
 	    <div id="years">  
 	    	02/2022 – 06/2022
 	    </div>
