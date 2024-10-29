@@ -95,14 +95,14 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    	Enterprise Resource Planning (MSc)
 	    </div>
 	</div>	
-<h3><span style="color:rgb(199, 21, 133)"> Co-supervised Bachelor theses (BSc in Informatics):</span></h3>	
+<h3><span style="color:rgb(199, 21, 133)"> Supervised Bachelor theses (BSc in Informatics):</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
 	    	09/2021 – 02/2022
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Stefano Gonçalves,  <em>Implementation of a hybrid data-parallel algorithm for neural network training with reduced communication targeted to GPU-based supercomputers </em>
+	    	Stefano Gonçalves,  <em>Implementation of a hybrid data-parallel algorithm for neural network training with reduced communication targeted to GPU-based supercomputers </em>, USI, together with R. Krause 
 	    </div>
 	</div>	
 	<div id="wrapper">
@@ -111,17 +111,17 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Filippo Cesana,  <em>Python Front-End for Utopia with Algorithmic Implementations Related to Financial Machine Learning </em>, together with Dr. P. Zulian (USI)
+	    	Filippo Cesana,  <em>Python Front-End for Utopia with Algorithmic Implementations Related to Financial Machine Learning </em>, USI, together with R. Krause and P. Zulian
 	    </div>
 	</div>			
-<h3><span style="color:rgb(199, 21, 133)"> Co-supervised Master theses (MSc in Mathematics/Computational Science):</span></h3>	
+<h3><span style="color:rgb(199, 21, 133)"> Supervised Master theses (MSc in Mathematics/Computational Science):</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
 	    	01/2023 – 
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Marc Salvado, <em>Multilevel approaches for enhancing the training of transformers</em>
+	    	Marc Salvado, <em>Multilevel approaches for enhancing the training of transformers</em>, USI, together with R. Krause 
 	    </div>
 	</div>	
 	<div id="wrapper">
@@ -130,7 +130,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Andrea Angino, <em>Knight descent - a parallel stochastic method for non-linear optimization problems</em>, together with Prof. M. Donatelli (Insubria, Como, Italy)
+	    	Andrea Angino, <em>Knight descent - a parallel stochastic method for non-linear optimization problems</em>, USI, together with R. Krause and M. Donatelli (Insubria, Como, Italy)
 	    </div>
 	</div>	
 	<div id="wrapper">
@@ -139,7 +139,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Samuel Cruz, <em>Learning multilevel hierarchies</em>
+	    	Samuel Cruz, <em>Learning multilevel hierarchies</em>, USI, together with R. Krause 
 	    </div>
 	</div>	
 	<div id="wrapper">
@@ -148,27 +148,27 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Vanessa Braglia, <em>Multilevel training for neural networks</em>
+	    	Vanessa Braglia, <em>Multilevel training for neural networks</em>, USI, together with R. Krause 
 	    </div>
 	</div>		
-<h3><span style="color:rgb(199, 21, 133)"> Co-mentored Ph.D. students:</span></h3>	
+<h3><span style="color:rgb(199, 21, 133)"> Mentored Ph.D. students:</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
 	    	01/2021 – <br /> 
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Samuel Cruz, <em>Domain decomposition methods and deep-learning</em> 
+	    	Samuel Cruz, <em>Domain decomposition methods and deep-learning</em>, USI, thesis director: R. Krause 
 	    </div>
 	</div>				
-<h3><span style="color:rgb(199, 21, 133)"> Co-supervised student assistants/interns:</span></h3>	
+<h3><span style="color:rgb(199, 21, 133)"> Supervised student assistants/interns:</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
 	    	02/2022 – 
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Marc Salvadó, <em>Layer parallel training of transformers</em> 
+	    	Marc Salvadó, <em>Layer parallel training of transformers</em>, USI, together with R. Krause 
 	    </div>
 	</div>	
 	<div id="wrapper">
@@ -177,7 +177,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    		    	Francesco Lacommare, <em>Multilevel variant of Adam optimizer</em> 
+	    		    	Francesco Lacommare, <em>Multilevel variant of Adam optimizer</em>, USI, together with R. Krause 
 	    </div>
 	</div>	
 	<div id="wrapper">
@@ -186,7 +186,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Filippo Cesana, <em>Python interface for UTOPIA</em>, together with Dr. P. Zulian (USI) 
+	    	Filippo Cesana, <em>Python interface for UTOPIA</em>, USI, together with P. Zulian and R. Krause
 	    </div>
 	</div>	
 	<div id="wrapper">
@@ -195,7 +195,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Dylan Ramelli, <em>xSDK integration for UTOPIA</em>, together with Dr. P. Zulian (USI) 
+	    	Dylan Ramelli, <em>xSDK integration for UTOPIA</em>, USI, together with P. Zulian and R. Krause
 	    </div>
 	</div>	
 	<div id="wrapper">
@@ -204,7 +204,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Nicholas Robertson, <em>Domain decomposition and machine learning</em> 
+	    	Nicholas Robertson, <em>Domain decomposition and machine learning</em>, USI, together with R. Krause  
 	    </div>
 	</div>	
 	<div id="wrapper">
@@ -213,7 +213,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Lisa Gaedke-Merzhauser, <em>Multilevel training of deep residual networks</em> 
+	    	Lisa Gaedke-Merzhauser, <em>Multilevel training of deep residual networks</em>, USI, together with R. Krause  
 	    </div>
 	</div>	
 	<div id="wrapper">
@@ -222,7 +222,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Samuel Cruz, <em>Learning multigrid transfer operators using reinforcement learning</em>
+	    	Samuel Cruz, <em>Learning multigrid transfer operators using reinforcement learning</em>, USI, together with R. Krause 
 	    </div>
 	</div>	
 	<div id="wrapper">
@@ -231,7 +231,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Vanessa Braglia, <em>Multilevel variance reduction methods</em>
+	    	Vanessa Braglia, <em>Multilevel variance reduction methods</em>, USI, together with R. Krause 
 	    </div>
 	</div>	
 	<div id="wrapper">
@@ -240,7 +240,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
-	    	Eric Botter, <em>Continous integration using CDash</em>
+	    	Eric Botter, <em>Continous integration using CDash</em>, USI, together with R. Krause 
 	    </div>
 	</div>										
 </body>
