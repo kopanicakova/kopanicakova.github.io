@@ -53,7 +53,7 @@ author_profile: true
 #picture_half1 {
     display: inline-block;
     width:auto;
-    height:20%;
+    height:5%;
 }
 #picture_half2 {
     display: inline-block;
