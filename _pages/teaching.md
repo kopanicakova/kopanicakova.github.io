@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-During my stay at Università della Svizzera italiana (USI), I have co-supervised (senior advisor Prof. R. Krause (USI)) several junior researchers and served as a teaching assistant and substitute lecturer. 
-
 <head>
 <style>
 #wrapper {
@@ -32,6 +30,13 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 <body>	
 <h3><span style="color:rgb(199, 21, 133)"> Teaching:</span></h3>	
 	<div id="wrapper">
+	    <div id="years">  
+	    	09/2024 – 07/2025
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="titles">  
+	    	Teaching load of 96 hours (50% reduction for the 1st year recruits), Toulouse-INP (ENSEEIHT)
+	    </div>		
 	    <div id="years">  
 	    	02/2022 – 06/2022
 	    </div>
@@ -135,7 +140,7 @@ During my stay at Università della Svizzera italiana (USI), I have co-supervise
 	</div>		
 	<div id="wrapper">
 	    <div id="years">  
-	    	01/2023 – 
+	    	01/2023 – 09/2023
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
