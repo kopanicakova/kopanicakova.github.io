@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ### <span style="color:rgb(199, 21, 133)">Plenary talks and invited seminars</span>
-[T1] **A. Kopaničáková**. Towards trustworthy use of scientific machine-learning in large scale numerical simulations. Plenary talk at 10th European Conference on Numerical Methods in Electromagnetism, 2024
-[T2] **A. Kopaničáková** and G. Karniadakis. DeepOnet Based Preconditioning Strategies For Solving Parametric Linear Systems of Equations. Invited online seminar at CRUNCH group, 2024
+[T1] **A. Kopaničáková**. Towards trustworthy use of scientific machine-learning in large scale numerical simulations. Plenary talk at 10th European Conference on Numerical Methods in Electromagnetism, 2024<br />
+[T2] **A. Kopaničáková** and G. Karniadakis. DeepOnet Based Preconditioning Strategies For Solving Parametric Linear Systems of Equations. Invited online seminar at CRUNCH group, 2024<br /> 
 [T3] **A. Kopaničáková**. Training deep neural networks using subspace correction methods. Invited talk at TU Delft (Netherlands), 2023<br />
 [T4] **A. Kopaničáková**. Training of deep neural networks using multilevel and domain-decompositon strategies. In- vited talk at the University of Maryland (Baltimore Country), 2023<br />
 [T5] **A. Kopaničáková**, H. Kothari, G. Karniadakis, and R. Krause. Enhancing Training of Deep Neural Networks Using Multilevel and Domain Decomposition Strategies. Invited seminar at Division of Applied Mathematics (Brown, USA), 2023<br />
