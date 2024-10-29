@@ -7,7 +7,7 @@ author_profile: true
 
 
 I am always on the lookout for motivated students interested in bachelor/master’s theses, M2/L2 stages, internships or collaborative research projects. 
-Please, don't hesitate to get in touch by sending an email!
+Please, don't hesitate to get in touch.
 
 
 
