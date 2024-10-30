@@ -43,9 +43,10 @@ author_profile: true
 [T32] **A. Kopaničáková** and R. Krause. A non-linear multilevel method for phase-field fracture models. The Platform for Advanced Scientific Computing (PASC) Conference, 2017<br />
 
 
-### <span style="color:rgb(199, 21, 133)">Posters:</span>
+<!-- ### <span style="color:rgb(199, 21, 133)">Posters:</span>
 [P1] **A. Kopaničáková**, S. Cruz, H. Kothari, and R. Krause. Distributed Training of Deep Neural Networks. The
 Platform for Advanced Scientific Computing (PASC) Conference, 2022<br />
 [P2] P. Zulian, **A. Kopaničáková**, M. Nestola, D. Ganellari, N. Fadel, J. VandeVondele, and R. Krause. Utopia: a Hardware Portable Library for Large Scale Simulations in Computational Geophysics. The Platform for Advanced Scientific Computing (PASC) Conference, 2022<br />
 [P3] P. Zulian, **A. Kopaničáková**, M. G. C. Nestola, and R. Krause. Open-source software library for non-conforming domain decomposition methods targeting computational energy. The Future Swiss Electrical Infrastructure (SCCER-FURIES) Annual Conference, 2019<br />
 [P4] P. Zulian, M. G. C. Nestola, **A. Kopaničáková**, and R. Krause. Fluid-structure interaction methods and software libraries for in-silico analysis of the aortic heart valve. Towards the Digital Twin (TRM) Forum, 2019<br />
+ -->
