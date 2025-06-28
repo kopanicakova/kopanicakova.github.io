@@ -103,15 +103,6 @@ author_profile: true
 	    </div>
 	</div>	
 <h3><span style="color:rgb(199, 21, 133)"> Mentored Ph.D. students:</span></h3>	
-	<div id="wrapper">
-	    <div id="years">  
-	    	01/2021 – <br /> 
-	    </div>
-		<div id="div_space"></div>    
-	    <div id="titles">  
-	    	Samuel Cruz, <em>Domain decomposition methods and deep-learning</em>, USI, thesis director: R. Krause (KAUST) 
-	    </div>
-	</div>					
 		<div id="wrapper">
 	    <div id="years">  
 	    	09/2024 – <br /> 
@@ -120,7 +111,7 @@ author_profile: true
 	    <div id="titles">  
 	    	Marc Salvado, <em>Parallel training algorithms for transformers</em>, USI/UniDistance, thesis director: R. Krause (KAUST) 
 	    </div>
-	</div>					
+	</div>		
 	<div id="wrapper">
 	    <div id="years">  
 	    	03/2025 – <br /> 
@@ -129,11 +120,20 @@ author_profile: true
 	    <div id="titles">  
 	    	Aymane Kssime, <em>Parallel training algorithms for scientific machine-learning</em>, Toulouse-INP/ANITI, co-advised with S. Gratton
 	    </div>
-	</div>						
+	</div>		
+	<div id="wrapper">
+	    <div id="years">  
+	    	01/2021 – <br /> 
+	    </div>
+		<div id="div_space"></div>    
+	    <div id="titles">  
+	    	Samuel Cruz, <em>Domain decomposition methods and deep-learning</em>, USI, thesis director: R. Krause (KAUST) 
+	    </div>
+	</div>														
 <h3><span style="color:rgb(199, 21, 133)"> Supervised Master theses (MSc in Mathematics/Computational Science):</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
-	    	04/2025 – 10/2025
+	    	04/2025 – 
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
@@ -207,7 +207,7 @@ author_profile: true
 <h3><span style="color:rgb(199, 21, 133)"> Supervised student assistants/interns:</span></h3>	
 	<div id="wrapper">
 	    <div id="years">  
-	    	04/2025 – 09/2025
+	    	04/2025 – 
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
@@ -216,7 +216,7 @@ author_profile: true
 	</div>	
 	<div id="wrapper">
 	    <div id="years">  
-	    	06/2025 – 08/2025
+	    	06/2025 – 
 	    </div>
 		<div id="div_space"></div>    
 	    <div id="titles">  
