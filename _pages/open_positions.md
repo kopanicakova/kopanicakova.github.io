@@ -15,8 +15,8 @@ Please, don't hesitate to get in touch.
 We are currently looking for: 
 <div style="text-align: justify">
 <ul>
-  <li>PhD student in large scale training algorithms (3 years), see <a href="https://aniti.univ-toulouse.fr/wp-content/uploads/2024/09/HAILSED_PhD_position-1.pdf"><span style="color:rgb(199, 21, 133)">description</span></a></li>
-  <li>Postdoctoral researcher in hybrid - AI enhanced - large scale linear and nonlinear iterative methods (1 year)</li>
-  <li>Intern/Stage in hybrid algorithms (5/6 months), see <a href="https://aniti.univ-toulouse.fr/wp-content/uploads/2024/11/description.pdf"><span style="color:rgb(199, 21, 133)">description</span></a></li>  
+  <li> M2 intern and PhD student in Parallel training algorithms for Graph Neural Networks (GNNs), see <a href="../files/description_internship_HAISLED_1.pdf" style="color:rgb(199, 21, 133,0.75);">description</a></li>
+  <li> M2 intern in AI-augmented iterative methods with applications to large-scale industrial fluid simulations (5/6 months, in collaboration with ICON company), see <a href="../files/description_internship_HAISLED_2.pdf" style="color:rgb(199, 21, 133,0.75);">description</a>
+  </li>  
 </ul>
 </div>
