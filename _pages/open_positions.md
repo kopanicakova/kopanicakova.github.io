@@ -18,5 +18,7 @@ We are currently looking for:
   <li> M2 intern and PhD student in Parallel training algorithms for Graph Neural Networks (GNNs), see <a href="../files/description_internship_HAISLED_1.pdf" style="color:rgb(199, 21, 133,0.75);">description</a></li>
   <li> M2 intern in AI-augmented iterative methods with applications to large-scale industrial fluid simulations (5/6 months, in collaboration with ICON company), see <a href="../files/description_internship_HAISLED_2.pdf" style="color:rgb(199, 21, 133,0.75);">description</a>
   </li>  
+  <li> M2 intern in Scalable Optimization Algorithms for Meta-learning (5/6 months), see <a href="../files/Stage_sujet_Optim.pdf" style="color:rgb(199, 21, 133,0.75);">description</a>
+  </li>    
 </ul>
 </div>
